@@ -54,11 +54,14 @@ pdf:        './publications/2017_mohammed_abstractocyte.pdf'
 
 #insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
 citation:   >
-  @article{Mohammed2017Abstractocyte,<br>
+  @article{Mohammed2018Abstractocyte,<br>
    &emsp;title = {Abstractocyte: A Visual Tool for Exploring Nanoscale Astroglial Cells},<br>
    &emsp;author = {Mohammed, Haneen and Al-Awami, Ali K. and Beyer, Johanna and Cali, Corrado and Magistretti, Pierre and Pfister, Hanspeter and Hadwiger, Markus},<br>
-   &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE SciVis 2017)},<br>
-   &emsp;year = {2017}<br>
+   &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2017)},<br>
+   &emsp;year = {2018}<br>
+   &emsp;volume = {24},<br>
+   &emsp;number = {1},<br>
+   &emsp;pages = {to appear}<br>
   }
 
 #insert links to additional material for the publication (optional)

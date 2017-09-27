@@ -54,11 +54,14 @@ pdf:        './publications/2017_ibrahim_SNDF.pdf'
 
 #insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
 citation:   >
-  @article{Ibrahim2017SNDFs,<br>
+  @article{Ibrahim2018SNDFs,<br>
    &emsp;title = {Screen-Space Normal Distribution Function Caching for Consistent Multi-Resolution Rendering of Large Particle Data},<br>
    &emsp;author = {Ibrahim, Mohamed and Wickenh\"{a}user, Patrick and Rautek, Peter and Reina, Guido and Hadwiger, Markus},<br>
-   &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE SciVis 2017)},<br>
-   &emsp;year = {2017}<br>
+   &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2017)},<br>
+   &emsp;year = {2018}<br>
+   &emsp;volume = {24},<br>
+   &emsp;number = {1},<br>
+   &emsp;pages = {to appear}<br>
   }
   
 #insert links to additional material for the publication (optional)

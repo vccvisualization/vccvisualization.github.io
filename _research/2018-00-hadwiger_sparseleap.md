@@ -53,12 +53,15 @@ pdf:        './publications/2017_hadwiger_sparseleap.pdf'
 
 #insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
 citation:   >
-   @article{Hadwiger2017Sparseleap,<br>
+  @article{Hadwiger2018SparseLeap,<br>
    &emsp;title = {SparseLeap: Efficient Empty Space Skipping for Large-Scale Volume Rendering},<br>
    &emsp;author = {Hadwiger, Markus and Al-Awami, Ali K. and Beyer, Johanna and Agus, Marco and Pfister, Hanspeter},<br>
-   &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE SciVis 2017)},<br>
-   &emsp;year = {2017}<br>
-   }
+   &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2017)},<br>
+   &emsp;year = {2018}<br>
+   &emsp;volume = {24},<br>
+   &emsp;number = {1},<br>
+   &emsp;pages = {to appear}<br>
+  }
 
 #insert links to additional material for the publication (optional)
 #links need a title, a URL and a type (this defines the link icon) which can be one of the following values: code, archive, files, slides or text (this is the default icon)

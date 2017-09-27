@@ -27,7 +27,7 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   Computer Graphics Forum, Vol.34, No.3 (Proceedings of Eurographics/IEEE Symposium on Visualization, Eurovis 2015), pp. 401-410
+   Computer Graphics Forum, Vol.34, No.3 (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2015), pp. 401-410
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
@@ -55,13 +55,13 @@ pdf:        './publications/2015_aboulhassan_bhjbottlenecks.pdf'
 #insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
 citation:   >
   @article{Aboulhassan2015Novel,<br>
-   &emsp;author = {Aboulhassan, Amal and Baum, Daniel and Wodo, Olga and Ganapathysubramanian, Baskar and Amassian, Aram and Hadwiger, Markus},<br>
    &emsp;title = {A Novel Framework for Visual Detection and Exploration of Performance Bottlenecks in Organic Photovoltaic Solar Cell Materials},<br>
-   &emsp;journal = {Computer Graphics Forum},<br>
+   &emsp;author = {Aboulhassan, Amal and Baum, Daniel and Wodo, Olga and Ganapathysubramanian, Baskar and Amassian, Aram and Hadwiger, Markus},<br>
+   &emsp;journal = {Computer Graphics Forum (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2015)},<br>
+   &emsp;year = {2015}<br>
    &emsp;volume = {34},<br>
    &emsp;number = {3},<br>
    &emsp;pages = {401--410},<br>
-   &emsp;year = {2015}<br>
   }
 
 #insert links to additional material for the publication (optional)

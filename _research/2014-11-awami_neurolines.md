@@ -58,13 +58,11 @@ citation:   >
   @article{Awami2014Neurolines,<br>
    &emsp;title = {NeuroLines: A Subway Map Metaphor for Visualizing Nanoscale Neuronal Connectivity},<br>
    &emsp;author = {Al-Awami, Ali K. and Beyer, Johanna and Strobelt, Hendrik and Kasthuri, Narayanan and Lichtman, Jeff W. and Pfister, Hanspeter and Hadwiger, Markus},<br>
-   &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE InfoVis 2014)},<br>
+   &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Information Visualization 2014)},<br>
    &emsp;year = {2014},<br>
    &emsp;volume = {20},<br>
    &emsp;number = {12},<br>
    &emsp;pages = {2369--2378},<br>
-   &emsp;year = {2014},<br>
-   &emsp;publisher = {IEEE}<br>
   }
   
 #insert links to additional material for the publication (optional)

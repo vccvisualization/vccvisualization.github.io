@@ -25,7 +25,7 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   IEEE Transactions on Visualization and Computer Graphics, Vol.20, No.12 (Proceedings of IEEE Scientifc Visualization 2014), pp. 2417-2426
+   IEEE Transactions on Visualization and Computer Graphics, Vol.20, No.12 (Proceedings IEEE Scientifc Visualization 2014), pp. 2417-2426
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
@@ -53,13 +53,13 @@ pdf:        './publications/2014_sicat_spdfvolumes.pdf'
 #insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
 citation:   >
   @article{Sicat2014SPDFVolumes,<br>
-   &emsp;author = {Sicat, Ronell and Kr{\"u}ger, Jens and M{\"o}ller, Torsten and Hadwiger, Markus},<br>
-   &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics},<br>
    &emsp;title = {Sparse PDF Volumes for Consistent Multi-Resolution Volume Rendering},<br>
+   &emsp;author = {Sicat, Ronell and Kr{\"u}ger, Jens and M{\"o}ller, Torsten and Hadwiger, Markus},<br>
+   &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientifc Visualization 2014)},<br>
    &emsp;year = {2014},<br>
    &emsp;volume = {20},<br>
    &emsp;number = {12},<br>
-   &emsp;pages = {2417-2426}<br>
+   &emsp;pages = {2417--2426}<br>
   }
 
 #insert links to additional material for the publication (optional)

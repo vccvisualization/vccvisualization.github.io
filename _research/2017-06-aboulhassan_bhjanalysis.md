@@ -26,7 +26,7 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   Computer Graphics Forum, Vol.36, No.3 (Proceedings of Eurographics/IEEE Symposium on Visualization, Eurovis 2017), pp. 329-339
+   Computer Graphics Forum, Vol.36, No.3 (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2017), pp. 329-339
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
@@ -53,10 +53,10 @@ pdf:        './publications/2017_aboulhassan_bhjanalysis.pdf'
 
 #insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
 citation:   >
-  @article{Abouhassan2017BHJ,<br>
+  @article{Abouhassan2017BHJAnalysis,<br>
    &emsp;author = {Aboulhassan, Amal and Sicat, Ronell and Baum, Daniel and Wodo, Olga and Hadwiger, Markus},<br>
    &emsp;title = {Comparative Visual Analysis of Structure-Performance Relations in Complex Bulk-Heterojunction Morphologies},<br>
-   &emsp;journal = {Computer Graphics Forum},<br>
+   &emsp;journal = {Computer Graphics Forum (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2017},<br>
    &emsp;volume = {36},<br>
    &emsp;number = {3},<br>
    &emsp;pages = {329--339},<br>

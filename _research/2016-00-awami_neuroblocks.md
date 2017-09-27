@@ -28,7 +28,7 @@ authors:
 
 #insert publication venue (displayed on publication page)
 venue:      >
-   IEEE Transactions on Visualization and Computer Graphics, Vol.22, No.1 (Proceedings IEEE Infoformation Visualization 2015), pp. 738-746
+   IEEE Transactions on Visualization and Computer Graphics, Vol.22, No.1 (Proceedings IEEE Scientific Visualization 2015), pp. 738-746
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
@@ -55,11 +55,11 @@ pdf:        './publications/2015_awami_neuroblocks.pdf'
 
 #insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
 citation:   >
-  @article{Awami2015Neuroblocks,<br>
+  @article{Awami2016Neuroblocks,<br>
    &emsp;title = {NeuroBlocks - Visual Tracking of Segmentation and Proofreading for Large Connectomics Projects},<br>
    &emsp;author = {Al-Awami, Ali K. and Beyer, Johanna and Haehn, Daniel and Kasthuri, Narayanan and Lichtman, Jeff W. and Pfister, Hanspeter and Hadwiger, Markus},<br>
-   &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE SciVis 2015)},<br>
-   &emsp;year = {2015},<br>
+   &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2015)},<br>
+   &emsp;year = {2016},<br>
    &emsp;volume = {22},<br>
    &emsp;number = {1},<br>
    &emsp;pages = {738--746}<br>

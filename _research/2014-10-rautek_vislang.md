@@ -55,12 +55,11 @@ citation:   >
   @article{Rautek2014Vislang,<br>
    &emsp;title = {ViSlang: A system for interpreted domain-specific languages for scientific visualization},<br>
    &emsp;author = {Rautek, Peter and Bruckner, Stefan and Gr{\"o}ller, M Eduard and Hadwiger, Markus},<br>
-   &emsp;journal = {IEEE transactions on visualization and computer graphics},<br>
+   &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientifc Visualization 2014)},<br>
+   &emsp;year = {2014},<br>
    &emsp;volume = {20},<br>
    &emsp;number = {12},<br>
    &emsp;pages = {2388--2396},<br>
-   &emsp;year = {2014},<br>
-   &emsp;publisher = {IEEE}
   }
 
 #insert links to additional material for the publication (optional)
