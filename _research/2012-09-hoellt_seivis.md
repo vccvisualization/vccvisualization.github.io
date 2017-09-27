@@ -54,7 +54,7 @@ pdf:        './publications/2012_hoellt_seivis.pdf'
 
 #insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
 citation:   >
-  @article{Hadwiger2012Petascale,<br>
+  @article{Hoellt2012Seivis,<br>
    &emsp;title = {SeiVis: An Interactive Visual Subsurface Modeling Application},<br>
    &emsp;author = {H{\"o}llt, Thomas and Freiler, Wolfgang and Gschwantner, Fritz M. and Doleisch, Helmut and Heinemann, Gabor and Hadwiger, Markus},<br>
    &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2012)},<br>
