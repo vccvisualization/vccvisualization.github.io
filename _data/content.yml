@@ -1,0 +1,27 @@
+top:
+    header: <strong>High-Performance Visualization</strong><br><a href="http://vcc.kaust.edu.sa">Visual Computing Center, KAUST</a>
+    images:
+     - url: images/group2.jpg
+     - url: images/kaust2.jpg
+about:
+    header: We perform fundamental and applied research<br>in visualization and visual computing.
+    text:   We specifically focus on the visualization of extreme-scale data, volume visualization, large-scale image and volume processing, multi-resolution techniques, data streaming and out-of-core processing, domain-specific languages for visualization, interactive segmentation, and GPU algorithms and architecture.
+
+people:
+    header: People
+alumni:
+    header: Alumni
+research:
+    header: Selected Publications
+    text:   Browse selected publications here. See farther down for a full list of publications.
+
+teaching:
+    header: Teaching
+    text:   We are currently teaching the following courses at KAUST.
+    
+google_maps:
+    key:    AIzaSyBwLdpIUNeh__iQvrWCmyeo1fCViwIsA3U
+    
+#google_analytics:
+#    key:    xxxx
+

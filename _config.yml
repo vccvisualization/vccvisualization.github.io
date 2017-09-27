@@ -1,0 +1,9 @@
+name: KAUST VCC Visualization
+title: KAUST High-Performance Visualization group
+collections: 
+  research:
+    output: true
+    permalink: /:collection/:title/
+  people:
+    output: true
+    permalink: /:collection/:title/

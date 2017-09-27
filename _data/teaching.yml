@@ -1,0 +1,7 @@
+- name: 'CS 380: GPU and GPGPU Programming'
+  text: 'This course is held each fall semester and covers the architecture and programming of GPUs (Graphics Processing Units). Covers both the traditional use of GPUs for graphics and visualization, as well as their use for general purpose computations (GPGPU). GPU many-core hardware architectures, shading and compute programming languages and APIs, programming vertex, geometry, and fragment shaders, programming with CUDA, Brook, OpenCL, stream computing, approaches to massively parallel computations, memory subsystems and caches, rasterization, texture mapping, linear algebra computations, alternative and future architectures.'
+  image: './images/CS380_04.jpg'
+
+- name: 'AMCS / CS 247: Scientific Visualization'
+  text: 'This course is held each spring semester and covers the basics and applications of scientific visualization. Techniques for generating images and interactive visualizations of various types of experimentally measured, computer generated, or gathered data. Grid structures. Scalar field and volume visualization. Vector field and flow visualization. Tensor visualization. Applications in science, engineering, and medicine.'
+  image: './images/CS247_01.jpg'

@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>{{ page.title }} | {{ site.title }}</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="shortcut icon" type="image/x-icon" href={{"images/favicon.ico"| absolute_url }} />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+        <!--<link rel="stylesheet" href="assets/css/font-awesome.min.css">-->
+        <!--<link rel="stylesheet" href="assets/css/academicons.css"/>-->
+        <link rel="stylesheet" href={{"assets/css/icons.css"| absolute_url }} type="text/css" media="screen" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<link rel="stylesheet" href={{"assets/css/jquery.modal.css"| absolute_url }} type="text/css" media="screen" />
+		<link rel="stylesheet" type="text/css" href={{"assets/css/slick.css" | absolute_url }} type="text/css" media="screen"/>
+		<link rel="stylesheet" type="text/css" href={{"assets/css/slick-theme.css"| absolute_url }} type="text/css" media="screen"/>
+		<link rel="stylesheet" href={{"assets/css/main.css" | absolute_url }} type="text/css" media="screen"/>
+	</head>
+	<body>
+<!-- Navigation -->
+		<nav id="nav">
+			<ul class="container">				
+				<p class="navtitle"><a href={% if page.url == "/" %}"#top"{% else %}{{"index.html#top"| absolute_url }}{% endif %}>{{ site.title }}</a></p>
+				<div class="navitems">
+					<li><a href={% if page.url == "/" %}"#about"{% else %}{{"index.html#about"| absolute_url }}{% endif %}>About us</a></li>
+					<li><a href={% if page.url == "/" %}"#people"{% else %}{{"index.html#people"| absolute_url }}{% endif %}>People</a></li>
+					<li><a href={% if page.url == "/" %}"#research"{% else %}{{"index.html#research"| absolute_url }}{% endif %}>Research</a></li>
+					<li><a href={% if page.url == "/" %}"#teaching"{% else %}{{"index.html#teaching"| absolute_url }}{% endif %}>Teaching</a></li>
+				</div>
+				<div class="logo"><a href="http://www.kaust.edu.sa" title="KAUST Website" target="_blank" rel="noopener"><img src={{ "images/KAUST.png" | absolute_url }} alt="" /></a></div>
+			</ul>
+		</nav>
+		<!-- Scripts -->
+		<script src={{ "assets/js/jquery.min.js" | absolute_url }} type="text/javascript" charset="utf-8"></script>		
+		<script src={{ "assets/js/jquery.modal.js" | absolute_url }} type="text/javascript" charset="utf-8"></script>
+		<script src={{ "assets/js/jquery.scrolly.min.js" | absolute_url }} type="text/javascript" charset="utf-8"></script>
+		<script src={{ "assets/js/skel.min.js" | absolute_url }} type="text/javascript" charset="utf-8"></script>
+		<script src={{ "assets/js/skel-viewport.min.js" | absolute_url }} type="text/javascript" charset="utf-8"></script>
+		<script src={{ "assets/js/main.js" | absolute_url }} type="text/javascript" charset="utf-8"></script>
+		<script src={{ "assets/js/slick.min.js" | absolute_url }} type="text/javascript" charset="utf-8"></script>
+		
+		{{content}}
+		<!-- SECTION Contact -->
+		<div id="contact" class="wrapper style4">
+			<footer class="container 75%">
+					<h6>&copy; 2017 High-Performance Visualization Group</h6>
+					Visual Computing Center | KAUST<br>
+					Building 1, Al Khawarizmi / Level 2<br>
+					4700 King Abdullah University of Science and Technology<br>
+					Thuwal 23955-6900<br>
+					Kingdom of Saudi Arabia<br>
+			</footer>
+		</div>
+	</body>
+	
+	{% assign google_analytics = site.data.content['google_analytics'] %}
+	{% if google_analytics %}
+	<script>
+		 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		 })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		 ga('create', '{{ google_analytics.key }}', 'auto');
+		 ga('send', 'pageview');
+	</script>
+	{% endif %}
+</html>

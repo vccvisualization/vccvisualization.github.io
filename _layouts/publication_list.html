@@ -1,0 +1,52 @@
+---
+layout: default
+---
+<div class="wrapper style2 first">
+	<article>
+	<h2 style="margin-top: 1em">List of Publications</h2>
+		<div class="container" id="publication-list">
+			{% assign current_year = 3000 %}	
+			{% for publication in site.research reversed %}	
+				{% assign this_year = publication.year | times: 1 %}
+				{% if this_year < current_year %}
+					{% assign current_year = this_year %}
+					<h3 class="leftalign" style="padding-bottom: 25px">{{publication.year}}</h3>
+				{% endif %}
+				
+				<!--generate new row -->
+				<div class="row">
+					<div class="6u 8u(mobile)" style="padding: 0 0 0 5px">
+						<div class="box style2 listbox relbox leftalign">
+							{% assign thumbnail_link = './publications/default_paper_icon.svg' %}
+							{% if publication.thumbnail %}
+								{% assign thumbnail_link = publication.thumbnail %}
+							{% endif %}
+							
+							<a href="{{ publication.url }}" rel="modal:open" title="{{ publication.title }}" class="image featured left small rightpadded"><img alt="" src="{{ thumbnail_link | relative_url }}"></a>
+							<h6 style="margin: 0;"><a href="{{ publication.url }}" rel="modal:open">{{ publication.title }}</a></h6>
+							<p style="margin: 0;">
+							{% for author in publication.authors %}
+									{% assign firstname = author | split: " " | first %}
+									{% assign firstletter = firstname | truncate: 1, '' %}
+									{% assign lastname = author | split: " " | last %}
+									
+									{{firstletter}}. {{lastname}}{% if forloop.last != true %},{% endif %}
+								{% endfor %}
+								{% if publication.shortvenue %}
+									<br> <i>{{publication.shortvenue}}</i>
+								{% endif %}
+							</p>
+
+							<ul id="publication_links" class="iconlink bottom-right">
+							{% if publication.pdf %}
+								<li><a class="icon-file-pdf" target="_blank" rel="noopener" title="Download PDF" href="{{publication.pdf }}"></a></li>
+							{% endif %}
+								<li><a class="icon-link-external" target="_blank" rel="noopener" title="Open publication page" href="{{ publication.url }}"></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			{% endfor %}
+		</div>
+	</article>
+</div>

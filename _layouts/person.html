@@ -1,0 +1,180 @@
+---
+layout: default
+---
+<article class="wrapper first">
+	<div class="container">
+		<div class="row">
+		<div class="12u 12u(mobile)">
+		<div class="box style2 leftalign" style="position: relative">
+			<span class="image featured left large rightpadded" id="personal_image"><img src="{{ page.image | relative_url }}" alt="page.name" /></span>
+			<div id="vcard">
+				<h2 id="personal_name">{{ page.prefix }} {{ page.name }}</h2>
+				<h4 id="personal_role">{{ page.role }}</h4>
+				{% if page.address %} 
+					<p><i class="icon-map"> </i><span style="display: inline-flex" id="personal_address">{{ page.address }}</span></p>
+				{% endif %}
+				{% if page.phone %} 
+					<p><i class="icon-phone"> </i> <span id="personal_phone">{{ page.phone }}</span></p>
+				{% endif %}
+				{% if page.email %} 
+					<p><i class="icon-envelope"> </i><a id="personal_email">{{ page.email }}</a></p>
+				{% endif %}
+				{% if page.links %}		
+					<ul id="personal_links" class="social bottom-right">
+					{% for link in page.links %}
+						{% assign link_type = "icon-globe" %}
+						{% case link.type %}
+							{% when 'twitter' %}		{% assign link_type = "icon-twitter" %}
+							{% when 'github' %}			{% assign link_type = "icon-github" %}
+							{% when 'facebook' %}		{% assign link_type = "icon-facebook" %}
+							{% when 'linkedin' %}		{% assign link_type = "icon-linkedin" %}
+							{% when 'google_scholar' %}	{% assign link_type = "icon-google_scholar" %}
+							{% when 'google_plus' %}	{% assign link_type = "icon-google" %}
+							{% when 'instagram' %}		{% assign link_type = "icon-instagram" %}
+							{% when 'skype' %}			{% assign link_type = "icon-skype" %}
+							{% when 'youtube' %}		{% assign link_type = "icon-youtube" %}
+							{% when 'vimeo' %}			{% assign link_type = "icon-vimeo" %}
+							{% when 'flickr' %}			{% assign link_type = "icon-flickr" %}
+							{% else %}					{% assign link_type = "icon-globe" %}
+						{% endcase %}
+						<li><a class="{{link_type}}" target="_blank" rel="noopener" href="{{link.url}}"></a></li>
+					{% endfor %}
+					</ul>
+				{% endif %}
+			</div>
+		</div>
+		</div>
+		</div>
+		<div class="container leftalign">
+			<header id="personal_about">
+			{{ content }}
+			</header>
+		</div>
+	</div>
+</article>
+<article>
+	<div class="wrapper style2">
+		<div class="container" id="publication-list">
+			{% assign create_small_list = true %}
+			{% assign print_years = true %}		
+			{% if create_small_list %}
+				<!--publication list made from small rows-->
+				{% assign current_year = 3000 %}
+				{% assign first_publication = true %}	
+				{% for publication in site.research reversed %}
+					{% unless publication.authors contains page.name %}
+						{% continue %}
+					{% endunless %}
+					
+					{% if first_publication %}	
+						<!--print section title if publication available-->
+						<h2 style="padding-bottom: 1em">Recent Publications</h2>	
+						{% assign first_publication = false %}
+					{% endif %}
+					
+					{% if print_years %}
+						{% assign this_year = publication.year | times: 1 %}
+						{% if this_year < current_year %}
+							{% assign current_year = this_year %}
+							<h3 class="leftalign" style="padding-bottom: 1em">{{publication.year}}</h3>
+						{% endif %}
+					{% endif %}
+					
+					<!--generate new row -->
+					<div class="row">
+						<div class="6u 8u(mobile)" style="padding: 0 0 0 5px">
+							<div class="box style2 listbox relbox leftalign">
+								<a href="{{ publication.url }}" rel="modal:open" title="{{ publication.title }}" class="image featured left small rightpadded"><img alt="" src="{{ publication.thumbnail | relative_url }}"></a>
+								<h6 style="margin: 0;"><a href="{{ publication.url }}" rel="modal:open">{{ publication.title }}</a></h6>
+								<p style="margin: 0;">
+								{% for author in publication.authors %}
+										{% assign firstname = author | split: " " | first %}
+										{% assign firstletter = firstname | truncate: 1, '' %}
+										{% assign lastname = author | split: " " | last %}
+										
+										{{firstletter}}. {{lastname}}{% if forloop.last != true %},{% endif %}
+									{% endfor %}
+									{% if publication.shortvenue %}
+										<br> <i>{{publication.shortvenue}}</i>
+									{% endif %}
+								</p>
+
+								<ul id="publication_links" class="iconlink bottom-right">
+								{% if publication.pdf %}
+									<li><a class="icon-file-pdf" target="_blank" rel="noopener" title="Download PDF" href="{{publication.pdf }}"></a></li>
+								{% endif %}
+									<li><a class="icon-link-external" target="_blank" rel="noopener" title="Open publication page" href="{{ publication.url }}"></a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				{% endfor %}
+			{% else %}
+				<!--publication list made with tiles-->
+				{% assign boxes_per_row = 2 %}		
+				{% assign items_in_row = 0 %}
+				{% assign first_publication = true %}
+				{% for publication in site.research reversed %}	
+					{% unless publication.authors contains page.name %}
+						{% continue %}
+					{% endunless %}
+					
+					{% if first_publication %}	
+						<!--print section title if publication available-->
+						<h2>Recent Publications</h2>	
+						{% assign first_publication = false %}
+					{% endif %}
+					
+					{% if items_in_row == 0 %}
+						<!--generate new row -->
+						<div class="row">
+					{% endif %}
+					
+					<div class="6u 8u(mobile)">
+						<a class="linkbox"  rel="modal:open" href="{{ publication.url }}">
+							<article class="box style2 listbox relbox">
+								<span class="image featured bottompadded">
+									<img src="{{ publication.teaser | relative_url }}" alt="{{ publication.title }}"/>
+								</span>
+								<h3>{{ publication.title }}</h3>
+								<p>
+								{% for author in publication.authors %}
+									{% assign firstname = author | split: " " | first %}
+									{% assign firstletter = firstname | truncate: 1, '' %}
+									{% assign lastname = author | split: " " | last %}
+									
+									{{firstletter}}. {{lastname}}{% if forloop.last != true %},{% endif %}
+								{% endfor %}
+								{% if publication.shortvenue %}
+									| <i>{{publication.year}} {{publication.shortvenue}}</i>
+								{% endif %}
+								</p>
+								<ul id="publication_links" class="iconlink bottom-right">
+									{% if publication.pdf %}
+									<li><a class="icon-file-pdf" target="_blank" rel="noopener" title="Download PDF" href="{{ publication.pdf | absolute_url  }}"></a></li>
+									{% endif %}
+									<li><a class="icon-link-external" target="_blank" rel="noopener" title="Open publication page" href="{{publication.url }}"></a></li>
+								</ul>
+							</article>
+						</a>
+					</div>
+					{% assign items_in_row = items_in_row | plus: 1 %}
+					
+					{% if items_in_row == boxes_per_row %}
+						<!--close row -->
+						</div>
+						{% assign items_in_row = 0 %}
+					{% endif %}
+				{% endfor %}
+				{% if items_in_row != 0 %}
+					<!-- fill up remaining space with empty boxes -->
+					{% assign num_empty_boxes = boxes_per_row | minus: items_in_row %}
+					{% for num in (1..num_empty_boxes) %}
+						<div class="6u 8u(mobile)"></div>
+					{% endfor %}
+					</div>
+				{% endif %}
+			{% endif %}
+		</div>
+	</div>
+</article>

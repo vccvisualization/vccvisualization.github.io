@@ -1,0 +1,151 @@
+---
+layout: default
+---
+<article class="container wrapper first">
+<!--begin-modal-content-->
+	<div id="content" class="wrapper noshadow leftalign">
+		<h2 id="publication_title">{{page.title}}</h2>
+		<h4 id="publication_authors">
+		<!-- generate author list with links to group members -->
+		{% for author in page.authors %}{% assign link_to_person = false %}{% if forloop.last %} and {% elsif forloop.index != 1 %}, {% endif %}{% for person in site.people %}{% if author == person.name %}<a href="{{person.url}}">{% assign link_to_person = true %}{% endif %}{% endfor %}{{author}}{% if link_to_person %}</a>{% endif %}{% endfor %}
+		</h4>
+		
+		<div id="publication_image" class="image centered"><img src= "{{ page.teaser | relative_url }}" style="max-width: 100%" alt="{{page.title}}"></div>
+		<h5 id="publication_venue">{{page.venue}}, {{page.year}}</h5>
+		<p id="publication_abstract"><p class="text-flow">{{page.abstract}}</p></p>
+				
+		<!-- buttons -->
+		<div style="width: 100%; display: block; float: left">
+			{% if page.citation %}
+			<!-- CITATION -->
+			<button id="toggle-citation" title="View BibTeX citation" class="button slim rounded leftalign"><i class="icon-citation" aria-hidden="true"></i> Citation</button>
+			{% endif %}
+			
+			{% if page.pdf %}
+			<!-- PDF -->
+			<button id="toggle-pdf" class="button slim rounded-left leftalign" title="Read PDF"><i class="icon-file-pdf" aria-hidden="true"> </i> PDF</button>
+			<button id="download-pdf" class="button narrow rounded-right leftalign" title="Download PDF"><a href="{{ page.pdf | relative_url }}" target="_blank" rel="noopener"><i class="icon-download" aria-hidden="true"></i></a></button>	
+			{% endif %}
+			
+			{% if page.video %}
+			<!-- VIDEO -->
+				{% if page.video contains "youtube.com" or page.video contains "vimeo.com" %}
+					<button id="toggle-video" title="Watch publication video" class="button slim rounded leftalign"><i class="icon-video" aria-hidden="true"></i> Video</button>
+				{% else %}
+					<button id="toggle-video" title="Watch publication video" class="button slim rounded-left leftalign"><i class="icon-video" aria-hidden="true"></i> Video</button>
+					<button id="download-video" class="button narrow rounded-right leftalign" title="Download video"><a href="{{ page.video | relative_url }}" target="_blank" rel="noopener"><i class="icon-download" aria-hidden="true"></i></a></button>
+				{% endif %}
+			{% endif %}
+			
+			{% if page.links %}
+			<!-- SUPPLEMENTARY -->
+			{% for link in page.links %}
+				{% assign link_type = "icon-file-text" %}
+				{% case link.type %}
+					{% when 'code' %}
+						{% assign link_type = "icon-code" %}
+					{% when 'archive' %}
+						{% assign link_type = "icon-file-archive" %}
+					{% when 'files' %}
+						{% assign link_type = "icon-files-empty" %}
+					{% when 'slides' %}
+						{% assign link_type = "icon-file-powerpoint" %}
+					{% else %}
+						{% assign link_type = "icon-file-text" %}
+				{% endcase %}
+				<button id="toggle-{{link.title}}" class="button slim rounded leftalign" title="Download {{link.title}}"><i class="{{link_type}}" aria-hidden="true"> </i> <a href="{{ link.url }}" target="_blank" rel="noopener">{{link.title}}</a></button>
+			{% endfor %}
+			{% endif %}
+		</div>
+		
+		<!-- content boxes -->
+		{% if page.citation %}
+		<blockquote id="box-citation" class="box slim citation leftalign toggleBox" style="position: relative; margin-top: 3.75em; display: none;"><p id="content-citation">{{ page.citation }}</p></blockquote>
+		{% endif %}
+		
+		{% if page.video %} 
+			{% if page.video contains "youtube.com" %}
+				<!-- parse youtube link -->
+				{% assign videoID = page.video | split: "=" | last %}
+				{% assign video_link = "https://www.youtube.com/embed/" | append: videoID %}
+				<iframe id="box-video" class="12u toggleBox contentBox" style="display: none;" src="{{ video_link }}"></iframe>
+			{% elsif page.video contains "vimeo.com" %}
+				<!-- parse vimeo link -->
+				{% assign videoID = page.video | split: "/" | last %}
+				{% assign video_link = "https://player.vimeo.com/video/" | append: videoID %}	
+				<iframe id="box-video" class="12u toggleBox contentBox" style="display: none;" src="{{ video_link }}"></iframe>
+			{% else %}
+				<!-- video is hosted locally --> 
+				<div id="box-video" class="contentBox toggleBox" style="background: url({{'./assets/css/images/loading.gif' | relative_url }}) center center no-repeat transparent; display: none;"><video id="publication_video" class="contentBox" controls=""><source src="{{ page.video | relative_url }}"><p>video cannot be displayed.</p></video></div>
+			{% endif %}
+		{% endif %}
+		
+		{% if page.pdf %}
+			<div id="box-pdf" class="contentBox toggleBox" style="background: url({{'./assets/css/images/loading.gif' | relative_url }}) center center no-repeat transparent; display: none;"><object id="publication_pdf" class="contentBox" data="{{ page.pdf | relative_url }}"><p>PDF cannot be displayed.</p></object></div>
+		{% endif %}
+		
+		
+	</div>
+
+<!-- Scripts -->
+<script>
+	var id = null;
+	var isModal = false;
+	$( document ).ready( function( varSearch ) {
+		//check if ID was set as document variable (for modal dialog)
+		if ( typeof document.urloptions !== "undefined" && typeof document.urloptions.id !== "undefined" ){
+			id = document.urloptions.id;
+			isModal = true;
+		} else { //parse url
+			var params = window.location.search;
+
+			var getURLParams = function ( url ) {
+				var hash;
+				var json = {};
+				var hashes = url.slice( url.indexOf( '?' ) + 1 ).split( '&' );
+				for ( var i = 0; i < hashes.length; i++ ) {
+					hash = hashes[ i ].split( '=' );
+					json[ hash[ 0 ] ] = hash[ 1 ];
+				}
+				return json;
+			};
+
+			params = getURLParams( params );
+			console.log(window.top.location.hash)
+
+			//check if ID comes from url (for separate webpage)
+			if ( typeof params.id !== "undefined" ) {
+				id = params.id;
+
+				//unhide navigation bar
+				$( "#nav" ).removeClass("hidden");
+				$( "article:first-of-type" ).addClass("container wrapper");
+			}
+		}
+
+		$('#toggle-citation').click(function(){
+			var wasHidden = $('#box-citation').is( ':visible' );
+			$( '.toggleBox' ).hide();
+			if( !wasHidden ) {
+				$('#box-citation').show();
+			}
+		});
+		
+		$('#toggle-video').click(function(){
+			var wasHidden = $('#box-video').is(':visible');
+			$('.toggleBox').hide();
+			if( !wasHidden ) {
+				$('#box-video').show();
+			}
+		});
+		$('#toggle-pdf').click(function(){
+			var wasHidden = $('#box-pdf').is( ':visible' );
+			$('.toggleBox').hide();
+			if( !wasHidden ) {
+				$('#box-pdf').show();
+			}
+		});
+	});
+</script>
+<!--end-modal-content-->
+</article>
