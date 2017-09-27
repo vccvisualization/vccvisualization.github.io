@@ -40,7 +40,7 @@ abstract:   >
 teaser:     './publications/2017_schneider_fenwick.jpg'
 
 #link to smaller thumbnail image of publication (please make sure the aspect ratio is 3:2, suggested size is 150x100px)
-thumbnail:  './publications/2017_schneider_thumbnail.PNG'
+thumbnail:  './publications/2017_schneider_thumbnail.png'
 
 #link to publication video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
 #video:      'https://www.youtube.com/watch?v=xxxxxx'
