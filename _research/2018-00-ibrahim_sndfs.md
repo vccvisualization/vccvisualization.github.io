@@ -46,7 +46,7 @@ teaser:     './publications/2017_ibrahim_SNDF.jpg'
 thumbnail:  './publications/2017_ibrahim_thumbnail.png'
 
 #link to publication video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
-#video:      'https://www.youtube.com/watch?v=xxxxx'
+video:      './publications/2017_ibrahim_SNDF.mp4'
 
 #link to publication pdf (optional)
 pdf:        './publications/2017_ibrahim_SNDF.pdf'
@@ -54,7 +54,7 @@ pdf:        './publications/2017_ibrahim_SNDF.pdf'
 
 #insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
 citation:   >
-  @article{Ibrahim2017Screenspace,<br>
+  @article{Ibrahim2017SNDFs,<br>
    &emsp;title = {Screen-Space Normal Distribution Function Caching for Consistent Multi-Resolution Rendering of Large Particle Data},<br>
    &emsp;author = {Ibrahim, Mohamed and Wickenh\"{a}user, Patrick and Rautek, Peter and Reina, Guido and Hadwiger, Markus},<br>
    &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE SciVis 2017)},<br>
