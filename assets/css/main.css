@@ -2066,7 +2066,7 @@ ol.default li {
 	}
 
 	.wrapper.first {
-		padding-top: 9em;
+		padding-top: 3.4em;
 	}
 
 	.wrapper.style4 .row-special {
@@ -2237,10 +2237,9 @@ ol.default li {
 	}
 
 	.wrapper.first {
-		padding-top: 5em;
+		padding-top: 3em;
 	}
-
-
+	
 	/* Articles */
 
 	#contact footer {
