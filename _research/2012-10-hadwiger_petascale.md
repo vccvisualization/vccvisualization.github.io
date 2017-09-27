@@ -29,7 +29,7 @@ venue:      >
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
-   IEEE Scientific Visualization 2012
+   IEEE Scientific Visualization 2012 (Honorable Mention Best Paper)
 
 #specify publication year
 year:       2012
