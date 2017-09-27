@@ -101,7 +101,7 @@ layout: default
 
 								<ul id="publication_links" class="iconlink bottom-right">
 								{% if publication.pdf %}
-									<li><a class="icon-file-pdf" target="_blank" rel="noopener" title="Download PDF" href="{{publication.pdf }}"></a></li>
+									<li><a class="icon-file-pdf" target="_blank" rel="noopener" title="Download PDF" href="{{ publication.pdf | relative_url }}"></a></li>
 								{% endif %}
 									<li><a class="icon-link-external" target="_blank" rel="noopener" title="Open publication page" href="{{ publication.url }}"></a></li>
 								</ul>
