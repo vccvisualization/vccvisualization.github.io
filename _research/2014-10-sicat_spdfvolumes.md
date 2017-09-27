@@ -25,7 +25,7 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   IEEE Transactions on Visualization and Computer Graphics, Vol.20, No.12 (Proceedings IEEE Scientifc Visualization 2014), pp. 2417-2426
+   IEEE Transactions on Visualization and Computer Graphics, Vol.20, No.12 (Proceedings IEEE Scientific Visualization 2014), pp. 2417-2426
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
@@ -55,7 +55,7 @@ citation:   >
   @article{Sicat2014SPDFVolumes,<br>
    &emsp;title = {Sparse PDF Volumes for Consistent Multi-Resolution Volume Rendering},<br>
    &emsp;author = {Sicat, Ronell and Kr{\"u}ger, Jens and M{\"o}ller, Torsten and Hadwiger, Markus},<br>
-   &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientifc Visualization 2014)},<br>
+   &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2014)},<br>
    &emsp;year = {2014},<br>
    &emsp;volume = {20},<br>
    &emsp;number = {12},<br>
