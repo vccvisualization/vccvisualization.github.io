@@ -46,7 +46,7 @@ thumbnail:  './publications/2017_schneider_thumbnail.png'
 #video:      'https://www.youtube.com/watch?v=xxxxxx'
 
 #link to publication pdf (optional)
-#pdf:        './publications/2017_schneider_fenwick.pdf'
+pdf:        './publications/2017_schneider_fenwick.pdf'
 
 #insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
 citation:   >
