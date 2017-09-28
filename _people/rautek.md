@@ -25,10 +25,10 @@ image:      ./images/people/rautek.jpg
 email:      peter.rautek@kaust.edu.sa
 
 #your phone number (optional)
-phone:      +966 (0) 12-808-xxxx
+phone:      +966 (0) 12-808-0481
 
 #your address at the VCC
-address:    Visual Computing Center, Bldg. 1, Office xxxx<br>4700 King Abdullah University of Science and Technology<br>Thuwal 23955-6900, Saudi Arabia
+address:    Visual Computing Center, Bldg. 1, lvl. 2, Office 2220<br>4700 King Abdullah University of Science and Technology<br>Thuwal 23955-6900, Saudi Arabia
 
 #a brief description of yourself
 #info:       Here's a brief description about myself
@@ -58,9 +58,6 @@ address:    Visual Computing Center, Bldg. 1, Office xxxx<br>4700 King Abdullah 
 * 2005 – 2009: Research Assistant, Vienna University of Technology, Austria
 * 2004 – 2005: Computer Science teacher at school for social services (part time), Seegasse, Vienna, Austria
 * March 2003 – Jan 2004: Teaching Assistant (part time), Vienna University of Technology, Austria
-
-### Scientific and Professional Memberships
-​ACM
 
 ### Awards
 ​KAUST Seed Fund 2013
