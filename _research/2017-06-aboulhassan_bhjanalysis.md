@@ -53,7 +53,7 @@ pdf:        './publications/2017_aboulhassan_bhjanalysis.pdf'
 
 #insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
 citation:   >
-  @article{Abouhassan2017BHJAnalysis,<br>
+  @article{Aboulhassan2017BHJAnalysis,<br>
    &emsp;author = {Aboulhassan, Amal and Sicat, Ronell and Baum, Daniel and Wodo, Olga and Hadwiger, Markus},<br>
    &emsp;title = {Comparative Visual Analysis of Structure-Performance Relations in Complex Bulk-Heterojunction Morphologies},<br>
    &emsp;journal = {Computer Graphics Forum (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2017},<br>

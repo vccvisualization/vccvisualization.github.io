@@ -54,7 +54,7 @@ pdf:        './publications/2015_aboulhassan_bhjbottlenecks.pdf'
 
 #insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
 citation:   >
-  @article{Aboulhassan2015Novel,<br>
+  @article{Aboulhassan2015BHJBottlenecks,<br>
    &emsp;title = {A Novel Framework for Visual Detection and Exploration of Performance Bottlenecks in Organic Photovoltaic Solar Cell Materials},<br>
    &emsp;author = {Aboulhassan, Amal and Baum, Daniel and Wodo, Olga and Ganapathysubramanian, Baskar and Amassian, Aram and Hadwiger, Markus},<br>
    &emsp;journal = {Computer Graphics Forum (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2015)},<br>
