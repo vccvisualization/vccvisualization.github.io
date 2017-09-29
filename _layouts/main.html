@@ -62,7 +62,7 @@ layout: default
 				<a class="linkbox" href="{{ person.url }}">
 					<div class="box style1">
 						<span class="image circle top medium">
-							<img src="{{ person.image }}" alt="{{ person.name }}"/>
+							<img data-src="{{ person.image }}" alt="{{ person.name }}"/>
 						</span>
 						<h3>{{ person.name }}</h3>
 						<h4>{{ person.role }}</h4>
@@ -116,7 +116,7 @@ layout: default
 				{% endif %}
 					<div class="box style1">
 						<span class="image circle leftcircle small">
-							<img src="{{ person.image }}" alt="{{ person.name }}"/>
+							<img data-src="{{ person.image }}" alt="{{ person.name }}"/>
 						</span>
 						<h3>{{ person.name }}</h3>
 						<h4>{{ person.role }}</h4>
@@ -176,7 +176,7 @@ layout: default
 					<a class="linkbox open-modal" rel="modal:open" href="{{ publication.url }}">
 						<article class="box style2 listbox relbox">
 							<span class="image featured bottompadded">
-								<img src="{{ publication.teaser }}" alt="{{ publication.title }}"/>
+								<img data-src="{{ publication.teaser }}" alt="{{ publication.title }}"/>
 							</span>
 							<h3>{{ publication.title }}</h3>
 							<p>
@@ -237,8 +237,8 @@ layout: default
 					<div class="row">
 						<div class="12u 12u(mobile)">
 						<section class="box style2 leftalign">
-						<span class="image left large rightpadded"><img alt="{{course.name}}" src="{{course.image}}"></span>
-						<h3>{{course.name}}</h3>
+						<span class="image left large rightpadded"><a href="{{course.url}}"><img alt="{{course.name}}" data-src="{{course.image}}"></a></span>
+						<h3><a href="{{course.url}}">{{course.name}}</a></h3>
 						<p>{{course.text}}</p>
 						</section>
 						</div>
@@ -253,7 +253,6 @@ layout: default
 <div id="map" class="wrapper style2" style="margin-bottom: -2em"></div>
 
 {% assign maps_settings = site.data.content['google_maps'] %}
-
  <!-- Replace the value of the key parameter with your own API key. -->
 <script async defer
 src="https://maps.googleapis.com/maps/api/js?key={{maps_settings.key}}&callback=initMap">

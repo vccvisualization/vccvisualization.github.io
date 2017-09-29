@@ -64,14 +64,14 @@ if (target) {               // do the test straight away
 					cssEase: 'linear'
 				});
 				console.log( "Thank you for your continued interest :) Why don't you drop us a line?" );
-				
-				lazyLoadImages();
 
+				lazyLoadImages();
 				if ( target ) {	
 					$( 'html, body' ).stop().animate( {
 						scrollTop: $("#" + target).offset().top - x
 					}, 1000 );
 				}
+				
 			});
 	});
 })( jQuery );

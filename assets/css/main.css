@@ -38,17 +38,16 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 
 @media screen and (max-width: 969px) {
 	.logo {
-		position: relative;
-		display: inline-block;
-		top: 		0.5em;
-		right: 		0.5em;
-		left: 		0.5em;
-		width: 		2.5em;
-		height: 	2.5em;
+		position: 	absolute;
+		display: 	inline-block;
+		top: 		0.8em;
+		right: 		0.8em;
+		width: 		2.4em;
+		height: 	2.4em;
 	}
 	.logo img {
-		width: 		2.5em;
-		height: 	2.5em;
+		width: 		2.4em;
+		height: 	2.4em;
 	}
 }
 
@@ -1636,6 +1635,8 @@ ol.default li {
 	font-family: 'Inconsolata', monospace;
 	font-size: 0.95em;
 	line-height: 1em;
+	margin-top: 3.75em; 
+	display: none;
 }
 
 .contentBox {
@@ -1717,6 +1718,11 @@ ol.default li {
 @media screen and (max-width: 969px) {
 	#nav .navtitle {
 		font-size: 1.2em;
+		margin: 1em 0.5em 0.3em 0.5em;
+	}
+	#nav ul li a {
+		font-weight: 600;
+		padding: 0.3em 0.2em 1em 0.2em;
 	}
 }
 
@@ -1963,7 +1969,7 @@ ol.default li {
 	.wrapper.first {
 		padding-top: 3.4em;
 	}
-
+	
 	/* Nav */
 
 	#nav ul li a {
@@ -2098,8 +2104,8 @@ ol.default li {
 		letter-spacing: 0;
 	}
 
-	h1, h2, h3, h4, h5 {
-		font-size: 1.25em;
+	h1, h2, h3, h4 {
+		font-size: 1.6em;
 		margin: 0 0 0.4em 0;
 	}
 
@@ -2146,10 +2152,15 @@ ol.default li {
 	button,
 	.button {
 		text-align: center;
-		font-size: 1.2em;
+		font-size: 1em;
 		width: 100%;
 		padding: 1em 0 1em 0;
 	}
+	
+	.button.rounded-right {
+		display: none;
+	}
+	
 	/* List */
 
 	ul.social {
@@ -2225,16 +2236,22 @@ ol.default li {
 	}
 
 	.box.style2.listbox {
-		padding: 5px 15px 5px 0px;
+		padding: 5px 15px 5px 15px;
 	}
 
 	.box.style2.listbox .image {
-		margin: -5px -15px 0 0px;
+		margin: -5px -15px 0 -15px;
 	}
+	
+	.citation {
+		margin-top: 0;
+		padding: 5em 1em 0 1em; 
+    }
+	
 	/* Wrappers */
 
 	.wrapper {
-		padding: 3em 15px 3em 15px;
+		padding: 1.5em 15px;
 		text-align: center;
 	}
 
@@ -2242,6 +2259,10 @@ ol.default li {
 		padding-top: 3em;
 	}
 	
+	#content {
+		padding-top: 3em;
+	}
+
 	/* Articles */
 
 	#contact footer {
@@ -2258,5 +2279,4 @@ ol.default li {
 	#copyright li {
 		display: block;
 	}
-
 }

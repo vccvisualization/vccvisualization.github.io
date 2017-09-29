@@ -11,11 +11,12 @@ layout: default
 		</h4>
 		
 		<div id="publication_image" class="image centered"><img src= "{{ page.teaser | relative_url }}" style="max-width: 100%" alt="{{page.title}}"></div>
-		<h5 id="publication_venue">{{page.venue}}, {{page.year}}</h5>
-		<p id="publication_abstract"><p class="text-flow">{{page.abstract}}</p></p>
+		{%- assign venue = page.venue -%}
+		<h5 id="publication_venue">{{ venue }}, {{ page.year }}</h5>
+		<p id="publication_abstract"><p class="text-flow">{{ page.abstract }}</p></p>
 				
 		<!-- buttons -->
-		<div style="width: 100%; display: block; float: left">
+		<div style="width: 100%; display: flex; float: left">
 			{% if page.citation %}
 			<!-- CITATION -->
 			<button id="toggle-citation" title="View BibTeX citation" class="button slim rounded leftalign"><i class="icon-citation" aria-hidden="true"></i> Citation</button>
@@ -60,7 +61,7 @@ layout: default
 		
 		<!-- content boxes -->
 		{% if page.citation %}
-		<blockquote id="box-citation" class="box slim citation leftalign toggleBox" style="position: relative; margin-top: 3.75em; display: none;"><p id="content-citation">{{ page.citation }}</p></blockquote>
+		<blockquote id="box-citation" class="box slim citation leftalign toggleBox"><p id="content-citation">{{ page.citation }}</p></blockquote>
 		{% endif %}
 		
 		{% if page.video %} 
