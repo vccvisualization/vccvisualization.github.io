@@ -1,5 +1,5 @@
 top:
-    header: <strong>High-Performance Visualization</strong><br><a href="http://vcc.kaust.edu.sa">Visual Computing Center, KAUST</a>
+    header: <strong>High-Performance Visualization</strong><br><a href="http://vcc.kaust.edu.sa" target="_blank">Visual Computing Center, KAUST</a>
     images:
      - url: images/vis_group2.jpg
      - url: images/abstractocyte_teaser.jpg
