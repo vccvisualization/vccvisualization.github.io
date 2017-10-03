@@ -23,6 +23,5 @@ teaching:
 google_maps:
     key:    AIzaSyBwLdpIUNeh__iQvrWCmyeo1fCViwIsA3U
     
-#google_analytics:
-#    key:    xxxx
-
+google_analytics:
+    key:    UA-107447286-1
