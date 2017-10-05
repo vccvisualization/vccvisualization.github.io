@@ -26,7 +26,7 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   IEEE Transactions on Visualization and Computer Graphics, Vol.24, No.1 (Proceedings IEEE Scientific Visualization 2017)
+   IEEE Transactions on Visualization and Computer Graphics, Vol.24, No.1 (Proceedings IEEE Scientific Visualization 2017), pp. 944-953
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
@@ -61,7 +61,7 @@ citation:   >
    &emsp;year = {2018}<br>
    &emsp;volume = {24},<br>
    &emsp;number = {1},<br>
-   &emsp;pages = {to appear}<br>
+   &emsp;pages = {944--953}<br>
   }
   
 #insert links to additional material for the publication (optional)
