@@ -19,13 +19,13 @@ name:       Christopher Moore
 role:       PhD Student
 
 #link to your image
-image:      ./images/people/person.jpg
+image:      ./images/people/moore.jpg
 
 #your email address
 email:      christopher.moore@kaust.edu.sa
 
 #your phone number (optional)
-phone:      +966 (0) 12-808-xxxx
+phone:      +966 (0) 54-451-1096
 
 #your address at the VCC
 address:    Visual Computing Center, Bldg. 1, Office xxxx<br>4700 King Abdullah University of Science and Technology<br>Thuwal 23955-6900, Saudi Arabia
@@ -42,9 +42,17 @@ address:    Visual Computing Center, Bldg. 1, Office xxxx<br>4700 King Abdullah 
 #   url:  "http://twitter.com/mytwitter"
 # - type: web
 #   url:  "http://mywebsite.com"
+url:  "http://github.com/thenumbernine"
 
 #below the following --- enter the content to your personal page
 #content is written in markdown (check out this markdown cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 #for a uniform style, please write section headings with ### (three sharps)
 ---
-### About me
+### Education profile
+* B.Sc., Mathematics, Oregon State University, USA, 2006
+* B.Sc., Computer Science, Oregon State University, USA, 2006
+* M.Sc., Computer Science, Oregon State University, USA, 2009
+
+### KAUST Affiliations
+- Visual Computing Center (VCC)
+- Division of Applied Mathematical and Computational Sciences (AMCS)
