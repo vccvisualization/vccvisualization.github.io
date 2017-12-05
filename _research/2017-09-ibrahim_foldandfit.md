@@ -23,11 +23,11 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
- Elsevier Computers & Graphics 2017
-   
+ Computers & Graphics (Special Issue on CAD/Graphics)
+
 #insert short venue (displayed in box in publication list)
 shortvenue: >
-   CAD/Graphics 2017
+ Computers & Graphics 2017
 
 #specify publication year
 year:       2017
@@ -42,10 +42,8 @@ teaser:     './publications/2017_ibrahim_foldandfit.jpg'
 #link to smaller thumbnail image of publication (please make sure the aspect ratio is 3:2, suggested size is 150x100px)
 thumbnail:  './publications/2017_ibrahim_foldandfit_thumbnail.jpg'
 
-
 #link to publication pdf (optional)
 pdf:        './publications/2017_ibrahim_foldandfit.pdf'
-
 
 #insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
 #citation:   >
