@@ -6,7 +6,7 @@ top:
      - url: images/kaust2.jpg
 about:
     header: We perform fundamental and applied research<br>in visualization and visual computing.
-    text:   We specifically focus on the visualization of extreme-scale data, volume visualization, large-scale image and volume processing, multi-resolution techniques, data streaming and out-of-core processing, domain-specific languages for visualization, interactive segmentation, and GPU algorithms and architecture.
+    text:   We specifically focus on the visualization of extreme-scale data, volume visualization, flow visualization, large-scale image and volume processing, multi-resolution techniques, data streaming and out-of-core processing, domain-specific languages for visual computing, interactive segmentation, and GPU algorithms and architecture.
 
 people:
     header: People
@@ -19,6 +19,11 @@ research:
 teaching:
     header: Teaching
     text:   We are currently teaching the following courses at KAUST.
+
+join:
+    header: Join us!
+    text:   We are hiring PostDocs and PhD Students! <br>We are offering internships and we invite visiting students to join us for a research stay. <br>To get an initial understanding of what we are interested in and in which research field you could work at our group, see the project descriptions below. 
+    projectheader: List of Open Projects
     
 google_maps:
     key:    AIzaSyBwLdpIUNeh__iQvrWCmyeo1fCViwIsA3U

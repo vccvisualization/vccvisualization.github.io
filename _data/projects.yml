@@ -1,0 +1,30 @@
+- name: "Visual Languages for Parallel Computing"
+  url: https://faculty.kaust.edu.sa/sites/markushadwiger/pages/cs380.aspx
+  text: 'Many modern computational problems are inherently massively data-parallel. Research areas such as simulation, data-science and visual computing are increasingly dealing with data-parallel problems. For instance in visual computing parallel algorithms are needed for image processing, geometry processing, visualization, computational imaging, and many other subfields where the data primitives are parallel. 
+<br> In this project we develop novel domain specific languages that offer visual abstractions of different aspects of the programs. The parallel program development is aided by instantaneous visualizations of the underlying primitives of the algorithms. For instance in fluid simulation the parallel data primitives can be equipped with semantics like “particle” or “vector” which leads to different instantaneous visualizations. 
+<br> The development of better parallel programming languages is a research field with increasing importance as most modern computational problems need to be tackled with data-parallel algorithms.
+'
+  image: './images/projects/visualdsl.png'
+  pdf: './projects/project-visual.pdf'
+  
+- name: "CPU Based Rendering of Large-Scale Particle Data"
+  url: 
+  text: '
+  Molecular dynamics (MD) simulations are crucial to investigating important processes in physics and thermodynamics. The simulated atoms are usually visualized as hard spheres with local lighting, like Phong or Lambert shading, where individual particles and their local density as well as larger structures can be perceived well in close-up views. However, for large-scale simulations with 10s of millions of particles, the visualization of usually suffers from strong aliasing artifacts. The mismatch between data size and output resolution leads to severe under-sampling of the geometry. This makes exploration of unknown data and detection of interesting phenomena via a top-down approach difficult.  We introduced the novel concept of screen-space normal distribution functions (S-NDFs) for particle data. S-NDFs represent the distribution of surface normals that map to a given pixel in screen space, which enables high-quality re-lighting without re-rendering particles.
+  '
+  image: './images/projects/largescaleparticle.jpg'
+  
+  
+- name: "Machine learning and data mining from large scale volumetric data"
+  url: 
+  text: '
+  Large scale simulation result in enormous amount of data. Visualization or even just transfer of the complete simulation data can be very time consuming and tedious task. To extract the essential part of the data is usually done in post hoc step after the entire simulation is terminated. Since the storage capacity of the simulation servers is limited, not all data can be permanently stored, i.e., is available only temporarily during the simulation itself. On the other hand, domain scientist are scanning the results and looking for specific patterns in the data to find important features in their simulation. The essential data covers just a tiny amount of the entire data space. Our approach does the detection step concurrently to the simulation. Due to temporal as well as spatial data coherence, similar patterns can be detected and stored into dictionaries. In optimal case the original data can be reconstructed by linear combination of small amount of dictionary entries.  
+  '
+  image: './images/projects/largescaledatamining.png'
+  
+- name: "In-Situ Visualization of Large Scale Simulation Data"
+  url: 
+  text: '
+  This project investigates techniques for in-situ visualization of large time-dependent volume data. Since state of the art large scale simulations can generate petabytes of data, not all data can be stored to permanent storage media. Such simulation usually spatially downscale the results or store only a small subset of the temporal series. Our approach to in-situ visualization analyzes the results as simulation time progresses and extracts the essential data characteristics from the preliminary results. Very low data transfer rates can be achieved by exploiting temporal coherence of the successive simulation timesteps. Only a small subset of the data is transferred progressively to the visualization client. The reconstruction of the data in an early stage of the simulation run, combined with interactive steering approaches, reduces the risk of running unwanted simulations and enables the informed modification of simulation parameters. 
+  '
+  image: './images/projects/insitu.png'

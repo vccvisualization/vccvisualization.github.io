@@ -7,3 +7,10 @@ collections:
   people:
     output: true
     permalink: /:collection/:title/
+  alumni:
+    output: true
+    permalink: /:collection/:title/
+  members:
+    output: true
+    permalink: /:collection/:title/
+  

@@ -1,3 +1,17 @@
+- name:   Haneen Mohammed
+  prefix: Msc.
+  role:   PhD Student<br> Columbia University, New York
+  image:  ./images/people/mohammed.jpg
+  url:    ./alumni/mohammed/
+  #info:   todo
+
+- name:  Amal Aboulhassan
+  prefix: Dr.
+  role:   
+  image:  ./images/people/aboulhassan.jpg
+  url:    ./alumni/aboulhassan/
+  #info:   todo
+
 - name:   Ali Awami
   prefix: Dr.
   role:   Visualization Specialist,<br>Saudi Aramco
@@ -25,3 +39,4 @@
   image:  ./images/people/hoellt.jpg
   url:    https://www.thomashollt.com
   #info:  todo
+ 

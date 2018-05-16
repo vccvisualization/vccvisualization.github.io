@@ -45,6 +45,7 @@ layout: default
 	{% assign boxes_per_row = 3 %}				
 	{% assign items_in_row = 0 %}
 	
+	
 	{% if section %}	
 	<article id="people" style="margin-bottom: 0">
 		{% if section.header %}<h2>{{ section.header }}</h2>{% endif %}
@@ -94,6 +95,9 @@ layout: default
 		{% if section.footer %}<footer><p>{{ section.footer }}</p></footer>{% endif %}
 	</article>
 	{% endif %}
+
+
+	
 	<!-- START fill alumni -->
 	{% assign section = site.data.content['alumni'] %}
 	{% assign boxes_per_row = 2 %}				
@@ -106,7 +110,7 @@ layout: default
 		<div class="container" id="alumni-list">
 		{% for person in site.data.alumni %}
 			{% if items_in_row == 0 %}
-				<!--generate new row -->
+				
 				<div class="row">
 			{% endif %}
 			
@@ -131,14 +135,14 @@ layout: default
 			{% assign items_in_row = items_in_row | plus: 1 %}
 				
 			{% if items_in_row == boxes_per_row %}
-				<!--close row -->
+				
 				</div>
 				{% assign items_in_row = 0 %}
 			{% endif %}
 		{% endfor %}
 		
 		{% if items_in_row != 0 %}
-			<!-- fill up remaining space with empty boxes -->
+			
 			{% assign num_empty_boxes = boxes_per_row | minus: items_in_row %}
 			{% for num in (1..num_empty_boxes) %}
 				<div class="6u 12u(mobile)"></div>
@@ -149,6 +153,7 @@ layout: default
 		{% if section.footer %}<footer><p>{{ section.footer }}</p></footer>{% endif %}
 	</article>
 	{% endif %}
+
 </div>
 
 <!-- Research SECTION -->		
@@ -249,6 +254,48 @@ layout: default
 		</article>
 	{% endif %}
 </div>
+
+
+<!-- SECTION Join US -->
+<div class="wrapper style2">
+	{% assign section = site.data.content['join'] %}		
+	{% if section %}
+		<article id="join">
+			{% if section.header %}<h2>{{ section.header }}</h2>{% endif %}
+			{% if section.text %}<p>{{ section.text }}</p>{% endif %}
+			{% if section.projectheader %}<h3>{{ section.projectheader }}</h3>{% endif %}
+			
+			<div class="container" id="courses-list">
+				<!--content for projects -->
+				{% for project in site.data.projects %}
+					<div class="row">
+						<div class="12u 12u(mobile)">
+						<section class="box style2 leftalign">
+						<span class="image left large rightpadded">
+						<a href="{{project.url}}" target="_blank">
+						<img alt="{{project.name}}" data-src="{{project.image}}">
+						</a>
+						</span>
+						<h3><a href="{{project.url}}" target="_blank">{{project.name}}</a></h3>
+						<p>{{project.text}}</p>
+						{% if project.pdf %}
+						<a class="icon-file-pdf" target="_blank" rel="noopener" title="Download PDF" href="{{ project.pdf }}"></a>
+						{% endif %}
+						</section>
+						</div>
+					</div>
+				{% endfor %}
+			</div>
+			<div><a href="mailto:peter.rautek@kaust.edu.sa" target="_blank"><button class="button slim rounded">Contact us!</button></a></div>
+			{% if section.footer %}<footer><p>{{ section.footer }}</p></footer>{% endif %}
+			
+		</article>
+	{% endif %}
+</div>
+
+
+
+<!-- SECTION Map -->
 
 <div id="map" class="wrapper style2" style="margin-bottom: -2em"></div>
 
