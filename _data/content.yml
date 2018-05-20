@@ -6,7 +6,7 @@ top:
      - url: images/kaust2.jpg
 about:
     header: We perform fundamental and applied research<br>in visualization and visual computing.
-    text:   We specifically focus on the visualization of extreme-scale data, volume visualization, flow visualization, large-scale image and volume processing, multi-resolution techniques, data streaming and out-of-core processing, domain-specific languages for visual computing, interactive segmentation, and GPU algorithms and architecture.
+    text:   We specifically focus on the visualization of extreme-scale data, volume visualization, flow visualization, differential geometry and mathematical physics in visualization, large-scale image and volume processing, multi-resolution techniques, data streaming and out-of-core processing, domain-specific languages for visual computing, interactive segmentation, and GPU algorithms and architecture.
 
 people:
     header: People
@@ -22,7 +22,11 @@ teaching:
 
 join:
     header: Join us!
-    text:   We are hiring PostDocs and PhD Students! <br>We are offering internships and we invite visiting students to join us for a research stay. <br>To get an initial understanding of what we are interested in and in which research field you could work at our group, see the project descriptions below. 
+    text1:  We are hiring PostDocs and PhD Students! <br>We are offering internships and we invite visiting students to join us for a research stay!
+    text2:  King Abdullah University of Science and Technology is an international, graduate research university in Saudi Arabia located directly on the shores of the Red Sea. 
+            The University is dedicated to advancing science and technology through interdisciplinary research, education, and innovation to address the world’s pressing scientific and technological challenges related to water, food, energy, and the environment.
+            KAUST is home to world-class faculty, scientists, engineers and students from around the globe. The University’s award-winning campus has everything you need to live, work, study and play. Designed to inspire and motivate our faculty, students, staff and their families to maintain an active lifestyle, KAUST is more than a university. With state-of-the-art fitness facilities, a golf course, numerous fine dining and casual fare restaurants, elementary and secondary schools, and of course, the Red Sea just steps away, there is something for everyone.
+    text3:  To get an initial understanding of what we are interested in and in which research field you could work at our group, see the project descriptions below. 
     projectheader: List of Open Projects
     
 google_maps:

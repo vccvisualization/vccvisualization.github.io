@@ -2,6 +2,8 @@
 #URL handle for generated page
 slug:       you
 
+preferredLink: ./#join
+
 #specifies layout to be used for page generation (do not modify)
 layout: 	person
 

@@ -1109,6 +1109,11 @@ body, input, textarea, select {
 	font-weight: 300;
 }
 
+.iconlink {
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: 700;
+}
+
 body.is-loading *, input.is-loading *, textarea.is-loading *, select.is-loading * {
 	-moz-transition: none !important;
 	-webkit-transition: none !important;

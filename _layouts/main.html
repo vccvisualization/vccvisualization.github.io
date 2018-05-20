@@ -60,7 +60,11 @@ layout: default
 			{% endif %}
 		
 			<div class="4u 12u(mobile)">
+				{% if person.preferredLink %}
+				<a class="linkbox" href="{{ person.preferredLink }}">
+				{% else %}
 				<a class="linkbox" href="{{ person.url }}">
+				{% endif %}
 					<div class="box style1">
 						<span class="image circle top medium">
 							<img data-src="{{ person.image }}" alt="{{ person.name }}"/>
@@ -262,9 +266,16 @@ layout: default
 	{% if section %}
 		<article id="join">
 			{% if section.header %}<h2>{{ section.header }}</h2>{% endif %}
-			{% if section.text %}<p>{{ section.text }}</p>{% endif %}
+			{% if section.text1 %}<p>{{ section.text1 }}</p>{% endif %}
+			
+			<div class="container">
+			<section class="style2 leftalign">
+			{% if section.text2 %}<p>{{ section.text2 }}</p>{% endif %}
+			</section>
+			</div>
 			{% if section.projectheader %}<h3>{{ section.projectheader }}</h3>{% endif %}
 			
+			{% if section.text3 %}<p>{{ section.text3 }}</p>{% endif %}
 			<div class="container" id="courses-list">
 				<!--content for projects -->
 				{% for project in site.data.projects %}
@@ -279,8 +290,8 @@ layout: default
 						<h3><a href="{{project.url}}" target="_blank">{{project.name}}</a></h3>
 						<p>{{project.text}}</p>
 						{% if project.pdf %}
-						<a class="icon-file-pdf" target="_blank" rel="noopener" title="Download PDF" href="{{ project.pdf }}"></a>
 						{% endif %}
+						<a class="icon-file-pdf" target="_blank" rel="noopener" style="text-decoration: none" title="Download PDF" href="{{ project.pdf }}"> <span class="iconlink">more info</span></a>
 						</section>
 						</div>
 					</div>
