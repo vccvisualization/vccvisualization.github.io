@@ -20,7 +20,7 @@ display:	selected
 authors:
  - Markus Hadwiger
  - Matej Mlejnek
- - Thomas Theussl
+ - Thomas Theußl
  - Peter Rautek
  
 #insert publication venue (displayed on publication page)
@@ -54,7 +54,7 @@ video:      './publications/2018_hadwiger_killingobservers.mp4'
 citation:   >
   @article{Hadwiger2019ObserverKillingFields,<br>
    &emsp;title = {Time-Dependent Flow seen through Approximate Observer Killing Fields},<br>
-   &emsp;author = {Hadwiger, Markus and Mlejnek, Matej and Theussl, Thomas and Rautek, Peter},<br>
+   &emsp;author = {Hadwiger, Markus and Mlejnek, Matej and Theu{\ss}l, Thomas and Rautek, Peter},<br>
    &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2018)},<br>
    &emsp;year = {2019}<br>
    &emsp;volume = {25},<br>
