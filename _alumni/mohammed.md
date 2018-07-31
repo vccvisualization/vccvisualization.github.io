@@ -16,7 +16,7 @@ title:		Haneen Mohammed
 name:       Haneen Mohammed
 
 #your role in the vis group
-role:       MS Student
+role:       Alumna (former MS Student)
 
 #link to your image
 image:      ./images/people/mohammed.jpg
@@ -25,19 +25,21 @@ image:      ./images/people/mohammed.jpg
 email:      haneen.mohammed@kaust.edu.sa
 
 #your phone number (optional)
-phone:      +966 (0) 12-808-xxxx
+#phone:      +966 (0) 12-808-xxxx
 
 #your address at the VCC
-address:    Visual Computing Center, Bldg. 1, Office xxxx<br>4700 King Abdullah University of Science and Technology<br>Thuwal 23955-6900, Saudi Arabia
+address:    Visual Computing Center, Bldg. 1<br>4700 King Abdullah University of Science and Technology<br>Thuwal 23955-6900, Saudi Arabia
 
 #a brief description of yourself
 #info:       Here's a brief description about myself
 
 # optional: add links to various online presences/websites (uncomment by removing the leading # if applicable)
 # possible link types: twitter, github, facebook, linkedin, google_scholar, google_plus, instagram, skype, youtube, vimeo, flickr, web (use the latter for all other link types)
-#links:
-# - type: google_scholar
-#   url:  "https://scholar.google.com/citations?user=xxxxxxxxxxx"
+links:
+ - type: linkedin
+   url:  "https://sa.linkedin.com/in/haneenmohammed"
+ - type: google_scholar
+   url:  "https://scholar.google.com/citations?user=dnkTGNMAAAAJ"
 # - type: twitter
 #   url:  "http://twitter.com/mytwitter"
 # - type: web
@@ -55,8 +57,8 @@ address:    Visual Computing Center, Bldg. 1, Office xxxx<br>4700 King Abdullah 
 
 ### Professional Profile
 - Summer 2014: Student Internship, GE Power & Water, Dhahran, Saudi Arabia
-- Spring 2014: Student Internship, Visualization, Multimedia, and Networking Lab, University of Missouri, Columbia, United State
-- 2013–2014: Computer Engineering Student Exchange Program, University of Missouri, Columbia, United State
+- Spring 2014: Student Internship, Visualization, Multimedia, and Networking Lab, University of Missouri, Columbia, United States
+- 2013–2014: Computer Engineering Student Exchange Program, University of Missouri, Columbia, United States
 - Summer 2014: Student Internship, KAUST, Thuwal, Saudi Arabia
 
 ### Awards

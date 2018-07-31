@@ -35,9 +35,9 @@ address:    Visual Computing Center, Bldg. 1, lvl. 2, Office 2220<br>4700 King A
 
 # optional: add links to various online presences/websites (uncomment by removing the leading # if applicable)
 # possible link types: twitter, github, facebook, linkedin, google_scholar, google_plus, instagram, skype, youtube, vimeo, flickr, web (use the latter for all other link types)
-#links:
-# - type: google_scholar
-#   url:  "https://scholar.google.com/citations?user=xxxxxxxxxxx"
+links:
+ - type: google_scholar
+   url:  "https://scholar.google.com/citations?user=jU6sgUEAAAAJ"
 # - type: twitter
 #   url:  "http://twitter.com/mytwitter"
 # - type: web

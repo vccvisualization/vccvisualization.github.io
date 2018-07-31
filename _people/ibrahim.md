@@ -25,10 +25,10 @@ image:      ./images/people/ibrahim.jpg
 email:      mohamed.ibrahim@kaust.edu.sa
 
 #your phone number (optional)
-phone:      +966 (0) 12-808-xxxx
+#phone:      +966 (0) 12-808-xxxx
 
 #your address at the VCC
-address:    Visual Computing Center, Bldg. 1, Office xxxx<br>4700 King Abdullah University of Science and Technology<br>Thuwal 23955-6900, Saudi Arabia
+address:    Visual Computing Center, Bldg. 1, Office 2101<br>4700 King Abdullah University of Science and Technology<br>Thuwal 23955-6900, Saudi Arabia
 
 #a brief description of yourself
 #info:       Here's a brief description about myself

@@ -28,7 +28,7 @@ email:      jose.moralestapia@kaust.edu.sa
 #phone:      +966 (0) ?
 
 #your address at the VCC
-address:    Visual Computing Center, Bldg. 1, Office xxxx<br>4700 King Abdullah University of Science and Technology<br>Thuwal 23955-6900, Saudi Arabia
+address:    Visual Computing Center, Bldg. 1, Office 2101<br>4700 King Abdullah University of Science and Technology<br>Thuwal 23955-6900, Saudi Arabia
 
 #a brief description of yourself
 #info:       Here's a brief description about myself

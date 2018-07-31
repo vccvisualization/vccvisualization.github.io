@@ -9,14 +9,14 @@ layout: 	person
 sequence:	5
 
 #your academic title (uncomment by removing the leading # if applicable)
-#prefix:    Dr.
+prefix:    Dr.
 
 #your name (twice)
 title:		Amal Aboulhassan
 name:       Amal Aboulhassan
 
 #your role in the vis group
-role:       PhD Student
+role:       Alumna (former PhD Student)
 
 #link to your image
 image:      ./images/people/aboulhassan.jpg
@@ -25,19 +25,19 @@ image:      ./images/people/aboulhassan.jpg
 email:      amal.aboulhassan@kaust.edu.sa
 
 #your phone number (optional)
-phone:      +966 (0) 12-808-xxxx
+#phone:      +966 (0) 12-808-xxxx
 
 #your address at the VCC
-address:    Visual Computing Center, Bldg. 1, Office xxxx<br>4700 King Abdullah University of Science and Technology<br>Thuwal 23955-6900, Saudi Arabia
+address:    Visual Computing Center, Bldg. 1<br>4700 King Abdullah University of Science and Technology<br>Thuwal 23955-6900, Saudi Arabia
 
 #a brief description of yourself
 #info:       Here's a brief description about myself
 
 # optional: add links to various online presences/websites (uncomment by removing the leading # if applicable)
 # possible link types: twitter, github, facebook, linkedin, google_scholar, google_plus, instagram, skype, youtube, vimeo, flickr, web (use the latter for all other link types)
-#links:
-# - type: google_scholar
-#   url:  "https://scholar.google.com/citations?user=xxxxxxxxxxx"
+links:
+ - type: linkedin
+   url:  "https://eg.linkedin.com/in/aaboulhassan"
 # - type: twitter
 #   url:  "http://twitter.com/mytwitter"
 # - type: web
