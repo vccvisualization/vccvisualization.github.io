@@ -47,7 +47,7 @@ teaser:     './publications/2018_beyer_hybridculling.jpg'
 thumbnail:  './publications/2018_beyer_thumbnail.png'
 
 #link to publication video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
-#video:      './publications/2018_beyer_hybridculling.mp4'
+video:      './publications/2018_beyer_hybridculling.mp4'
 
 #link to publication pdf (optional)
 #pdf:        './publications/2018_beyer_hybridculling.pdf'
