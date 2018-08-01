@@ -50,7 +50,7 @@ thumbnail:  './publications/2018_beyer_thumbnail.png'
 video:      './publications/2018_beyer_hybridculling.mp4'
 
 #link to publication pdf (optional)
-#pdf:        './publications/2018_beyer_hybridculling.pdf'
+pdf:        './publications/2018_beyer_hybridculling.pdf'
 
 #insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
 citation:   >
@@ -66,10 +66,10 @@ citation:   >
 
 #insert links to additional material for the publication (optional)
 #links need a title, a URL and a type (this defines the link icon) which can be one of the following values: code, archive, files, slides or text (this is the default icon)
-#links: 
-# - title: ExampleCode
-#   type:  code
-#   url:   './publications/supplementary1.zip' 
+links: 
+ - title: supplementary material
+   type:  text
+   url:   './publications/2018_beyer_hybridculling_supplementary.pdf' 
 # - title: ExampleSlides
 #  type:  slides
 #   url:   './publications/presentation.pptx'
