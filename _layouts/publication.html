@@ -53,10 +53,17 @@ layout: default
 						{% assign link_type = "icon-file-powerpoint" %}
 					{% when 'pdf' %}
 						{% assign link_type = "icon-file-pdf" %}
+						{% assign supp_pdf = link.url %}
 					{% else %}
 						{% assign link_type = "icon-file-text" %}
 				{% endcase %}
-				<button id="toggle-{{link.title}}" class="button slim rounded leftalign" title="Download {{link.title }}"><i class="{{link_type}}" aria-hidden="true"> </i> <a href="{{ link.url | relative_url }}" target="_blank" rel="noopener">{{link.title}}</a></button>
+				
+				{% if link.type contains "pdf" %}
+					<button id="toggle-supp-pdf" class="button slim rounded-left leftalign" title="Read PDF"><i class="icon-file-pdf" aria-hidden="true"> </i>{{link.title}}</button>
+					<button id="download-pdf" class="button narrow rounded-right leftalign" title="Download PDF"><a href="{{ link.url | relative_url }}" target="_blank" rel="noopener"><i class="icon-download" aria-hidden="true"></i></a></button>	
+				{% else %}
+					<button id="toggle-{{link.title}}" class="button slim rounded leftalign" title="Download {{ link.title }}"><i class="{{link_type}}" aria-hidden="true"> </i> <a href="{{ link.url | relative_url }}" target="_blank" rel="noopener">{{link.title}}</a></button>
+				{% endif %}
 			{% endfor %}
 			{% endif %}
 		</div>
@@ -87,6 +94,9 @@ layout: default
 			<div id="box-pdf" class="contentBox toggleBox" style="background: url({{'./assets/css/images/loading.gif' | relative_url }}) center center no-repeat transparent; display: none;"><object id="publication_pdf" class="contentBox" data="{{ page.pdf | relative_url }}"><p>PDF cannot be displayed.</p></object></div>
 		{% endif %}
 		
+		{% if supp_pdf %}
+			<div id="box-supp-pdf" class="contentBox toggleBox" style="background: url({{'./assets/css/images/loading.gif' | relative_url }}) center center no-repeat transparent; display: none;"><object id="publication_supp_pdf" class="contentBox" data="{{ supp_pdf  | relative_url }}"><p>PDF cannot be displayed.</p></object></div>
+		{% endif %}
 		
 	</div>
 
@@ -146,6 +156,13 @@ layout: default
 			$('.toggleBox').hide();
 			if( !wasHidden ) {
 				$('#box-pdf').show();
+			}
+		});
+		$('#toggle-supp-pdf').click(function(){
+			var wasHidden = $('#box-supp-pdf').is( ':visible' );
+			$('.toggleBox').hide();
+			if( !wasHidden ) {
+				$('#box-supp-pdf').show();
 			}
 		});
 	});
