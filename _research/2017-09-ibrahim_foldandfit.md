@@ -14,7 +14,7 @@ title:      >
  Fold and fit: Space conserving shape editing
 
 #include in selected publications on front page (optional, delete line if not applicable)
-
+display:	selected
 
 #list all publication authors in correct order
 authors:

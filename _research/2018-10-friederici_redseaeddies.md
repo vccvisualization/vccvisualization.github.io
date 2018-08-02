@@ -14,7 +14,7 @@ title:      >
    A Lagrangian Method for Extracting Eddy Boundaries in the Red Sea and the Gulf of Aden
    
 #include in selected publications on front page (optional, delete line if not applicable)
-#display:	selected
+display:	selected
 
 #list all publication authors in correct order (please check the spelling is identical to your personal page)
 authors:
