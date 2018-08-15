@@ -70,7 +70,7 @@ links:
    url:   './publications/2018_hadwiger_killingobservers_appendixes.pdf' 
  - title: Matlab Code
    type:  archive
-   url:   'https://github.com/vccvisualization/vccvisualization.github.io/blob/master/publications/approximate-observer-killing-fields_commit-728b6f3.zip?raw=true'
+   url:   'https://github.com/vccvisualization/vccvisualization.github.io/blob/master/publications/2018_hadwiger_killingobservers_source_commit-17919df.zip?raw=true'
    
  #don't forget the leading and trailing --- in a YAML file
 ---
