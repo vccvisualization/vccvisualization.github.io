@@ -68,9 +68,9 @@ links:
  - title: Appendixes
    type:  pdf
    url:   './publications/2018_hadwiger_killingobservers_appendixes.pdf' 
-# - title: Matlab Code
-#   type:  zip
-#   url:   './publications/approximate-observer-killing-fields_commit-728b6f3.zip'
+ - title: Matlab Code
+   type:  archive
+   url:   './publications/approximate-observer-killing-fields_commit-728b6f3.zip'
    
  #don't forget the leading and trailing --- in a YAML file
 ---
