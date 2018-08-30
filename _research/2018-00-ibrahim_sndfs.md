@@ -67,9 +67,9 @@ citation:   >
 #insert links to additional material for the publication (optional)
 #links need a title, a URL and a type (this defines the link icon) which can be one of the following values: code, archive, files, slides or text (this is the default icon)
 #links: 
-# - title: ExampleCode
-#   type:  code
-#   url:   './publications/supplementary1.zip' 
+ - title: Supplementary Material
+   type:  pdf
+   url:   './publications/2017_ibrahim_SNDF_supplementary.pdf' 
 # - title: ExampleSlides
 #   type:  slides
 #   url:   './publications/presentation.pptx' 
