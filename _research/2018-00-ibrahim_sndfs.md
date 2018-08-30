@@ -66,7 +66,7 @@ citation:   >
   
 #insert links to additional material for the publication (optional)
 #links need a title, a URL and a type (this defines the link icon) which can be one of the following values: code, archive, files, slides or text (this is the default icon)
-#links: 
+links: 
  - title: Supplementary Material
    type:  pdf
    url:   './publications/2017_ibrahim_SNDF_supplementary.pdf' 
