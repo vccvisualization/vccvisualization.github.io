@@ -48,7 +48,7 @@ teaser:     './publications/2014_awami_neurolines.jpg'
 thumbnail:  './publications/2014_awami_thumbnail.jpg'
 
 #link to publication video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
-video:      'https://www.youtube.com/watch?v=TIU3GQjM3_8'
+video:      './publications/2014_awami_neurolines.mp4'
 
 #link to publication pdf (optional)
 pdf:        './publications/2014_awami_neurolines.pdf'

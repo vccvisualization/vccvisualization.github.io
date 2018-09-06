@@ -45,7 +45,7 @@ teaser:     './publications/2014_sicat_spdfvolumes.png'
 thumbnail:  './publications/2014_sicat_thumbnail.png'
 
 #link to publication video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
-video:      'https://www.youtube.com/watch?v=hAWBevfB1oE'
+video:      './publications/2014_sicat_spdfvolumes.mp4'
 
 #link to publication pdf (optional)
 pdf:        './publications/2014_sicat_spdfvolumes.pdf'
