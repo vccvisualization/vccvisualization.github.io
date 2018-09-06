@@ -31,7 +31,7 @@
 - name: "Machine Learning and Data Mining from Large-Scale Volumetric Data"
   url: './projects/projects-online-06.pdf'
   text: 'Large-scale simulations result in enormous amounts of data. Visualization or even just transfer of the complete simulation data is a time consuming and tedious task. Extracting the essential part of the data is usually done after the entire simulation is finished. Since the storage capacity of the simulation servers is limited, not all data can be permanently stored and is only available during the simulation itself. Domain scientists are typically scanning the stored results looking for specific features in the data. The essential data covers just a tiny amount of the entire data space. Our approach attempts to detect features concurrently to the simulation. Due to temporal as well as spatial data coherence, similar patterns can be detected and stored in dictionaries. In the optimal case the original data can be reconstructed by a linear combination of a small amount of dictionary entries.'
-  image: './images/projects/largescaledatamining.png'
+  image: './images/projects/largescaledatamining.jpg'
   pdf: './projects/projects-online-06.pdf'
   
 - name: "In-Situ Visualization of Large Scale Simulation Data"

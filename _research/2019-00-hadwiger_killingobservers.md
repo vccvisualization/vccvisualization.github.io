@@ -68,9 +68,9 @@ links:
  - title: Appendixes
    type:  pdf
    url:   './publications/2018_hadwiger_killingobservers_appendixes.pdf' 
- - title: Matlab Code
-   type:  archive
-   url:   'https://github.com/vccvisualization/vccvisualization.github.io/blob/master/publications/2018_hadwiger_killingobservers_source_commit-17919df.zip?raw=true'
-   
- #don't forget the leading and trailing --- in a YAML file
+ - title: Repository
+   type:  github
+   url:   'https://github.com/vccvisualization/killingobservers'
+
+ 
 ---
