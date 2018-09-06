@@ -52,16 +52,16 @@ video:      './publications/2012_hoellt_seivis.mp4'
 #link to publication pdf (optional)
 pdf:        './publications/2012_hoellt_seivis.pdf'
 
-#insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
+#insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
   @article{Hoellt2012Seivis,<br>
-   &emsp;title = {SeiVis: An Interactive Visual Subsurface Modeling Application},<br>
-   &emsp;author = {H{\"o}llt, Thomas and Freiler, Wolfgang and Gschwantner, Fritz M. and Doleisch, Helmut and Heinemann, Gabor and Hadwiger, Markus},<br>
-   &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2012)},<br>
-   &emsp;year = {2012},<br>
-   &emsp;volume = {18},<br>
-   &emsp;number = {12},<br>
-   &emsp;pages = {2226--2235}<br>
+   &nbsp;&nbsp;title = {SeiVis: An Interactive Visual Subsurface Modeling Application},<br>
+   &nbsp;&nbsp;author = {H{\"o}llt, Thomas and Freiler, Wolfgang and Gschwantner, Fritz M. and Doleisch, Helmut and Heinemann, Gabor and Hadwiger, Markus},<br>
+   &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2012)},<br>
+   &nbsp;&nbsp;year = {2012},<br>
+   &nbsp;&nbsp;volume = {18},<br>
+   &nbsp;&nbsp;number = {12},<br>
+   &nbsp;&nbsp;pages = {2226--2235}<br>
   }
 
 #insert links to additional material for the publication (optional)

@@ -50,16 +50,16 @@ video:      './publications/2018_hadwiger_killingobservers.mp4'
 #link to publication pdf (optional)
 pdf:        './publications/2018_hadwiger_killingobservers.pdf'
 
-#insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
+#insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
   @article{Hadwiger2019ObserverKillingFields,<br>
-   &emsp;title = {Time-Dependent Flow seen through Approximate Observer Killing Fields},<br>
-   &emsp;author = {Hadwiger, Markus and Mlejnek, Matej and Theu{\ss}l, Thomas and Rautek, Peter},<br>
-   &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2018)},<br>
-   &emsp;year = {2019}<br>
-   &emsp;volume = {25},<br>
-   &emsp;number = {1},<br>
-   &emsp;pages = {to appear}<br>
+   &nbsp;&nbsp;title = {Time-Dependent Flow seen through Approximate Observer Killing Fields},<br>
+   &nbsp;&nbsp;author = {Hadwiger, Markus and Mlejnek, Matej and Theu{\ss}l, Thomas and Rautek, Peter},<br>
+   &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2018)},<br>
+   &nbsp;&nbsp;year = {2019}<br>
+   &nbsp;&nbsp;volume = {25},<br>
+   &nbsp;&nbsp;number = {1},<br>
+   &nbsp;&nbsp;pages = {to appear}<br>
   }
 
 #insert links to additional material for the publication (optional)

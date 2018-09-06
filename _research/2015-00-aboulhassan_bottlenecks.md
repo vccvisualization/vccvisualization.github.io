@@ -52,16 +52,16 @@ thumbnail:  './publications/2015_aboulhassan_thumbnail.png'
 #link to publication pdf (optional)
 pdf:        './publications/2015_aboulhassan_bhjbottlenecks.pdf'
 
-#insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
+#insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
   @article{Aboulhassan2015BHJBottlenecks,<br>
-   &emsp;title = {A Novel Framework for Visual Detection and Exploration of Performance Bottlenecks in Organic Photovoltaic Solar Cell Materials},<br>
-   &emsp;author = {Aboulhassan, Amal and Baum, Daniel and Wodo, Olga and Ganapathysubramanian, Baskar and Amassian, Aram and Hadwiger, Markus},<br>
-   &emsp;journal = {Computer Graphics Forum (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2015)},<br>
-   &emsp;year = {2015}<br>
-   &emsp;volume = {34},<br>
-   &emsp;number = {3},<br>
-   &emsp;pages = {401--410},<br>
+   &nbsp;&nbsp;title = {A Novel Framework for Visual Detection and Exploration of Performance Bottlenecks in Organic Photovoltaic Solar Cell Materials},<br>
+   &nbsp;&nbsp;author = {Aboulhassan, Amal and Baum, Daniel and Wodo, Olga and Ganapathysubramanian, Baskar and Amassian, Aram and Hadwiger, Markus},<br>
+   &nbsp;&nbsp;journal = {Computer Graphics Forum (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2015)},<br>
+   &nbsp;&nbsp;year = {2015}<br>
+   &nbsp;&nbsp;volume = {34},<br>
+   &nbsp;&nbsp;number = {3},<br>
+   &nbsp;&nbsp;pages = {401--410},<br>
   }
 
 #insert links to additional material for the publication (optional)

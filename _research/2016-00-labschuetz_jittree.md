@@ -51,16 +51,16 @@ thumbnail:  './publications/2016_labschuetz_thumbnail.png'
 #link to publication pdf (optional)
 pdf:        './publications/2016_labschuetz_jittree.pdf'
 
-#insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
+#insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
   @article{Labschuetz2016Jittree,<br>
-   &emsp;title = {JiTTree: A Just-in-Time Compiled Sparse GPU Volume Data Structure},<br>
-   &emsp;author = {Labsch{\"u}tz, Matthias and Bruckner, Stefan and Gr{\"o}ller, M. Eduard and Hadwiger, Markus and Rautek, Peter},<br>
-   &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2015)},<br>
-   &emsp;year = {2016},<br>
-   &emsp;volume = {22},<br>
-   &emsp;number = {1},<br>
-   &emsp;pages = {1025--1034}<br>
+   &nbsp;&nbsp;title = {JiTTree: A Just-in-Time Compiled Sparse GPU Volume Data Structure},<br>
+   &nbsp;&nbsp;author = {Labsch{\"u}tz, Matthias and Bruckner, Stefan and Gr{\"o}ller, M. Eduard and Hadwiger, Markus and Rautek, Peter},<br>
+   &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2015)},<br>
+   &nbsp;&nbsp;year = {2016},<br>
+   &nbsp;&nbsp;volume = {22},<br>
+   &nbsp;&nbsp;number = {1},<br>
+   &nbsp;&nbsp;pages = {1025--1034}<br>
   }
 
 #insert links to additional material for the publication (optional)

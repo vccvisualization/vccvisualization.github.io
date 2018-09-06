@@ -53,16 +53,16 @@ video:      'https://www.youtube.com/watch?v=TIU3GQjM3_8'
 #link to publication pdf (optional)
 pdf:        './publications/2014_awami_neurolines.pdf'
 
-#insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
+#insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
   @article{Awami2014Neurolines,<br>
-   &emsp;title = {NeuroLines: A Subway Map Metaphor for Visualizing Nanoscale Neuronal Connectivity},<br>
-   &emsp;author = {Al-Awami, Ali K. and Beyer, Johanna and Strobelt, Hendrik and Kasthuri, Narayanan and Lichtman, Jeff W. and Pfister, Hanspeter and Hadwiger, Markus},<br>
-   &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Information Visualization 2014)},<br>
-   &emsp;year = {2014},<br>
-   &emsp;volume = {20},<br>
-   &emsp;number = {12},<br>
-   &emsp;pages = {2369--2378},<br>
+   &nbsp;&nbsp;title = {NeuroLines: A Subway Map Metaphor for Visualizing Nanoscale Neuronal Connectivity},<br>
+   &nbsp;&nbsp;author = {Al-Awami, Ali K. and Beyer, Johanna and Strobelt, Hendrik and Kasthuri, Narayanan and Lichtman, Jeff W. and Pfister, Hanspeter and Hadwiger, Markus},<br>
+   &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Information Visualization 2014)},<br>
+   &nbsp;&nbsp;year = {2014},<br>
+   &nbsp;&nbsp;volume = {20},<br>
+   &nbsp;&nbsp;number = {12},<br>
+   &nbsp;&nbsp;pages = {2369--2378},<br>
   }
   
 #insert links to additional material for the publication (optional)

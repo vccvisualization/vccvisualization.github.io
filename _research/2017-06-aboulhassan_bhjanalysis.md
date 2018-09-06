@@ -51,16 +51,16 @@ thumbnail:  './publications/2017_aboulhassan_thumbnail.png'
 #link to publication pdf (optional)
 pdf:        './publications/2017_aboulhassan_bhjanalysis.pdf'
 
-#insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
+#insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
   @article{Aboulhassan2017BHJAnalysis,<br>
-   &emsp;author = {Aboulhassan, Amal and Sicat, Ronell and Baum, Daniel and Wodo, Olga and Hadwiger, Markus},<br>
-   &emsp;title = {Comparative Visual Analysis of Structure-Performance Relations in Complex Bulk-Heterojunction Morphologies},<br>
-   &emsp;journal = {Computer Graphics Forum (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2017},<br>
-   &emsp;volume = {36},<br>
-   &emsp;number = {3},<br>
-   &emsp;pages = {329--339},<br>
-   &emsp;year = {2017}<br>
+   &nbsp;&nbsp;author = {Aboulhassan, Amal and Sicat, Ronell and Baum, Daniel and Wodo, Olga and Hadwiger, Markus},<br>
+   &nbsp;&nbsp;title = {Comparative Visual Analysis of Structure-Performance Relations in Complex Bulk-Heterojunction Morphologies},<br>
+   &nbsp;&nbsp;journal = {Computer Graphics Forum (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2017},<br>
+   &nbsp;&nbsp;volume = {36},<br>
+   &nbsp;&nbsp;number = {3},<br>
+   &nbsp;&nbsp;pages = {329--339},<br>
+   &nbsp;&nbsp;year = {2017}<br>
   }
 
 #insert links to additional material for the publication (optional)

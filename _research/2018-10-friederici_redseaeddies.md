@@ -52,14 +52,14 @@ video:      './publications/2018_friederici_redseaeddies.mp4'
 #link to publication pdf (optional)
 pdf:        './publications/2018_friederici_redseaeddies.pdf'
 
-#insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
+#insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
   @inproceedings{Friederici2018RedSeaEddies,<br>
-   &emsp;title = {A Lagrangian Method for Extracting Eddy Boundaries in the Red Sea and the Gulf of Aden},<br>
-   &emsp;author = {Friedrici, Anke and Toye Mahamadou Kele, Habib and Hoteit, Ibrahim and Weinkauf, Tino and Theisel, Holger and Hadwiger, Markus},<br>
-   &emsp;booktitle = {IEEE Scientific Visualization 2018 Short Papers},<br>
-   &emsp;year = {2018}<br>
-   &emsp;pages = {to appear}<br>
+   &nbsp;&nbsp;title = {A Lagrangian Method for Extracting Eddy Boundaries in the Red Sea and the Gulf of Aden},<br>
+   &nbsp;&nbsp;author = {Friedrici, Anke and Toye Mahamadou Kele, Habib and Hoteit, Ibrahim and Weinkauf, Tino and Theisel, Holger and Hadwiger, Markus},<br>
+   &nbsp;&nbsp;booktitle = {IEEE Scientific Visualization 2018 Short Papers},<br>
+   &nbsp;&nbsp;year = {2018}<br>
+   &nbsp;&nbsp;pages = {to appear}<br>
   }
 
 #insert links to additional material for the publication (optional)

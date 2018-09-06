@@ -53,16 +53,16 @@ video:      './publications/2015_awami_neuroblocks.mp4'
 #link to publication pdf (optional)
 pdf:        './publications/2015_awami_neuroblocks.pdf'
 
-#insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
+#insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
   @article{Awami2016Neuroblocks,<br>
-   &emsp;title = {NeuroBlocks - Visual Tracking of Segmentation and Proofreading for Large Connectomics Projects},<br>
-   &emsp;author = {Al-Awami, Ali K. and Beyer, Johanna and Haehn, Daniel and Kasthuri, Narayanan and Lichtman, Jeff W. and Pfister, Hanspeter and Hadwiger, Markus},<br>
-   &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2015)},<br>
-   &emsp;year = {2016},<br>
-   &emsp;volume = {22},<br>
-   &emsp;number = {1},<br>
-   &emsp;pages = {738--746}<br>
+   &nbsp;&nbsp;title = {NeuroBlocks - Visual Tracking of Segmentation and Proofreading for Large Connectomics Projects},<br>
+   &nbsp;&nbsp;author = {Al-Awami, Ali K. and Beyer, Johanna and Haehn, Daniel and Kasthuri, Narayanan and Lichtman, Jeff W. and Pfister, Hanspeter and Hadwiger, Markus},<br>
+   &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2015)},<br>
+   &nbsp;&nbsp;year = {2016},<br>
+   &nbsp;&nbsp;volume = {22},<br>
+   &nbsp;&nbsp;number = {1},<br>
+   &nbsp;&nbsp;pages = {738--746}<br>
   }
 
 #insert links to additional material for the publication (optional)

@@ -48,16 +48,16 @@ thumbnail:  './publications/2017_schneider_thumbnail.png'
 #link to publication pdf (optional)
 pdf:        './publications/2017_schneider_fenwick.pdf'
 
-#insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
+#insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
   @article{Schneider2017Fenwick,<br>
-   &emsp;title = {A Versatile and Efficient GPU Data Structure for Spatial Indexing},<br>
-   &emsp;author = {Schneider, Jens and Rautek, Peter},<br>
-   &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2016)},<br>
-   &emsp;year = {2017},<br>
-   &emsp;volume = {23},<br>
-   &emsp;number = {1},<br>
-   &emsp;pages = {911--920},<br>
+   &nbsp;&nbsp;title = {A Versatile and Efficient GPU Data Structure for Spatial Indexing},<br>
+   &nbsp;&nbsp;author = {Schneider, Jens and Rautek, Peter},<br>
+   &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2016)},<br>
+   &nbsp;&nbsp;year = {2017},<br>
+   &nbsp;&nbsp;volume = {23},<br>
+   &nbsp;&nbsp;number = {1},<br>
+   &nbsp;&nbsp;pages = {911--920},<br>
   }
 
 #insert links to additional material for the publication (optional)

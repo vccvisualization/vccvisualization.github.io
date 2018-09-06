@@ -52,16 +52,16 @@ video:      './publications/2013_beyer_connectomeexplorer.mp4'
 #link to publication pdf (optional)
 pdf:        './publications/2013_beyer_connectomeexplorer.pdf'
 
-#insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
+#insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
   @article{Beyer2013ConnectomeExplorer,<br>
-   &emsp;title = {ConnectomeExplorer: Query-Guided Visual Analysis of Large Volumetric Neuroscience Data},<br>
-   &emsp;author = {Beyer, Johanna and Al-Awami, Ali K. and Kasthuri, Narayanan and Lichtman, Jeff W. and Pfister, Hanspeter and Hadwiger, Markus},<br>
-   &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2013)},<br>
-   &emsp;year = {2013},<br>
-   &emsp;volume = {19},<br>
-   &emsp;number = {12},<br>
-   &emsp;pages = {2868--2877}<br>
+   &nbsp;&nbsp;title = {ConnectomeExplorer: Query-Guided Visual Analysis of Large Volumetric Neuroscience Data},<br>
+   &nbsp;&nbsp;author = {Beyer, Johanna and Al-Awami, Ali K. and Kasthuri, Narayanan and Lichtman, Jeff W. and Pfister, Hanspeter and Hadwiger, Markus},<br>
+   &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2013)},<br>
+   &nbsp;&nbsp;year = {2013},<br>
+   &nbsp;&nbsp;volume = {19},<br>
+   &nbsp;&nbsp;number = {12},<br>
+   &nbsp;&nbsp;pages = {2868--2877}<br>
   }
 
 #insert links to additional material for the publication (optional)

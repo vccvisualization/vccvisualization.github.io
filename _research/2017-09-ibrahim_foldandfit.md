@@ -45,17 +45,17 @@ thumbnail:  './publications/2017_ibrahim_foldandfit_thumbnail.jpg'
 #link to publication pdf (optional)
 pdf:        './publications/2017_ibrahim_foldandfit.pdf'
 
-#insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
+#insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 #citation:   >
 #  @article{IBRAHIM2017,<br>
-# &emsp;title = "Fold and fit: Space conserving shape editing",<br>
-# &emsp;journal = "Computers & Graphics",<br>
-# &emsp;year = "2017",<br>
-# &emsp;issn = "0097-8493",<br>
-# &emsp;doi = "https://doi.org/10.1016/j.cag.2017.08.002",<br>
-# &emsp;url = "http://www.sciencedirect.com/science/article/pii/S0097849317301310",<br>
-# &emsp;author = "Mohamed Ibrahim and Dong-Ming Yan",<br>
-# &emsp;keywords = "Folding, Shape editing, Segmentation, Functional feasibility"<br>
+# &nbsp;&nbsp;title = "Fold and fit: Space conserving shape editing",<br>
+# &nbsp;&nbsp;journal = "Computers & Graphics",<br>
+# &nbsp;&nbsp;year = "2017",<br>
+# &nbsp;&nbsp;issn = "0097-8493",<br>
+# &nbsp;&nbsp;doi = "https://doi.org/10.1016/j.cag.2017.08.002",<br>
+# &nbsp;&nbsp;url = "http://www.sciencedirect.com/science/article/pii/S0097849317301310",<br>
+# &nbsp;&nbsp;author = "Mohamed Ibrahim and Dong-Ming Yan",<br>
+# &nbsp;&nbsp;keywords = "Folding, Shape editing, Segmentation, Functional feasibility"<br>
 # }
   
 #insert links to additional material for the publication (optional)

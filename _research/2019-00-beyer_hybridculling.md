@@ -52,16 +52,16 @@ video:      './publications/2018_beyer_hybridculling.mp4'
 #link to publication pdf (optional)
 pdf:        './publications/2018_beyer_hybridculling.pdf'
 
-#insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
+#insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
   @article{Beyer2019HybridCulling,<br>
-   &emsp;title = {Culling for Extreme-Scale Segmentation Volumes: A Hybrid Deterministic and Probabilistic Approach},<br>
-   &emsp;author = {Beyer, Johanna and Mohammed, Haneen and Agus, Marco and Al-Awami, Ali K. and Pfister, Hanspeter and Hadwiger, Markus},<br>
-   &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2018)},<br>
-   &emsp;year = {2019}<br>
-   &emsp;volume = {25},<br>
-   &emsp;number = {1},<br>
-   &emsp;pages = {to appear}<br>
+   &nbsp;&nbsp;title = {Culling for Extreme-Scale Segmentation Volumes: A Hybrid Deterministic and Probabilistic Approach},<br>
+   &nbsp;&nbsp;author = {Beyer, Johanna and Mohammed, Haneen and Agus, Marco and Al-Awami, Ali K. and Pfister, Hanspeter and Hadwiger, Markus},<br>
+   &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2018)},<br>
+   &nbsp;&nbsp;year = {2019}<br>
+   &nbsp;&nbsp;volume = {25},<br>
+   &nbsp;&nbsp;number = {1},<br>
+   &nbsp;&nbsp;pages = {to appear}<br>
   }
 
 #insert links to additional material for the publication (optional)

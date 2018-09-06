@@ -50,16 +50,16 @@ video:      'https://www.youtube.com/watch?v=hAWBevfB1oE'
 #link to publication pdf (optional)
 pdf:        './publications/2014_sicat_spdfvolumes.pdf'
 
-#insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
+#insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
   @article{Sicat2014SPDFVolumes,<br>
-   &emsp;title = {Sparse PDF Volumes for Consistent Multi-Resolution Volume Rendering},<br>
-   &emsp;author = {Sicat, Ronell and Kr{\"u}ger, Jens and M{\"o}ller, Torsten and Hadwiger, Markus},<br>
-   &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2014)},<br>
-   &emsp;year = {2014},<br>
-   &emsp;volume = {20},<br>
-   &emsp;number = {12},<br>
-   &emsp;pages = {2417--2426}<br>
+   &nbsp;&nbsp;title = {Sparse PDF Volumes for Consistent Multi-Resolution Volume Rendering},<br>
+   &nbsp;&nbsp;author = {Sicat, Ronell and Kr{\"u}ger, Jens and M{\"o}ller, Torsten and Hadwiger, Markus},<br>
+   &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2014)},<br>
+   &nbsp;&nbsp;year = {2014},<br>
+   &nbsp;&nbsp;volume = {20},<br>
+   &nbsp;&nbsp;number = {12},<br>
+   &nbsp;&nbsp;pages = {2417--2426}<br>
   }
 
 #insert links to additional material for the publication (optional)

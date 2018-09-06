@@ -50,16 +50,16 @@ video:      './publications/2012_hadwiger_petascale.mp4'
 #link to publication pdf (optional)
 pdf:        './publications/2012_hadwiger_petascale.pdf'
 
-#insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
+#insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
   @article{Hadwiger2012Petascale,<br>
-   &emsp;title = {Interactive Volume Exploration of Petascale Microscopy Data Streams Using a Visualization-Driven Virtual Memory Approach},<br>
-   &emsp;author = {Hadwiger, Markus and Beyer, Johanna and Jeong, Won-Ki and Pfister, Hanspeter},<br>
-   &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2012)},<br>
-   &emsp;year = {2012},<br>
-   &emsp;volume = {18},<br>
-   &emsp;number = {12},<br>
-   &emsp;pages = {2285--2294}<br>
+   &nbsp;&nbsp;title = {Interactive Volume Exploration of Petascale Microscopy Data Streams Using a Visualization-Driven Virtual Memory Approach},<br>
+   &nbsp;&nbsp;author = {Hadwiger, Markus and Beyer, Johanna and Jeong, Won-Ki and Pfister, Hanspeter},<br>
+   &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2012)},<br>
+   &nbsp;&nbsp;year = {2012},<br>
+   &nbsp;&nbsp;volume = {18},<br>
+   &nbsp;&nbsp;number = {12},<br>
+   &nbsp;&nbsp;pages = {2285--2294}<br>
   }
 
 #insert links to additional material for the publication (optional)

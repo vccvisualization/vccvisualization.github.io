@@ -50,16 +50,16 @@ video:      'https://www.youtube.com/watch?v=DbWazwyMRNw'
 #link to publication pdf (optional)
 pdf:        './publications/2014_rautek_vislang.pdf'
 
-#insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
+#insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
   @article{Rautek2014Vislang,<br>
-   &emsp;title = {ViSlang: A system for interpreted domain-specific languages for scientific visualization},<br>
-   &emsp;author = {Rautek, Peter and Bruckner, Stefan and Gr{\"o}ller, M Eduard and Hadwiger, Markus},<br>
-   &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2014)},<br>
-   &emsp;year = {2014},<br>
-   &emsp;volume = {20},<br>
-   &emsp;number = {12},<br>
-   &emsp;pages = {2388--2396},<br>
+   &nbsp;&nbsp;title = {ViSlang: A system for interpreted domain-specific languages for scientific visualization},<br>
+   &nbsp;&nbsp;author = {Rautek, Peter and Bruckner, Stefan and Gr{\"o}ller, M Eduard and Hadwiger, Markus},<br>
+   &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2014)},<br>
+   &nbsp;&nbsp;year = {2014},<br>
+   &nbsp;&nbsp;volume = {20},<br>
+   &nbsp;&nbsp;number = {12},<br>
+   &nbsp;&nbsp;pages = {2388--2396},<br>
   }
 
 #insert links to additional material for the publication (optional)

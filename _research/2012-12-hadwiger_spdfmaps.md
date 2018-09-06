@@ -51,16 +51,16 @@ video:      './publications/2012_hadwiger_spdfmaps.mp4'
 #link to publication pdf (optional)
 pdf:        './publications/2012_hadwiger_spdfmaps.pdf'
 
-#insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
+#insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
   @article{Hadwiger2012SPDFMaps,<br>
-   &emsp;title = {Sparse PDF Maps for Non-Linear Multi-Resolution Image Operations},<br>
-   &emsp;author = {Hadwiger, Markus and Sicat, Ronell and Beyer, Johanna and Kr{\"u}ger, Jens and M{\"o}ller, Torsten},<br>
-   &emsp;journal = {ACM Transactions on Graphics (Proceedings ACM Siggraph Asia 2012)},<br>
-   &emsp;year = {2012},<br>
-   &emsp;volume = {31},<br>
-   &emsp;number = {6},<br>
-   &emsp;pages = {133:1--133:12}<br>
+   &nbsp;&nbsp;title = {Sparse PDF Maps for Non-Linear Multi-Resolution Image Operations},<br>
+   &nbsp;&nbsp;author = {Hadwiger, Markus and Sicat, Ronell and Beyer, Johanna and Kr{\"u}ger, Jens and M{\"o}ller, Torsten},<br>
+   &nbsp;&nbsp;journal = {ACM Transactions on Graphics (Proceedings ACM Siggraph Asia 2012)},<br>
+   &nbsp;&nbsp;year = {2012},<br>
+   &nbsp;&nbsp;volume = {31},<br>
+   &nbsp;&nbsp;number = {6},<br>
+   &nbsp;&nbsp;pages = {133:1--133:12}<br>
   }
 
 #insert links to additional material for the publication (optional)

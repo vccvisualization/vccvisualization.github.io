@@ -51,16 +51,16 @@ video:      './publications/2017_hadwiger_sparseleap.mp4'
 #link to publication pdf (optional)
 pdf:        './publications/2017_hadwiger_sparseleap.pdf'
 
-#insert citation. please format citation by inserting <br> at line breaks, &emsp; will insert a tab character to prettify the citation
+#insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
   @article{Hadwiger2018SparseLeap,<br>
-   &emsp;title = {SparseLeap: Efficient Empty Space Skipping for Large-Scale Volume Rendering},<br>
-   &emsp;author = {Hadwiger, Markus and Al-Awami, Ali K. and Beyer, Johanna and Agus, Marco and Pfister, Hanspeter},<br>
-   &emsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2017)},<br>
-   &emsp;year = {2018}<br>
-   &emsp;volume = {24},<br>
-   &emsp;number = {1},<br>
-   &emsp;pages = {974--983}<br>
+   &nbsp;&nbsp;title = {SparseLeap: Efficient Empty Space Skipping for Large-Scale Volume Rendering},<br>
+   &nbsp;&nbsp;author = {Hadwiger, Markus and Al-Awami, Ali K. and Beyer, Johanna and Agus, Marco and Pfister, Hanspeter},<br>
+   &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2017)},<br>
+   &nbsp;&nbsp;year = {2018}<br>
+   &nbsp;&nbsp;volume = {24},<br>
+   &nbsp;&nbsp;number = {1},<br>
+   &nbsp;&nbsp;pages = {974--983}<br>
   }
 
 #insert links to additional material for the publication (optional)
