@@ -69,7 +69,7 @@ links:
    type:  pdf
    url:   './publications/2018_hadwiger_killingobservers_appendixes.pdf'
  - title: Slides
-   type:  pdf
+   type:  slides
    url:   './publications/2018_hadwiger_killingobservers_slides.pdf'
  - title: Repository
    type:  github
