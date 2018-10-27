@@ -71,7 +71,7 @@ links:
  - title: Slides
    type:  slides
    url:   './publications/2018_hadwiger_killingobservers_slides.pdf'
- - title: Repository
+ - title: Code
    type:  github
    url:   'https://github.com/vccvisualization/killingobservers'
  
