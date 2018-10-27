@@ -67,10 +67,12 @@ citation:   >
 links: 
  - title: Appendixes
    type:  pdf
-   url:   './publications/2018_hadwiger_killingobservers_appendixes.pdf' 
+   url:   './publications/2018_hadwiger_killingobservers_appendixes.pdf'
+ - title: Slides
+   type:  slides
+   url:   './publications/2018_hadwiger_killingobservers_slides.pdf'
  - title: Repository
    type:  github
    url:   'https://github.com/vccvisualization/killingobservers'
-
  
 ---
