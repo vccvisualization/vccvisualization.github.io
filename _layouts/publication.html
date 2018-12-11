@@ -37,9 +37,9 @@ layout: default
 			{% if page.video %}
 			<!-- VIDEO -->
 				{% if page.video contains "youtube.com" or page.video contains "vimeo.com" %}
-					<button id="toggle-video" title="Watch publication video" class="button slim rounded leftalign"><i class="icon-video" aria-hidden="true"></i> Video</button>
+					<button id="toggle-video" title="Watch paper video" class="button slim rounded leftalign"><i class="icon-video" aria-hidden="true"></i> Video</button>
 				{% else %}
-					<button id="toggle-video" title="Watch publication video" class="button slim rounded-left leftalign"><i class="icon-video" aria-hidden="true"></i> Video</button>
+					<button id="toggle-video" title="Watch paper video" class="button slim rounded-left leftalign"><i class="icon-video" aria-hidden="true"></i> Video</button>
 					<a href="{{ page.video | relative_url }}" target="_blank" rel="noopener"><button id="download-video" class="button narrow rounded-right leftalign" title="Download video"><i class="icon-download" aria-hidden="true"></i></button></a>
 				{% endif %}
 			{% endif %}
