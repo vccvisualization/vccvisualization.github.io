@@ -49,6 +49,9 @@ thumbnail:  './publications/2017_mohammed_thumbnail.png'
 #link to publication video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
 video:      './publications/2017_mohammed_abstractocyte.mp4'
 
+#link to talk video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
+talk:       'https://vimeo.com/238850198'
+
 #link to publication pdf (optional)
 pdf:        './publications/2017_mohammed_abstractocyte.pdf'
 

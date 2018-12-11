@@ -38,6 +38,16 @@ layout: default
 				{% endif %}
 			{% endif %}
 			
+			{% if page.talk %}
+			<!-- TALK VIDEO -->
+				{% if page.talk contains "youtube.com" or page.talk contains "vimeo.com" %}
+					<button id="toggle-talk" title="Watch talk video" class="button slim rounded leftalign"><i class="icon-video" aria-hidden="true"></i> Talk</button>
+				{% else %}
+					<button id="toggle-talk" title="Watch talk video" class="button slim rounded-left leftalign"><i class="icon-video" aria-hidden="true"></i> Talk</button>
+					<a href="{{ page.talk | relative_url }}" target="_blank" rel="noopener"><button id="download-talk" class="button narrow rounded-right leftalign" title="Download video"><i class="icon-download" aria-hidden="true"></i></button></a>
+				{% endif %}
+			{% endif %}
+			
 			{% if page.links %}
 			<!-- SUPPLEMENTARY -->
 			{% for link in page.links %}
@@ -91,6 +101,23 @@ layout: default
 			{% else %}
 				<!-- video is hosted locally --> 
 				<div id="box-video" class="contentBox toggleBox" style="background: url({{'./assets/css/images/loading.gif' | relative_url }}) center center no-repeat transparent; display: none;"><video id="publication_video" class="contentBox" controls=""><source src="{{ page.video | relative_url }}"><p>video cannot be displayed.</p></video></div>
+			{% endif %}
+		{% endif %}
+		
+		{% if page.talk %} 
+			{% if page.talk contains "youtube.com" %}
+				<!-- parse youtube link -->
+				{% assign videoID = page.talk | split: "=" | last %}
+				{% assign video_link = "https://www.youtube.com/embed/" | append: videoID %}
+				<iframe id="box-video" class="12u toggleBox contentBox" style="display: none;" src="{{ video_link }}"></iframe>
+			{% elsif page.talk contains "vimeo.com" %}
+				<!-- parse vimeo link -->
+				{% assign videoID = page.talk | split: "/" | last %}
+				{% assign video_link = "https://player.vimeo.com/video/" | append: videoID %}	
+				<iframe id="box-video" class="12u toggleBox contentBox" style="display: none;" src="{{ video_link }}"></iframe>
+			{% else %}
+				<!-- video is hosted locally --> 
+				<div id="box-video" class="contentBox toggleBox" style="background: url({{'./assets/css/images/loading.gif' | relative_url }}) center center no-repeat transparent; display: none;"><video id="talk_video" class="contentBox" controls=""><source src="{{ page.talk | relative_url }}"><p>video cannot be displayed.</p></video></div>
 			{% endif %}
 		{% endif %}
 		

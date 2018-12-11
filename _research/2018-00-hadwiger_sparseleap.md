@@ -48,6 +48,9 @@ thumbnail:  './publications/2017_hadwiger_thumbnail.png'
 #link to publication video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
 video:      './publications/2017_hadwiger_sparseleap.mp4'
 
+#link to talk video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
+talk:       'https://vimeo.com/237674161'
+
 #link to publication pdf (optional)
 pdf:        './publications/2017_hadwiger_sparseleap.pdf'
 
