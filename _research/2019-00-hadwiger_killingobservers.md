@@ -25,7 +25,7 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   IEEE Transactions on Visualization and Computer Graphics, Vol.25, No.1 (Proceedings IEEE Scientific Visualization 2018), to appear
+   IEEE Transactions on Visualization and Computer Graphics, Vol.25, No.1 (Proceedings IEEE Scientific Visualization 2018), pp. 1257-1266
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
@@ -68,7 +68,7 @@ citation:   >
 #insert links to additional material for the publication (optional)
 #links need a title, a URL and a type (this defines the link icon) which can be one of the following values: code, archive, files, slides or text (this is the default icon)
 links: 
- - title: App.
+ - title: Appdx
    type:  pdf
    url:   './publications/2018_hadwiger_killingobservers_appendixes.pdf'
  - title: Slides

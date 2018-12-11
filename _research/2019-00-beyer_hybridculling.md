@@ -27,7 +27,7 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   IEEE Transactions on Visualization and Computer Graphics, Vol.25, No.1 (Proceedings IEEE Scientific Visualization 2018), to appear
+   IEEE Transactions on Visualization and Computer Graphics, Vol.25, No.1 (Proceedings IEEE Scientific Visualization 2018), pp. 1132-1141
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
