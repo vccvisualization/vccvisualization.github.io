@@ -19,12 +19,12 @@ layout: default
 		<div style="width: 100%; display: flex; float: left">
 			{% if page.citation %}
 			<!-- CITATION -->
-			<button id="toggle-citation" title="View BibTeX citation" class="button slim rounded leftalign"><i class="icon-citation" aria-hidden="true"></i> Bib</button>
+			<button id="toggle-citation" title="View BibTeX citation" class="button slim rounded leftalign"><i class="icon-citation" aria-hidden="true"></i> Citation</button>
 			{% endif %}
 			
 			{% if page.pdf %}
 			<!-- PDF -->
-			<button id="toggle-pdf" class="button slim rounded-left leftalign" title="Read PDF"><i class="icon-file-pdf" aria-hidden="true"> </i> PDF</button>
+			<button id="toggle-pdf" class="button slim rounded-left leftalign" title="Read PDF"><i class="icon-file-pdf" aria-hidden="true"> </i> Paper</button>
 			<a href="{{ page.pdf | relative_url }}" target="_blank" rel="noopener"><button id="download-pdf" class="button narrow rounded-right leftalign" title="Download PDF"><i class="icon-download" aria-hidden="true"></i></button>	</a>
 			{% endif %}
 			
