@@ -28,6 +28,12 @@ layout: default
 			<a href="{{ page.pdf | relative_url }}" target="_blank" rel="noopener"><button id="download-pdf" class="button narrow rounded-right leftalign" title="Download PDF"><i class="icon-download" aria-hidden="true"></i></button>	</a>
 			{% endif %}
 			
+			{% if page.pdfsupp %}
+			<!-- PDF -->
+			<button id="toggle-pdfsupp" class="button slim rounded-left leftalign" title="Read Appendix"><i class="icon-file-pdf" aria-hidden="true"> </i> Appendix</button>
+			<a href="{{ page.pdfsupp | relative_url }}" target="_blank" rel="noopener"><button id="download-pdf" class="button narrow rounded-right leftalign" title="Download Appendix"><i class="icon-download" aria-hidden="true"></i></button>	</a>
+			{% endif %}
+			
 			{% if page.video %}
 			<!-- VIDEO -->
 				{% if page.video contains "youtube.com" or page.video contains "vimeo.com" %}
@@ -125,6 +131,10 @@ layout: default
 			<div id="box-pdf" class="contentBox toggleBox" style="background: url({{'./assets/css/images/loading.gif' | relative_url }}) center center no-repeat transparent; display: none;"><object id="publication_pdf" class="contentBox" data="{{ page.pdf | relative_url }}"><p>PDF cannot be displayed.</p></object></div>
 		{% endif %}
 		
+		{% if page.pdfsupp %}
+			<div id="box-pdfsupp" class="contentBox toggleBox" style="background: url({{'./assets/css/images/loading.gif' | relative_url }}) center center no-repeat transparent; display: none;"><object id="publication_appendix_pdf" class="contentBox" data="{{ page.pdfsupp | relative_url }}"><p>PDF cannot be displayed.</p></object></div>
+		{% endif %}
+		
 		{% if supp_pdf %}
 			<div id="box-supp-pdf" class="contentBox toggleBox" style="background: url({{'./assets/css/images/loading.gif' | relative_url }}) center center no-repeat transparent; display: none;"><object id="publication_supp_pdf" class="contentBox" data="{{ supp_pdf  | relative_url }}"><p>PDF cannot be displayed.</p></object></div>
 		{% endif %}
@@ -196,6 +206,14 @@ layout: default
 			$('.toggleBox').hide();
 			if( !wasHidden ) {
 				$('#box-pdf').show();
+			}
+		});
+
+		$('#toggle-pdfsupp').click(function(){
+			var wasHidden = $('#box-pdfsupp').is( ':visible' );
+			$('.toggleBox').hide();
+			if( !wasHidden ) {
+				$('#box-pdfsupp').show();
 			}
 		});
 

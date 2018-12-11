@@ -53,6 +53,9 @@ talk:       'https://vimeo.com/303651560'
 #link to publication pdf (optional)
 pdf:        './publications/2018_hadwiger_killingobservers.pdf'
 
+#link to appendix pdf (optional)
+pdfsupp:    './publications/2018_hadwiger_killingobservers_appendixes.pdf'
+
 #insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
   @article{Hadwiger2019ObserverKillingFields,<br>
@@ -68,9 +71,6 @@ citation:   >
 #insert links to additional material for the publication (optional)
 #links need a title, a URL and a type (this defines the link icon) which can be one of the following values: code, archive, files, slides or text (this is the default icon)
 links: 
- - title: Appdx
-   type:  pdf
-   url:   './publications/2018_hadwiger_killingobservers_appendixes.pdf'
  - title: Slides
    type:  slides
    url:   './publications/2018_hadwiger_killingobservers_slides.pdf'
