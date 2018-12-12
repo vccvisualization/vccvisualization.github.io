@@ -65,7 +65,7 @@ citation:   >
    &nbsp;&nbsp;year = {2019}<br>
    &nbsp;&nbsp;volume = {25},<br>
    &nbsp;&nbsp;number = {1},<br>
-   &nbsp;&nbsp;pages = {1257-1266}<br>
+   &nbsp;&nbsp;pages = {1257--1266}<br>
   }
 
 #insert links to additional material for the publication (optional)
