@@ -1,4 +1,4 @@
-- name:   Haneen Mohammed
+﻿- name:   Haneen Mohammed
   prefix: Msc.
   role:   PhD Student<br> Columbia University
   image:  ./images/people/mohammed.jpg
@@ -19,13 +19,6 @@
   url:    https://scholar.google.com/citations?user=sc8Z-9jUXdAC&hl
   #info:   todo
 
-- name:   Ronell Sicat
-  prefix: Dr.
-  role:   Postdoctoral Fellow,<br>Harvard University
-  image:  ./images/people/sicat.jpg
-  url:    https://sites.google.com/view/ronellsicat
-  #info:   todo
-  
 - name:   Johanna Beyer
   prefix: Dr.
   role:   Research Associate,<br>Harvard University
