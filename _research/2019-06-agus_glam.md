@@ -27,11 +27,11 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-  Computer Graphics Forum, Vol.38, No.3 (Proceedings of 21st EG/VGTC Conference on Visualization)
+  Computer Graphics Forum, Vol.38, No.3 (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2019), pp. 427-439
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
-   EuroVis 2019
+   Eurovis 2019
 
 #specify publication year
 year:       2019
@@ -55,16 +55,16 @@ video:      './publications/2019_agus_glam.mp4'
 #link to publication pdf (optional)
 pdf:        './publications/2019_agus_glam.pdf'
 
-
 #insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
   @article{Agus2019ivv,<br>
-   &nbsp;&nbsp;title = {Interactive Volumetric Visual Analysis of Glycogen-derived Energy Absorption in Nanometric Brain Structures},<br>
    &nbsp;&nbsp;author = {Ronell Sicat and Jiabao Li and JunYoung Choi and Maxime Cordeil and Won-ki Jeong and Benjamin Bach and Hanspeter PfisterMarco Agus and Corrado Cal\`i and Ali Al-Awami and Enrico Gobbetti and Pierre Magistretti and Markus Hadwiger},<br>
-   &nbsp;&nbsp;journal = {Computer Graphics Forum},<br>
-   &nbsp;&nbsp;year = {2019}<br>
+   &nbsp;&nbsp;title = {Interactive Volumetric Visual Analysis of Glycogen-derived Energy Absorption in Nanometric Brain Structures},<br>
+   &nbsp;&nbsp;journal = {Computer Graphics Forum (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2019},<br>
    &nbsp;&nbsp;volume = {38},<br>
    &nbsp;&nbsp;number = {3},<br>
+   &nbsp;&nbsp;pages = {427--439},<br>
+   &nbsp;&nbsp;year = {2019}<br>
   }
   
 #insert links to additional material for the publication (optional)
