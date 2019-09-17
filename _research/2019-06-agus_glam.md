@@ -58,7 +58,7 @@ pdf:        './publications/2019_agus_glam.pdf'
 #insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
   @article{Agus2019ivv,<br>
-   &nbsp;&nbsp;author = {Ronell Sicat and Jiabao Li and JunYoung Choi and Maxime Cordeil and Won-ki Jeong and Benjamin Bach and Hanspeter PfisterMarco Agus and Corrado Cal\`i and Ali Al-Awami and Enrico Gobbetti and Pierre Magistretti and Markus Hadwiger},<br>
+   &nbsp;&nbsp;author = {Marco Agus and Corrado Cal\`i and Ali Al-Awami and Enrico Gobbetti and Pierre Magistretti and Markus Hadwiger},<br>
    &nbsp;&nbsp;title = {Interactive Volumetric Visual Analysis of Glycogen-derived Energy Absorption in Nanometric Brain Structures},<br>
    &nbsp;&nbsp;journal = {Computer Graphics Forum (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2019},<br>
    &nbsp;&nbsp;volume = {38},<br>
