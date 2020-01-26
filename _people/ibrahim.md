@@ -16,7 +16,7 @@ title:		Mohamed Ibrahim
 name:       Mohamed Ibrahim
 
 #your role in the vis group
-role:       PhD Student
+role:       Post-Doctoral Fellow
 
 #link to your image
 image:      ./images/people/ibrahim.jpg
@@ -53,6 +53,7 @@ address:    Visual Computing Center, Bldg. 1, Office 2101<br>4700 King Abdullah 
 ### Education Profile
 - B.Sc. in Computer Engineering, The American University in Cairo (AUC), 2010.
 - M.Sc. in Computer Science, KAUST, 2012.
+- PhD in Computer Science, KAUST, 2019.
 
 ### KAUST Affiliations
 - ​Visual Computing Center (VCC)
