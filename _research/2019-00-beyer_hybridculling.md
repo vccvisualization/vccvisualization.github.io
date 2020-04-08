@@ -27,7 +27,7 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   IEEE Transactions on Visualization and Computer Graphics, Vol.25, No.1 (Proceedings IEEE Scientific Visualization 2018), to appear
+   IEEE Transactions on Visualization and Computer Graphics, Vol.25, No.1 (Proceedings IEEE Scientific Visualization 2018), pp. 1132-1141
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
@@ -49,6 +49,9 @@ thumbnail:  './publications/2018_beyer_thumbnail.png'
 #link to publication video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
 video:      './publications/2018_beyer_hybridculling.mp4'
 
+#link to talk video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
+talk:       'https://vimeo.com/303253176'
+
 #link to publication pdf (optional)
 pdf:        './publications/2018_beyer_hybridculling.pdf'
 
@@ -61,7 +64,7 @@ citation:   >
    &nbsp;&nbsp;year = {2019}<br>
    &nbsp;&nbsp;volume = {25},<br>
    &nbsp;&nbsp;number = {1},<br>
-   &nbsp;&nbsp;pages = {to appear}<br>
+   &nbsp;&nbsp;pages = {1132--1141}<br>
   }
 
 #insert links to additional material for the publication (optional)

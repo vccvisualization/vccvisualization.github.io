@@ -48,6 +48,9 @@ thumbnail:  './publications/2017_ibrahim_thumbnail.png'
 #link to publication video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
 video:      './publications/2017_ibrahim_SNDF.mp4'
 
+#link to talk video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
+talk:       'https://vimeo.com/237673207'
+
 #link to publication pdf (optional)
 pdf:        './publications/2017_ibrahim_SNDF.pdf'
 
@@ -67,9 +70,12 @@ citation:   >
 #insert links to additional material for the publication (optional)
 #links need a title, a URL and a type (this defines the link icon) which can be one of the following values: code, archive, files, slides or text (this is the default icon)
 links: 
- - title: Supplementary Material
+ - title: Supplementary Materials
    type:  pdf
-   url:   './publications/2017_ibrahim_SNDF_supplementary.pdf' 
+   url:   './publications/2017_ibrahim_SNDF_supplementary.pdf'
+ - title: Code
+   type:  github
+   url:   'https://bitbucket.org/moeizle/sndfs/'
 # - title: ExampleSlides
 #   type:  slides
 #   url:   './publications/presentation.pptx' 
