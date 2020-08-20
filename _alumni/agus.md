@@ -16,19 +16,19 @@ title:		Marco Agus
 name:       Marco Agus
 
 #your role in the vis group
-role:       Research Engineer
+role:       Alumnus (former Research Engineer)
 
 #link to your image
 image:      ./images/people/agus.jpg
 
 #your email address
-email:      marco.agus@kaust.edu.sa
+email:      MAgus@hbku.edu.qa
 
 #your phone number (optional)
 #phone:      +966 (0) 12-808-xxxx
 
 #your address at the VCC
-address:    Visual Computing Center, Bldg. 1<br>4700 King Abdullah University of Science and Technology<br>Thuwal 23955-6900, Saudi Arabia
+#address:    Visual Computing Center, Bldg. 1<br>4700 King Abdullah University of Science and Technology<br>Thuwal 23955-6900, Saudi Arabia
 
 #a brief description of yourself
 #info:       Here's a brief description about myself
@@ -96,4 +96,4 @@ Proc. 21st International Workshop on Vision, Modeling and Visualization (VMV), (
 - Best paper IEEE Virtual Reality 2002  in Orlando, USA
  
 ### KAUST Affiliations
-​​Visual Computing Center (VCC)
+​​V#isual Computing Center (VCC)

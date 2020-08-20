@@ -1,34 +1,41 @@
 ﻿- name:   Haneen Mohammed
   prefix: Msc.
-  role:   PhD Student<br> Columbia University
+  role:   PhD Student<br>Columbia University
   image:  ./images/people/mohammed.jpg
   url:    ./alumni/mohammed/
   #info:   todo
 
+- name:   Marco Agus
+  prefix: Prof. Dr.
+  role:   Assistant Professor<br>College of Science and Engineering, HBKU
+  image:  ./images/people/agus.jpg
+  url:    ./alumni/agus/
+  #info:   todo
+
 - name:  Amal Aboulhassan
   prefix: Dr.
-  role:   MaterialSolved <br> Startup, KSA, Egypt
+  role:   MaterialSolved<br>Startup, KSA, Egypt
   image:  ./images/people/aboulhassan.jpg
   url:    ./alumni/aboulhassan/
   #info:   todo
 
 - name:   Ali Awami
   prefix: Dr.
-  role:   Visualization Specialist,<br>Saudi Aramco
+  role:   Visualization Specialist<br>Saudi Aramco
   image:  ./images/people/awami.jpg
   url:    https://scholar.google.com/citations?user=sc8Z-9jUXdAC&hl
   #info:   todo
 
 - name:   Johanna Beyer
   prefix: Dr.
-  role:   Research Associate,<br>Harvard University
+  role:   Research Associate<br>Harvard University
   image:  ./images/people/beyer.jpg
   url:    https://johanna-b.github.io
   #info:  todo
   
 - name:   Thomas Höllt
-  prefix: Dr.
-  role:   Assistant Professor,<br>Leiden Computational Biology Center
+  prefix: Prof. Dr.
+  role:   Assistant Professor<br>Leiden Computational Biology Center
   image:  ./images/people/hoellt.jpg
   url:    https://www.thomashollt.com
   #info:  todo
