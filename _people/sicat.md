@@ -6,7 +6,7 @@ slug:       sicat
 layout: 	person
 
 #specifies index in the generated people list (if in doubt, set to 10)
-sequence:	8
+sequence:	6
 
 #your academic title (uncomment by removing the leading # if applicable)
 prefix:    Dr.

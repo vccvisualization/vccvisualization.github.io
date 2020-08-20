@@ -6,10 +6,10 @@ slug:       ibrahim
 layout: 	person
 
 #specifies index in the generated people list (if in doubt, set to 10)
-sequence:	6
+sequence:	8
 
 #your academic title (uncomment by removing the leading # if applicable)
-#prefix:    Dr.
+prefix:    Dr.
 
 #your name (twice)
 title:		Mohamed Ibrahim

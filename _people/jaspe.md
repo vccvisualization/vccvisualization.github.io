@@ -1,39 +1,39 @@
 ---
 #URL handle for generated page
-slug:       you
-
-preferredLink: ./#join
+slug:       jaspe
 
 #specifies layout to be used for page generation (do not modify)
 layout: 	person
 
 #specifies index in the generated people list (if in doubt, set to 10)
-sequence:	20
+sequence:	9
 
 #your academic title (uncomment by removing the leading # if applicable)
-prefix:    MSc.
+prefix:     Dr.
 
 #your name (twice)
-title:		Join Our Team
-name:       Join Our Team
+title:		Alberto Jaspe
+name:       Alberto Jaspe
 
 #your role in the vis group
-role:       PhD Student or PostDoc
+role:       Post-Doctoral Fellow
 
 #link to your image
+#image:      ./images/people/jaspe.jpg
 image:      ./images/people/nerd-glasses.png
 
 #your email address
-email:      me@kaust.edu.sa
+email:      alberto.jaspe@kaust.edu.sa
 
 #your phone number (optional)
-phone:      +966 (0) xxxxxxxxx
+#phone:      +966 (0) 12-808-xxxx
 
 #your address at the VCC
-address:    Visual Computing Center, Bldg. 1, lvl. 2, Office 2xxx<br>4700 King Abdullah University of Science and Technology<br>Thuwal 23955-6900, Saudi Arabia
+address:    Visual Computing Center, Bldg. 1, Office 2101<br>4700 King Abdullah University of Science and Technology<br>Thuwal 23955-6900, Saudi Arabia
 
 #a brief description of yourself
-# info:       
+#info:       Here's a brief description about myself
+
 # optional: add links to various online presences/websites (uncomment by removing the leading # if applicable)
 # possible link types: twitter, github, facebook, linkedin, google_scholar, google_plus, instagram, skype, youtube, vimeo, flickr, web (use the latter for all other link types)
 #links:
@@ -48,14 +48,13 @@ address:    Visual Computing Center, Bldg. 1, lvl. 2, Office 2xxx<br>4700 King A
 #content is written in markdown (check out this markdown cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 #for a uniform style, please write section headings with ### (three sharps)
 ---
-### About Myself
-I'm interested in Computer Graphics, High-Performance Visualization and all kinds of GPU stuff. I'm dreaming of voxels and breathing pixels.
-I like to work independently but can also blend into a team when working on a collaborative project. 
+### Research Interests
+​My research is concerned with Large-Scale Data Visualization.
 
 ### Education Profile
-* MSc Computer Science, Math, Physics or similar
-* BSc Computer Science, Math, Physics or similar
+- M.Sc. in Computer Science, University of A Coruna, 2012.
+- PhD in Computer Science, University of A Coruna, 2018.
 
-### Professional Profile
-* I've done a bunch of things but professionally I'm just a nerd.
-
+### KAUST Affiliations
+- ​Visual Computing Center (VCC)
+- Computer, Electrical and Mathematical Sciences & Engineering (CEMSE)
