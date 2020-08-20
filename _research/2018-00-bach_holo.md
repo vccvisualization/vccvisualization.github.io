@@ -14,7 +14,7 @@ title:      >
    The Hologram in My Hand: How Effective is Interactive Exploration of 3D Visualizations in Immersive Tangible Augmented Reality?
 
 #include in selected publications on front page (optional, delete line if not applicable)
-display: selected
+#display: selected
 
 #list all publication authors in correct order
 authors:

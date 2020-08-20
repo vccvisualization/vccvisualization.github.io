@@ -14,7 +14,7 @@ title:      >
    NeuroBlocks - Visual Tracking of Segmentation and Proofreading for Large Connectomics Projects
 
 #include in selected publications on front page (optional, delete line if not applicable)
-display: selected
+#display: selected
 
 #list all publication authors in correct order
 authors:
