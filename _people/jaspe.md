@@ -49,7 +49,7 @@ address:    Visual Computing Center, Bldg. 1, Office 2101<br>4700 King Abdullah 
 #for a uniform style, please write section headings with ### (three sharps)
 ---
 ### Research Interests
-​My research is concerned with Large-Scale Data Visualization.
+​My research is concerned with Large-Scale 3D Data Exploration.
 
 ### Education Profile
 - M.Sc. in Computer Science, University of A Coruna, 2012.
