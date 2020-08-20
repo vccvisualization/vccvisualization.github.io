@@ -6,7 +6,7 @@ slug:       grigs
 layout: 	person
 
 #specifies index in the generated people list (if in doubt, set to 10)
-sequence:	11
+sequence:	10
 
 #your academic title (uncomment by removing the leading # if applicable)
 #prefix:    MSc.
@@ -19,7 +19,7 @@ name:       Juris Grigs
 role:       PhD Student
 
 #link to your image
-image:      ./images/people/nerd-glasses.png
+image:      ./images/people/grigs.jpg
 
 #your email address
 email:      juris.grigs@kaust.edu.sa

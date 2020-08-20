@@ -65,7 +65,7 @@ citation:   >
    &nbsp;&nbsp;title = {Objective Observer-Relative Flow Visualization in Curved Spaces for Unsteady 2D Geophysical Flows},<br>
    &nbsp;&nbsp;author = {Rautek, Peter and Mlejnek, Matej and Beyer, Johanna and Troidl, Jakob and Pfister, Hanspeter and Theu{\ss}l, Thomas and Hadwiger, Markus},<br>
    &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2020)},<br>
-   &nbsp;&nbsp;year = {2020}<br>
+   &nbsp;&nbsp;year = {2021}<br>
    &nbsp;&nbsp;volume = {27},<br>
    &nbsp;&nbsp;number = {2},<br>
    &nbsp;&nbsp;pages = {to appear}<br>

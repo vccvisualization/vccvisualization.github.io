@@ -6,7 +6,7 @@ slug:       zhang
 layout: 	person
 
 #specifies index in the generated people list (if in doubt, set to 10)
-sequence:	12
+sequence:	11
 
 #your academic title (uncomment by removing the leading # if applicable)
 #prefix:    MSc.
@@ -19,7 +19,7 @@ name:       Xingdi Zhang
 role:       MS/PhD Student
 
 #link to your image
-image:      ./images/people/nerd-glasses.png
+image:      ./images/people/zhang.jpg
 
 #your email address
 #email:      xingdi.zhang@kaust.edu.sa

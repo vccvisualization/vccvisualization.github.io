@@ -6,7 +6,7 @@ slug:       ageeli
 layout: 	person
 
 #specifies index in the generated people list (if in doubt, set to 10)
-sequence:	10
+sequence:	9
 
 #your academic title (uncomment by removing the leading # if applicable)
 #prefix:    MSc.
@@ -19,7 +19,7 @@ name:       Amani Ageeli
 role:       PhD Student
 
 #link to your image
-image:      ./images/people/nerd-glasses.png
+image:      ./images/people/ageeli.jpg
 
 #your email address
 email:      amani.ageeli@kaust.edu.sa
@@ -46,7 +46,7 @@ address:    Visual Computing Center, Bldg. 1, lvl. 2, Office 2xxx<br>4700 King A
 #content is written in markdown (check out this markdown cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 #for a uniform style, please write section headings with ### (three sharps)
 ---
-### About Myself
+### Research Interests
 I'm interested in Computer Graphics, Scientific Visualization and Artificial Intelligence, including AR and VR Visual Computing.
 
 ### Education Profile
