@@ -31,7 +31,7 @@ email:      alberto.jaspe@kaust.edu.sa
 address:    Visual Computing Center, Bldg. 1, Office 2101<br>4700 King Abdullah University of Science and Technology<br>Thuwal 23955-6900, Saudi Arabia
 
 #a brief description of yourself
-info:       Here's a brief description about myself
+#info:       Here's a brief description about myself
 
 # optional: add links to various online presences/websites (uncomment by removing the leading # if applicable)
 # possible link types: twitter, github, facebook, linkedin, google_scholar, google_plus, instagram, skype, youtube, vimeo, flickr, web (use the latter for all other link types)
@@ -56,11 +56,11 @@ links:
 * PhD in Computer Science, CRS4 (Italy) and University of A Coruna (Spain), 2018.
 
 ### Professional Profile
-* 2020 – today: Post-Doctoral Fellow Researcher, KAUST (Saudi Arabia)
-* 2016 – 2020: Expert Reseacher, Visual Computing Group - CRS4 (Italy)
-* 2013 – 2015: Marie Curie Early Stage Researcher, Visual Computing Group - CRS4 (Italy)
-* 2010 – 2012: Head of R&D, CEGA Audvisual S.L. (Spain)
-* 2003 – 2010: Undergraduated researcher, VideaLAB - University of A Coruña, Spain.
+* 2020 – today: Post-Doctoral Fellow Researcher, [High-Performance Visualization Group](http://vccvisualization.org) - [KAUST](http://kaust.edu.sa) (Saudi Arabia)
+* 2016 – 2020: Expert Reseacher, [Visual Computing Group](http://vic.crs4.it) - [CRS4](http://www.crs4.it) (Italy)
+* 2013 – 2015: Marie Curie Early Stage Researcher, [Visual Computing Group](http://vic.crs4.it) - [CRS4](http://www.crs4.it) (Italy)
+* 2010 – 2012: Head of R&D, [CEGA Audiovisuales S.L.](http://cega.es) (Spain)
+* 2003 – 2010: Undergraduated researcher, [VideaLAB](http://videalab.udc.es) - [University of A Coruña](http://udc.es/en) (Spain)
 
 ### KAUST Affiliations
 - ​Visual Computing Center (VCC)
