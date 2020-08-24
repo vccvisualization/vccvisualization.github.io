@@ -53,12 +53,12 @@ links:
 Alberto is a passionate of Computer Graphics and Visual Computing. His main interest lies in the exploration of massive models and complex data, from acquisition to real-time visualization and interaction.
 
 ### Education Profile
-* B.Sc. in Computer Science, University of A Coruna (Spain), 2011.
+* MSc academic excellence award by BULL (Spain, 2013)
 * M.Sc. in High-Performance Computing, University of A Coruna (Spain), 2012.
-* PhD in Computer Science, CRS4 (Italy) and University of A Coruna (Spain), 2018.
+* B.Sc. in Computer Science, University of A Coruna (Spain), 2011.
 
 ### Professional Profile
-* 2020 – today: Post-Doctoral Fellow Researcher, [High-Performance Visualization Group](http://vccvisualization.org) - [KAUST](http://kaust.edu.sa) (Saudi Arabia)
+* 2020 – today: Post-Doctoral Research Fellow, [High-Performance Visualization Group](http://vccvisualization.org) - [KAUST](http://kaust.edu.sa) (Saudi Arabia)
 * 2016 – 2020: Expert Reseacher, [Visual Computing Group](http://vic.crs4.it) - [CRS4](http://www.crs4.it) (Italy)
 * 2013 – 2015: Marie Curie Early Stage Researcher, [Visual Computing Group](http://vic.crs4.it) - [CRS4](http://www.crs4.it) (Italy)
 * 2010 – 2012: Head of R&D, [CEGA Audiovisuals S.L.](http://cega.es) (Spain)
@@ -114,14 +114,13 @@ Proc. 5th Japan-Korea CAD/CAM Workshop (2005)
 
 ### Awards
 * Best paper at Graphics in Cultural Heritage GCH conf. (Bosnia, 2019)
-* PhD thesis selected for Thesis Fast-forward session at ACM SIGGRAPH conf. (USA, 2019)
+* PhD thesis selected for Thesis Fast-forward session at ACM SIGGRAPH'19 conf. (USA, 2019)
 * Best papers selection ACM Interactive 3D Graphics and Games i3D conf. (USA, 2016)
-* MSc academic excellence award by BULL (Spain, 2013)
 * Best MSc thesis award by AMD (Spain, 2013)
+* MSc academic excellence award by BULL (Spain, 2013)
 * Best BSc thesis award by the Professional Association of Computer Science of Galicia (Spain, 2013)
 * Best Real-Time Presentation, CG Architect Awards (2011)
 * Best paper award at Iberoamerican Society of Computer Graphics conf. (Chile, 2006)
-* First prize at the 1st Business Ideas Contest, by University of La Coruña (Spain, 2003)
 
 ### KAUST Affiliations
 - ​Visual Computing Center (VCC)
