@@ -53,7 +53,7 @@ links:
 Alberto is a passionate of Computer Graphics and Visual Computing. His main interest lies in the exploration of massive models and complex data, from acquisition to real-time visualization and interaction.
 
 ### Education Profile
-* MSc academic excellence award by BULL (Spain, 2013)
+* Ph.D. in Computer Science, CRS4 (Italy) and University of A Coruna (Spain), 2018.
 * M.Sc. in High-Performance Computing, University of A Coruna (Spain), 2012.
 * B.Sc. in Computer Science, University of A Coruna (Spain), 2011.
 
