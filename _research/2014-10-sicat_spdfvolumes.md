@@ -14,7 +14,7 @@ title:      >
    Sparse PDF Volumes for Consistent Multi-Resolution Volume Rendering
 
 #include in selected publications on front page (optional, delete line if not applicable)
-display: selected
+#display: selected
 
 #list all publication authors in correct order
 authors:
