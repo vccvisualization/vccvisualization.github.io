@@ -27,7 +27,7 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   IEEE Scientific Visualization 2018 Short Papers, to appear
+   IEEE Scientific Visualization 2018 Short Papers, pp. 52-56
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
@@ -59,7 +59,7 @@ citation:   >
    &nbsp;&nbsp;author = {Friedrici, Anke and Toye Mahamadou Kele, Habib and Hoteit, Ibrahim and Weinkauf, Tino and Theisel, Holger and Hadwiger, Markus},<br>
    &nbsp;&nbsp;booktitle = {IEEE Scientific Visualization 2018 Short Papers},<br>
    &nbsp;&nbsp;year = {2018}<br>
-   &nbsp;&nbsp;pages = {to appear}<br>
+   &nbsp;&nbsp;pages = {52--56}<br>
   }
 
 #insert links to additional material for the publication (optional)
