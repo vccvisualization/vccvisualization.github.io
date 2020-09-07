@@ -54,10 +54,10 @@ thumbnail:  './publications/2020_rautek_thumbnail.png'
 #talk:       ''
 
 #link to publication pdf (optional)
-#pdf:        './publications/2020_rautek_killingsurfaces.pdf'
+pdf:        './publications/2020_rautek_killingsurfaces.pdf'
 
 #link to appendix pdf (optional)
-#pdfsupp:    './publications/2020_rautek_killingsurfaces_appendixes.pdf'
+pdfsupp:    './publications/2020_rautek_killingsurfaces_appendixes.pdf'
 
 #insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
@@ -73,7 +73,10 @@ citation:   >
 
 #insert links to additional material for the publication (optional)
 #links need a title, a URL and a type (this defines the link icon) which can be one of the following values: code, archive, files, slides or text (this is the default icon)
-#links: 
+links: 
+ - title: HQ Paper + Appendix
+   type:  pdf
+   url:   './publications/2020_rautek_killingsurfaces_with_appendixes_hq.pdf' 
 # - title: Slides
 #   type:  slides
 #   url:   './publications/2020_rautek_killingsurfaces_slides.pdf'
