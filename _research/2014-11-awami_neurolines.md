@@ -32,7 +32,7 @@ venue:      >
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
-   IEEE Information Visualization 2014 (Honorable Mention Best Paper)
+   IEEE Information Visualization 2014 <span style="color:rgb(180,0,0);">(Honorable Mention Best Paper)</span>
 
 #specify publication year
 year:       2014

@@ -32,7 +32,7 @@ venue:      >
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
-   IEEE Scientific Visualization 2020
+   IEEE Scientific Visualization 2020 <span style="color:rgb(180,0,0);">(Best Paper Award)</span>
 
 #specify publication year
 year:       2021
