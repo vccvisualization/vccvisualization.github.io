@@ -48,7 +48,7 @@ teaser:     './publications/2020_rautek_killingsurfaces.jpg'
 thumbnail:  './publications/2020_rautek_thumbnail.png'
 
 #link to publication video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
-#video:      './publications/2020_rautek_killingsurfaces.mp4'
+video:      'https://vimeo.com/458350874'
 
 #link to talk video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
 #talk:       ''
