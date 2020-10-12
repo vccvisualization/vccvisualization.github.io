@@ -45,11 +45,11 @@ links:
 #[I can also link to stuff](http://link-to-my-cv.com "Link hover description")
 ---
 ### Research Interests
-​Prof. Hadwiger's research interests are in scientific visualization and visual computing. They specifically focus on the visualization of extreme-scale data, volume visualization, medical visualization, large-scale image and volume processing, multi-resolution techniques, data streaming and out-of-core processing, domain-specific languages for visualization, interactive segmentation, and GPU algorithms and architecture.
+​Prof. Hadwiger's research interests are in scientific visualization and visual computing. They specifically focus on the visualization of extreme-scale data, volume visualization, flow visualization, differential geometry and mathematical physics in visualization, medical visualization, large-scale image and volume processing, multi-resolution techniques, data streaming and out-of-core processing, domain-specific languages for visualization, interactive segmentation, and GPU algorithms and architecture.
 
 ### Education profile
 - Ph.D. Computer Science, Vienna University of Technology, Austria, 2004
-- Dipl.-Ing. (MSc), Computer Science, Vienna University of Technology, Austria, 2000
+- Dipl.-Ing. (MS), Computer Science, Vienna University of Technology, Austria, 2000
 
 ### Professional Profile
 - 2014 - : Associate Professor of Computer Science at King Abdullah University of Science and Technology, Thuwal, Saudi Arabia.
@@ -58,6 +58,7 @@ links:
 - 2000 - 2004: Researcher in Basic Research on Visualization and Medical Visualization, VRVis Research Center, Vienna, Austria.
 
 ### Awards
+- Best Paper Award at IEEE Visualization 2020.
 - Honorable Mention for Best Paper Award (top four papers) at IEEE Information Visualization 2014.
 - Best Poster Award at Symposium on Biological Data Visualization (BioVis 2014).
 - Honorable Mention for Best Paper Award (top five papers) at IEEE Pacific Visualization 2013.
