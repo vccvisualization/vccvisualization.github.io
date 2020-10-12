@@ -60,7 +60,7 @@ links:
 ### Awards
 - Best Paper Award at IEEE Scientific Visualization 2020.
 - Honorable Mention for Best Paper Award (top four papers) at IEEE Information Visualization 2014.
-- Best Poster Award at Symposium on Biological Data Visualization (BioVis 2014).
+- Best Poster Award at Symposium on Biological Data Visualization (BioVis) 2014.
 - Honorable Mention for Best Paper Award (top five papers) at IEEE Pacific Visualization 2013.
 - Honorable Mention for Best Paper Award (top three papers) at IEEE Scientific Visualization 2012.
 - Best Application Paper Award at IEEE Visualization 2007.
