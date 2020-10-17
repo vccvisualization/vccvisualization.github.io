@@ -38,6 +38,8 @@ address:    Visual Computing Center, Bldg. 1, Office 2119<br>4700 King Abdullah 
 links:
  - type: google_scholar
    url:  "https://scholar.google.com/citations?user=wmx7KVUAAAAJ"
+ - type: twitter
+   url:  "https://twitter.com/vcc_vis"
    
 #below the following --- enter the content to your personal page
 #content is written in markdown (check out this markdown cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
