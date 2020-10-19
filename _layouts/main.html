@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% assign section = site.data.content['top'] %}		
+{% assign section = site.data.content['top'] %}
 {% if section %}
 	<div class="wrapper first style2">
 		<article class="container" id="top" style="margin-bottom: 2em">
@@ -26,31 +26,63 @@ layout: default
 {% endif %}
 
 <!-- SECTION About -->
-{% assign section = site.data.content['about'] %}		
+{% assign section = site.data.content['about'] %}
 {% if section %}
 	<div class="wrapper style2">
 		<article class="container" id="about">
 			<!-- content for ABOUT SECTION -->
 			<h4 style="font-size: 1.8em">{{ section.header }}</h4>
 			<p>{{ section.text }}</p>
-			<footer><p>{{ section.footer }}</p></footer>
-		</article>
+			<!-- <footer><p>{{ section.footer }}</p></footer> -->
+
+		<!-- SECTION News -->
+		{% assign section = site.data.content['news'] %}
+		{% if section %}
+		<!-- content for NEWS SECTION -->
+		<h2>{{ section.header }}</h2>
+		<ul class='news'>
+	  {% for post in site.posts limit:3 %}
+		<li>
+		  <span class='news-date'>{{ post.date | date: "%B %Y" }} – </span><span class='news-title'> {{ post.title }}</span>
+		  <div class='news-text'>
+			{{post.content}}
+		  </div>
+		</li>
+	  {% endfor %}
+		<div class="sublist">
+			<input type="checkbox" id="check_id">
+			<label for="check_id"></label>
+			<ul>
+			  {% for post in site.posts offset:3 %}
+				<li>
+				  <span class='news-date'>{{ post.date | date: "%B %Y" }} – </span><span class='news-title'> {{ post.title }}</span>
+				  <div class='news-text'>
+					{{post.content}}
+				  </div>
+				</li>
+			  {% endfor %}
+			</ul>
+		</div>
+		</ul>
+		{% endif %}
 	</div>
+
+</article>
 {% endif %}
 
-<!-- SECTION People -->	
+<!-- SECTION People -->
 <div class="wrapper style2">
 	<!-- START fill people  -->
-	{% assign section = site.data.content['people'] %}	
-	{% assign boxes_per_row = 3 %}				
+	{% assign section = site.data.content['people'] %}
+	{% assign boxes_per_row = 3 %}
 	{% assign items_in_row = 0 %}
-	
-	
-	{% if section %}	
+
+
+	{% if section %}
 	<article id="people" style="margin-bottom: 0">
 		{% if section.header %}<h2>{{ section.header }}</h2>{% endif %}
 		{% if section.text %}<p>{{ section.text }}</p>{% endif %}
-		
+
 		<div class="container" id="people-list">
 		{% assign people = site.people | sort: 'sequence' %}
 		{% for person in people %}
@@ -58,7 +90,7 @@ layout: default
 				<!--generate new row -->
 				<div class="row">
 			{% endif %}
-		
+
 			<div class="4u 12u(mobile)">
 				{% if person.preferredLink %}
 				<a class="linkbox" href="{{ person.preferredLink }}">
@@ -78,15 +110,15 @@ layout: default
 				</a>
 			</div>
 			{% assign items_in_row = items_in_row | plus: 1 %}
-				
+
 			{% if items_in_row == boxes_per_row %}
 				<!--close row -->
 				</div>
 				{% assign items_in_row = 0 %}
 			{% endif %}
 		{% endfor %}
-		
-		
+
+
 		{% if items_in_row != 0 %}
 			<!-- fill up remaining space with empty boxes -->
 			{% assign num_empty_boxes = boxes_per_row | minus: items_in_row %}
@@ -101,25 +133,25 @@ layout: default
 	{% endif %}
 
 
-	
+
 	<!-- START fill alumni -->
 	{% assign section = site.data.content['alumni'] %}
-	{% assign boxes_per_row = 2 %}				
+	{% assign boxes_per_row = 2 %}
 	{% assign items_in_row = 0 %}
-	
-	{% if section %}	
+
+	{% if section %}
 	<article id="alumni">
 		{% if section.header %}<h2>{{ section.header }}</h2>{% endif %}
 		{% if section.text %}<p>{{ section.text }}</p>{% endif %}
 		<div class="container" id="alumni-list">
 		{% for person in site.data.alumni %}
 			{% if items_in_row == 0 %}
-				
+
 				<div class="row">
 			{% endif %}
-			
+
 			<div class="6u 12u(mobile)">
-				{% if person.url %} 
+				{% if person.url %}
 				<a class="linkbox" href="{{ person.url }}" target="_blank">
 				{% endif %}
 					<div class="box style1">
@@ -132,21 +164,21 @@ layout: default
 							<p>{{ person.info }}</p>
 						{% endif %}
 					</div>
-				{% if person.url %} 
+				{% if person.url %}
 				</a>
 				{% endif %}
 			</div>
 			{% assign items_in_row = items_in_row | plus: 1 %}
-				
+
 			{% if items_in_row == boxes_per_row %}
-				
+
 				</div>
 				{% assign items_in_row = 0 %}
 			{% endif %}
 		{% endfor %}
-		
+
 		{% if items_in_row != 0 %}
-			
+
 			{% assign num_empty_boxes = boxes_per_row | minus: items_in_row %}
 			{% for num in (1..num_empty_boxes) %}
 				<div class="6u 12u(mobile)"></div>
@@ -160,27 +192,27 @@ layout: default
 
 </div>
 
-<!-- Research SECTION -->		
+<!-- Research SECTION -->
 <div class="wrapper style2">
-	{% assign section = site.data.content['research'] %}		
-	{% if section %}	
+	{% assign section = site.data.content['research'] %}
+	{% if section %}
 	<article id="research">
 		{% if section.header %}<h2>{{ section.header }}</h2>{% endif %}
 		{% if section.text %}<p>{{ section.text }}</p>{% endif %}
 		<div class="container" id="publication-list">
 			<!--content for RESEARCH -->
-			{% assign boxes_per_row = 2 %}		
+			{% assign boxes_per_row = 2 %}
 			{% assign items_in_row = 0 %}
 			{% for publication in site.research reversed %}
 				{% unless publication.display and publication.display == 'selected' %}
 					{% continue %}
 				{% endunless %}
-				
+
 				{% if items_in_row == 0 %}
 					<!--generate new row -->
 					<div class="row">
 				{% endif %}
-				
+
 				<div class="6u 8u(mobile)">
 					<a class="linkbox open-modal" rel="modal:open" href="{{ publication.url }}">
 						<article class="box style2 listbox relbox">
@@ -193,7 +225,7 @@ layout: default
 								{% assign firstname = author | split: " " | first %}
 								{% assign firstletter = firstname | truncate: 1, '' %}
 								{% assign lastname = author | split: " " | last %}
-								
+
 								{{firstletter}}. {{lastname}}{% if forloop.last != true %},{% endif %}
 							{% endfor %}
 							{% if publication.shortvenue %}
@@ -210,7 +242,7 @@ layout: default
 					</a>
 				</div>
 				{% assign items_in_row = items_in_row | plus: 1 %}
-				
+
 				{% if items_in_row == boxes_per_row %}
 					<!--close row -->
 					</div>
@@ -235,8 +267,8 @@ layout: default
 
 <!-- SECTION Teaching -->
 <div class="wrapper style2">
-	{% assign section = site.data.content['teaching'] %}		
-	{% if section %}	
+	{% assign section = site.data.content['teaching'] %}
+	{% if section %}
 		<article id="teaching">
 			{% if section.header %}<h2>{{ section.header }}</h2>{% endif %}
 			{% if section.text %}<p>{{ section.text }}</p>{% endif %}
@@ -262,19 +294,19 @@ layout: default
 
 <!-- SECTION Join US -->
 <div class="wrapper style2">
-	{% assign section = site.data.content['join'] %}		
+	{% assign section = site.data.content['join'] %}
 	{% if section %}
 		<article id="join">
 			{% if section.header %}<h2>{{ section.header }}</h2>{% endif %}
 			{% if section.text1 %}<p>{{ section.text1 }}</p>{% endif %}
-			
+
 			<div class="container">
 			<section class="style2 leftalign">
 			{% if section.text2 %}<p>{{ section.text2 }}</p>{% endif %}
 			</section>
 			</div>
 			{% if section.projectheader %}<h3>{{ section.projectheader }}</h3>{% endif %}
-			
+
 			{% if section.text3 %}<p>{{ section.text3 }}</p>{% endif %}
 			<div class="container" id="courses-list">
 				<!--content for projects -->
@@ -299,7 +331,7 @@ layout: default
 			</div>
 			<div><a href="mailto:peter.rautek@kaust.edu.sa" target="_blank"><button class="button slim rounded">Contact us!</button></a></div>
 			{% if section.footer %}<footer><p>{{ section.footer }}</p></footer>{% endif %}
-			
+
 		</article>
 	{% endif %}
 </div>
@@ -323,7 +355,7 @@ src="https://maps.googleapis.com/maps/api/js?key={{maps_settings.key}}&callback=
   var options = {
     // How zoomed in you want the map to start at (always required)
     zoom: 14,
-	
+
     // The latitude and longitude to center the map (always required)
     // centered at KAUST campus
     center: {
