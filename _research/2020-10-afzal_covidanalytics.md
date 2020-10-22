@@ -50,7 +50,7 @@ thumbnail:  './publications/2020_afzal_thumbnail.png'
 #video:      './publications/2020_afzal_covidanalytics.mp4'
 
 #link to publication pdf (optional)
-#pdf:        './publications/2020_afzal_covidanalytics.pdf'
+pdf:        './publications/2020_afzal_covidanalytics.pdf'
 
 #insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
