@@ -31,8 +31,5 @@ join:
     text3:  To get an initial understanding of what we are interested in and in which research field you could work at our group, see the project descriptions below.
     projectheader: List of Open Projects
 
-google_maps:
-    key:    AIzaSyBwLdpIUNeh__iQvrWCmyeo1fCViwIsA3U
-
 google_analytics:
     key:    UA-107447286-1
