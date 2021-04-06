@@ -28,7 +28,7 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   IEEE Transactions on Visualization and Computer Graphics, Vol.27, No.2 (Proceedings IEEE Scientific Visualization 2020), to appear
+   IEEE Transactions on Visualization and Computer Graphics, Vol.27, No.2 (Proceedings IEEE Scientific Visualization 2020), pp. 283-293
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
@@ -68,7 +68,7 @@ citation:   >
    &nbsp;&nbsp;year = {2021}<br>
    &nbsp;&nbsp;volume = {27},<br>
    &nbsp;&nbsp;number = {2},<br>
-   &nbsp;&nbsp;pages = {to appear}<br>
+   &nbsp;&nbsp;pages = {283-293}<br>
   }
 
 #insert links to additional material for the publication (optional)

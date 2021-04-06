@@ -27,7 +27,7 @@ authors:
 
 #insert publication venue (displayed on publication page)
 venue:      >
-   IEEE Visualization 2020 Short Papers, to appear
+   IEEE Visualization 2020 Short Papers, pp. 86-90
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
@@ -59,7 +59,7 @@ citation:   >
    &nbsp;&nbsp;author = {Afzal, Shehzad and Ghani, Sohaib and Jenkins-Smith, Hank and Ebert, David and Hadwiger, Markus and Hoteit, Ibrahim},<br>
    &nbsp;&nbsp;booktitle = {IEEE Visualization 2020 Short Papers},<br>
    &nbsp;&nbsp;year = {2020}<br>
-   &nbsp;&nbsp;pages = {to appear}<br>
+   &nbsp;&nbsp;pages = {86-90}<br>
   }
 
 #insert links to additional material for the publication (optional)
