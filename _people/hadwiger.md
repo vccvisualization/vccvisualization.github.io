@@ -16,7 +16,7 @@ name:       Markus Hadwiger
 title:      Markus Hadwiger
 
 #your role in the vis group
-role:       Professor
+role:       Professor of Computer Science
 
 #link to your image
 image:      ./images/people/hadwiger.jpg
