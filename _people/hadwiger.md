@@ -16,7 +16,7 @@ name:       Markus Hadwiger
 title:      Markus Hadwiger
 
 #your role in the vis group
-role:       Associate Professor
+role:       Professor
 
 #link to your image
 image:      ./images/people/hadwiger.jpg
@@ -50,11 +50,12 @@ links:
 ​Prof. Hadwiger's research interests are in scientific visualization and visual computing. They specifically focus on the visualization of extreme-scale data, volume visualization, flow visualization, differential geometry and mathematical physics in visualization, medical visualization, large-scale image and volume processing, multi-resolution techniques, data streaming and out-of-core processing, domain-specific languages for visualization, interactive segmentation, and GPU algorithms and architecture.
 
 ### Education profile
-- Ph.D. Computer Science, Vienna University of Technology, Austria, 2004
+- Ph.D., Computer Science, Vienna University of Technology, Austria, 2004
 - Dipl.-Ing. (MS), Computer Science, Vienna University of Technology, Austria, 2000
 
 ### Professional Profile
-- 2014 - : Associate Professor of Computer Science at King Abdullah University of Science and Technology, Thuwal, Saudi Arabia.
+- 2021 - : Professor of Computer Science at King Abdullah University of Science and Technology, Thuwal, Saudi Arabia.
+- 2014 - 2021: Associate Professor of Computer Science at King Abdullah University of Science and Technology, Thuwal, Saudi Arabia.
 - 2009 – 2014: Assistant Professor of Computer Science at King Abdullah University of Science and Technology, Thuwal, Saudi Arabia.
 - 2004 – 2009: Senior Researcher for Visualization at the VRVis Research Center, Vienna, Austria.
 - 2000 - 2004: Researcher in Basic Research on Visualization and Medical Visualization, VRVis Research Center, Vienna, Austria.
