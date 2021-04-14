@@ -9,7 +9,11 @@ layout: default
 			<span class="image featured left large rightpadded" id="personal_image"><img src="{{ page.image | relative_url }}" alt="page.name" /></span>
 			<div id="vcard">
 				<h2 id="personal_name">{{ page.prefix }} {{ page.name }}</h2>
-				<h4 id="personal_role">{{ page.role }}</h4>
+				{% if page.rolelong %} 
+					<h4 id="personal_role">{{ page.rolelong }}</h4>
+				{% else %}
+					<h4 id="personal_role">{{ page.role }}</h4>
+				{% endif %}
 				{% if page.address %} 
 					<p><i class="icon-map"> </i><span style="display: inline-flex" id="personal_address">{{ page.address }}</span></p>
 				{% endif %}
