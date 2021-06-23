@@ -5,4 +5,5 @@ _site
 .sass-cache/
 .sass-cache
 .jekyll-metadata
+.jekyll-cache
 
