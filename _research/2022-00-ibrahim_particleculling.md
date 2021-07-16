@@ -26,11 +26,11 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   IEEE Transactions on Visualization and Computer Graphics, Vol.28, No.2 (Proceedings IEEE Scientific Visualization 2021), to appear
+   IEEE Transactions on Visualization and Computer Graphics, Vol.28, No.2 (Proceedings IEEE Visualization 2021), to appear
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
-   IEEE Scientific Visualization 2021
+   IEEE Visualization 2021
 
 #specify publication year
 year:       2022
@@ -59,7 +59,7 @@ citation:   >
   @article{Ibrahim2021ProbabilisticParticleOcclusionCulling,<br>
    &nbsp;&nbsp;title = {Probabilistic Occlusion Culling using Confidence Maps for High-Quality Rendering of Large Particle Data},<br>
    &nbsp;&nbsp;author = {Ibrahim, Mohamed and Rautek, Peter and Reina, Guido and Agus, Marco and Hadwiger, Markus},<br>
-   &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2021)},<br>
+   &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Visualization 2021)},<br>
    &nbsp;&nbsp;year = {2022}<br>
    &nbsp;&nbsp;volume = {28},<br>
    &nbsp;&nbsp;number = {2},<br>
