@@ -25,11 +25,11 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   IEEE Transactions on Visualization and Computer Graphics, Vol.28, No.2 (Proceedings IEEE Visualization 2021), to appear
-   
+   IEEE Transactions on Visualization and Computer Graphics, Vol.28, No.2 (Proceedings IEEE VIS 2021), to appear
+  
 #insert short venue (displayed in box in publication list)
 shortvenue: >
-   IEEE Visualization 2021
+   IEEE VIS 2021
 
 #specify publication year
 year:       2022
@@ -61,7 +61,7 @@ citation:   >
   @article{Zhang2021KillingObserverInteraction,<br>
    &nbsp;&nbsp;title = {Interactive Exploration of Physically-Observable Objective Vortices in Unsteady 2D Flow},<br>
    &nbsp;&nbsp;author = {Zhang, Xingdi and Hadwiger, Markus and Theu{\ss}l, Thomas and Rautek, Peter},<br>
-   &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Visualization 2021)},<br>
+   &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE VIS 2021)},<br>
    &nbsp;&nbsp;year = {2022}<br>
    &nbsp;&nbsp;volume = {28},<br>
    &nbsp;&nbsp;number = {2},<br>
