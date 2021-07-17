@@ -52,7 +52,7 @@ thumbnail:  './publications/2021_theisel_thumbnail.png'
 #talk:       'https://www.youtube.com/watch?v=3WW2Bdg5tY8'
 
 #link to publication pdf (optional)
-pdf:        'https://arxiv.org/abs/2106.16169'
+pdf:        'https://arxiv.org/pdf/2106.16169.pdf'
 
 #link to appendix pdf (optional)
 #pdfsupp:    './publications/2020_rautek_killingsurfaces_appendixes.pdf'
