@@ -27,7 +27,7 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   Computer Graphics Forum (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2021), to appear
+   Computer Graphics Forum, Vol.40, No.3 (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2021), pp. 447-458
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
@@ -50,10 +50,10 @@ thumbnail:  './publications/2021_gonda_thumbnail.png'
 #video:      'https://vimeo.com/'
 
 #link to talk video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
-#talk:       'https://www.youtube.com/watch?'
+talk:       'https://www.youtube.com/watch?v=_GWvYW1cC3U'
 
 #link to publication pdf (optional)
-#pdf:        './publications/2021_gonda_vice.pdf'
+pdf:        'https://arxiv.org/pdf/2105.06861.pdf'
 
 #link to appendix pdf (optional)
 #pdfsupp:    './publications/2021_gonda_vice_appendixes.pdf'
@@ -65,7 +65,9 @@ citation:   >
    &nbsp;&nbsp;author = {Gonda, Felix and Wang, Xueying and Beyer, Johanna and Hadwiger, Markus and Lichtman, Jeff W. and Pfister, Hanspeter},<br>
    &nbsp;&nbsp;journal = {Computer Graphics Forum (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2021},<br>
    &nbsp;&nbsp;year = {2021}<br>
-   &nbsp;&nbsp;pages = {to appear}<br>
+   &nbsp;&nbsp;volume = {40},<br>
+   &nbsp;&nbsp;number = {3},<br>
+   &nbsp;&nbsp;pages = {447-458}<br>
   }
 
 #insert links to additional material for the publication (optional)

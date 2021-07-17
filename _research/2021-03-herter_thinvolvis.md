@@ -26,7 +26,7 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   Computer Graphics Forum (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2021), to appear
+   Computer Graphics Forum, Vol.40, No.3 (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2021), pp. 147-157
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
@@ -49,9 +49,10 @@ thumbnail:  './publications/2021_herter_thumbnail.png'
 #video:      'https://vimeo.com/'
 
 #link to talk video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
-#talk:       'https://www.youtube.com/watch?'
+talk:       'https://www.youtube.com/watch?v=JSHjLvIulY0'
 
 #link to publication pdf (optional)
+pdf:        'https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.14296'
 #pdf:        './publications/2021_herter_thinvolvis.pdf'
 
 #link to appendix pdf (optional)
@@ -64,7 +65,9 @@ citation:   >
    &nbsp;&nbsp;author = {Herter, Felix and Hege, Hans-Christian and Hadwiger, Markus and Lepper, Verena and Baum, Daniel},<br>
    &nbsp;&nbsp;journal = {Computer Graphics Forum (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2021},<br>
    &nbsp;&nbsp;year = {2021}<br>
-   &nbsp;&nbsp;pages = {to appear}<br>
+   &nbsp;&nbsp;volume = {40},<br>
+   &nbsp;&nbsp;number = {3},<br>
+   &nbsp;&nbsp;pages = {147-157}<br>
   }
 
 #insert links to additional material for the publication (optional)
