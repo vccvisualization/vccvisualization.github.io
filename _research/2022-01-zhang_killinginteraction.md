@@ -39,19 +39,19 @@ abstract:   >
    State-of-the-art computation and visualization of vortices in unsteady fluid flow employ objective vortex criteria, which makes them independent of reference frames or observers. However, objectivity by itself, although crucial, is not sufficient to guarantee that one can identify physically-realizable observers that would perceive or detect the same vortices. Moreover, a significant challenge is that a single reference frame is often not sufficient to accurately observe multiple vortices that follow different motions. This paper presents a novel framework for the exploration and use of an interactively-chosen set of observers, of the resulting relative velocity fields, and of objective vortex structures. We show that our approach facilitates the objective detection and visualization of vortices relative to well-adapted reference frame motions, while at the same time guaranteeing that these observers are in fact physically realizable. In order to represent and manipulate observers efficiently, we make use of the low-dimensional vector space structure of the Lie algebra of physically-realizable observer motions. We illustrate that our framework facilitates the efficient choice and guided exploration of objective vortices in unsteady 2D flow, on planar as well as on spherical domains, using well-adapted reference frames.
    
 #link to hi-res teaser image of publication (please make sure the image is wide, e.g. aspect ratio between 4:2 and 4:1)
-teaser:     './publications/2021_zhang_killinginteraction.jpg'
-   
+teaser:      './publications/2021_zhang_killinginteraction.jpg'
+
 #link to smaller thumbnail image of publication (please make sure the aspect ratio is 3:2, suggested size is 150x100px)
-thumbnail:  './publications/2021_zhang_thumbnail.png'
+thumbnail:   './publications/2021_zhang_thumbnail.png'
 
 #link to publication video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
-#video:      'https://vimeo.com/458350874'
+video:       'https://vimeo.com/584574144'
 
 #link to talk video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
 #talk:       'https://www.youtube.com/watch?v=3WW2Bdg5tY8'
 
 #link to publication pdf (optional)
-#pdf:        './publications/2021_zhang_killinginteraction.pdf'
+pdf:         './publications/2021_zhang_killinginteraction.pdf'
 
 #link to appendix pdf (optional)
 #pdfsupp:    './publications/2021_zhang_killinginteraction_appendixes.pdf'
