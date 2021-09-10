@@ -30,7 +30,7 @@ venue:      >
 
 #insert short venue (displayed in box in publication list)
 shortvenue: >
-   The Visual Computer
+   The Visual Computer <span style="color:rgb(180,0,0);">(CGI 2021 Best Paper Award)</span>
 
 #specify publication year
 year:       2021
