@@ -26,7 +26,7 @@ authors:
 
 #insert publication venue (displayed on publication page)
 venue:      >
-   The Visual Computer (Selected paper from CGI 2021), to appear
+   The Visual Computer (Selected paper from CGI 2021), Vol.37, No.9, pp. 2755-2767
 
 #insert short venue (displayed in box in publication list)
 shortvenue: >
@@ -49,7 +49,7 @@ thumbnail:  './publications/2021_pintus_light_calibration_thumbnail.jpg'
 #video:      'https://vimeo.com/'
 
 #link to talk video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
-#talk:       'https://www.youtube.com/watch?'
+talk:       'https://www.youtube.com/watch?v=SybNmo98DD4'
 
 #link to publication pdf (optional)
 pdf:        './publications/2021_pintus_light_calibration.pdf'
@@ -64,10 +64,13 @@ citation:   >
    &nbsp;&nbsp;title = {A Practical and Efficient Model for Intensity Calibration of Multi-Light Image Collections},<br>
    &nbsp;&nbsp;journal = {The Visual Computer},<br>
    &nbsp;&nbsp;year = {2021},<br>
+   &nbsp;&nbsp;volume = {37},<br>
+   &nbsp;&nbsp;number = {9},<br>
+   &nbsp;&nbsp;pages = {2755--2767},<br>
    &nbsp;&nbsp;abstract = { We present a novel practical and efficient mathematical formulation for light intensity calibration of Multi Light Image Collections (MLICs). Inspired by existing and orthogonal calibration methods, we design a hybrid solution that leverages their strengths while overcoming most of their weaknesses. We combine the rationale of approaches based on fixed analytical models with the interpolation scheme of image domain methods. This allows us to minimize the final residual error in light intensity estimation, without imposing an overly constraining illuminant type. Unlike previous approaches, the proposed calibration strategy proved to be simpler, more efficient and versatile, and extremely adaptable in different setup scenarios. We conduct an extensive analysis and validation of our new light model compared to several state-of-the-art techniques, and we show how the proposed solution provides a more reliable outcomes in terms of accuracy and precision, and a more stable calibration across different light positions/orientations, and with a more general light form factor. },<br>
    &nbsp;&nbsp;doi = {10.1007/s00371-021-02172-9},<br>
-   &nbsp;&nbsp;note = {To appear},<br>
    }
+
 #insert links to additional material for the publication (optional)
 #links need a title, a URL and a type (this defines the link icon) which can be one of the following values: code, archive, files, slides or text (this is the default icon)
 links:
