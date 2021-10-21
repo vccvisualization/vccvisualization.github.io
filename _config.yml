@@ -1,6 +1,6 @@
 name: KAUST VCC Visualization
 title: KAUST High-Performance Visualization Group
-collections: 
+collections:
   research:
     output: true
     permalink: /:collection/:title/
@@ -9,8 +9,8 @@ collections:
     permalink: /:collection/:title/
   alumni:
     output: true
-    permalink: /:collection/:title/
-  members:
+    permalink: /:collection/:title/ 
+  pages:
     output: true
-    permalink: /:collection/:title/
+    permalink: /:title/
   

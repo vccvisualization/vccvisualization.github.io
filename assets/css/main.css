@@ -18,6 +18,28 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 	width: 100%;
 }
 
+
+.container #tutorial {
+	text-align: justify;
+}
+
+.container #tutorial ul {
+	list-style: disc;
+	margin-left: 1.75em;
+}
+
+.container #tutorial ol {
+	list-style: decimal-leading-zero;
+	margin-left: 1.75em;
+}
+
+.container #tutorial img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
 .hidden {
 	display: none !important;
 }
