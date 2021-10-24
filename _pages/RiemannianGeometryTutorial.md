@@ -1,42 +1,41 @@
 ---
 layout: tutorial
-title:  Tutorial on Riemannian Geometry in Scientific Visualization 2021
+title:  Tutorial on Riemannian Geometry in Scientific Visualization (2021)
 tags:
 - Tutorial
 ---
 
 ### Introduction
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Cras sit amet orci ante. Integer nec leo vel massa iaculis venenatis. Aenean pellentesque odio ut nisl viverra suscipit. Quisque sapien nulla, dapibus et orci et, efficitur pharetra sapien. Nam venenatis eleifend mollis. Nulla facilisi. Vivamus elementum sodales quam, eget maximus magna convallis vel. Suspendisse placerat lobortis varius. Praesent augue nulla, pretium eget hendrerit et, gravida at risus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam interdum, ligula et molestie gravida, nunc odio euismod ligula, eget gravida tortor sapien eget neque. Aenean tempor sapien vitae eros tempor, non volutpat velit auctor. Integer consequat sed urna nec molestie. Proin tortor urna, viverra et ultrices scelerisque, tempus vel mi. Pellentesque massa arcu, cursus quis ante ac, tempor fringilla felis.
+This tutorial introduces the most important basics of Riemannian geometry and related concepts with a specific focus on applications in scientific visualization. The main concept in Riemannian geometry is the presence of a Riemannian metric on a differentiable manifold, comprising a second-order tensor field that defines an inner product in each tangent space that varies smoothly from point to point. Technically, the metric is what allows defining and computing distances and angles in a coordinate-independent manner. However, even more importantly, it in a sense is really the major structure (on top of topological considerations) that defines the space where scientific data, such as scalar, vector, and tensor fields live.
 
+However, the concept of a metric, and crucial related concepts such as connections and covariant derivatives, are not often used explicitly in visualization. In contrast to concepts of differential topology, which have been used extensively in visualization, for example in scalar and vector field topology, we believe that concepts from Riemannian geometry have been underrepresented in the visualization literature. One reason for this might be that most visualization techniques are developed for scalar, vector, or tensor fields given in Euclidean space $$\mathbb{R}^2$$ or $$\mathbb{R}^3$$, and data given on curved surfaces are usually treated explicitly through their embedding in $$\mathbb{R}^3$$. However, the presence of a Riemannian metric on a manifold has very important implications even for data given in Euclidean space, for example regarding the physical meaning of visualizations as well as for the use of non-Cartesian coordinates. Therefore, considering the metric tensor field explicitly provides several important benefits.
 
-I can link somewhere:
-[I can also link to stuff]({{ site.url }}/research/killinginteraction/ "Link hover description")
+In this tutorial, we try to particularly highlight the additional insight that can be gained from employing concepts from Riemannian geometry in scientific visualization. However, although we believe that insight is the most important benefit to be gained from using these concepts, we also discuss computational advantages. In addition to Riemannian metrics, we also introduce the most important related concepts from modern, coordinate-free differential geometry, in particular general (non-Cartesian) tensor fields and differential forms, smooth mappings between manifolds, Lie derivatives, and Lie groups and Lie algebras. Throughout the tutorial, we use several examples from the scientific visualization literature, dealing with scalar, vector, or tensor fields, respectively, and highlight their implicit or explicit connections to Riemannian geometry.
 
-### Here is an unordered list!
-- Vivamus ut sem imperdiet, rhoncus tellus in, *aliquet elit*. 
-- Fusce nec efficitur nulla. Maecenas ut arcu auctor, molestie sapien eu, viverra turpis. 
-- Proin auctor, neque non tincidunt consequat, felis quam venenatis lectus, mollis venenatis mi augue et nisl. 
-- Ut at maximus massa. Maecenas elit diam, pulvinar ac congue sed, cursus a eros. Ut tincidunt rhoncus ligula eget dapibus.
+### Objectives
 
-### Here is an ordered list
-1. Duis ultrices sem ut nulla mattis varius. 
-2. Integer eget mauris nisl. 
-3. Aenean vitae est quis augue vulputate condimentum. 
+The main objective of this tutorial is to introduce the most important concepts of Riemannian geometry, and related concepts from modern differential geometry, with a strong focus on applications in scientific visualization. We describe these applications not only in the form of general concepts, but we also discuss individual research papers and representative techniques from the visualization literature to highlight how Riemannian geometry can provide additional insight on these techniques. Moreover, we discuss how Riemannian geometry can be seen as providing a unifying framework that facilitates comparing and discussing visualization techniques that in individual papers often look different and hard to compare.
 
-Donec accumsan, sem eget fringilla placerat, nunc arcu laoreet nibh, ac porttitor diam tellus sit amet purus. In consequat lectus lobortis mi mollis tempus. Nam nec mattis nisi. Nullam ut ex dictum, placerat nisi id, aliquam sapien. Aliquam eget viverra metus. Phasellus tincidunt tempus mauris a aliquet.
+### Motivation and Audience
+
+While there exist a lot of general mathematical textbooks and courses on differential geometry and Riemannian geometry, we are not aware of any course that specifically targets visualization researchers and practitioners. Furthermore, the concepts—and in particular the emphasis—most relevant and important for visualization techniques are hard to extract from standard geometry texts, which often cover a large amount of advanced material. At the same time, time-dependent data, such as unsteady vector fields, are not treated in sufficient detail in most geometry texts. This tutorial aims to start filling this gap for researchers and practitioners in visualization, on an intermediate level.
+
+### Outline and Sesions
+
+The tutorial is structured in six sessions of about 30 minutes each, plus a short introduction in an initial session 0. The total time is planned for three hours, with one break in between.
+
+We note that much of each session content expands on and builds on the content of the sessions coming before. Likewise, some sessions already provide previews of later sessions that will cover concepts in more detail. We therefore cover some concepts in multiple sessions, with the goal of highlighting different aspects and details as well as different connections to visualization in each session.
 
 ![Alt text for image]({{ site.url }}/content/geometry_tutorial/example_image.png)
 
-Vestibulum a sapien gravida, pulvinar metus sed, ultrices odio. Phasellus arcu urna, pulvinar vitae urna efficitur, consequat hendrerit nulla. Nunc eget auctor dui, quis bibendum augue. Fusce in massa varius sem mollis fermentum. Fusce et tristique metus. Nullam eget lacus vel dui efficitur iaculis id fermentum ligula. Aenean scelerisque diam pulvinar nulla semper hendrerit. Duis tempor maximus eros nec dignissim. Nulla facilisis lorem efficitur tellus ullamcorper condimentum. Nullam eget dignissim sem. Vivamus lobortis felis eget mollis congue.
+Vestibulum.
 
 <!--iframe id="box-video" class="12u contentBox" src="{{ site.url }}/content/geometry_tutorial/owl.mp4"></iframe-->
 <iframe id="box-video" class="12u contentBox" src="https://player.vimeo.com/video/584574144"></iframe>
 				
 				
 ### Writing some Math!
-
-Fusce non varius ante. *Nulla euismod lorem quis tempus accumsan*. Nulla facilisi. Sed at eros fermentum, rutrum turpis non, volutpat libero. Quisque est sapien, blandit in est a, porta semper sem. Pellentesque efficitur, purus eleifend sodales auctor, ligula erat ornare leo, sit amet ultricies nunc lorem ac arcu. Praesent sodales non orci in tincidunt. Donec ullamcorper vestibulum tellus, vel commodo purus faucibus sed. Ut nibh magna, elementum nec libero nec, posuere vulputate nisl. Mauris sollicitudin vitae eros vel pharetra. Proin orci velit, ultrices fermentum eleifend vitae, accumsan vel erat.
 
 We can also tex some math:
 
@@ -45,6 +44,6 @@ When $$a \ne 0$$, there are two solutions to $$ax^2 + bx + c = 0$$ and they are
   
 ### Embedding a PDF
 
-Here is one
+Download the tutorial notes (v0.1, 25 Oct 2021) here:
 
 <div id="box-pdf" class="contentBox toggleBox" style="background: url({{'./assets/css/images/loading.gif' | relative_url }}) center center no-repeat transparent;"><object id="publication_pdf" class="contentBox" data="{{ site.url }}/publications/2020_rautek_killingsurfaces_appendixes.pdf"><p>PDF cannot be displayed.</p></object></div>
