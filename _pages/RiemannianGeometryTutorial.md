@@ -1,6 +1,6 @@
 ---
 layout: tutorial
-title:  Tutorial on Riemannian Geometry in Scientific Visualization (2021)<br><br>Markus Hadwiger, Thomas Theu&szlig;l, Peter Rautek<br>
+title:  Tutorial on Riemannian Geometry for Scientific Visualization (2021)<br>Markus Hadwiger, Thomas Theu&szlig;l, Peter Rautek<br>
 tags:
 - Tutorial
 ---
