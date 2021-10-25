@@ -5,6 +5,8 @@ tags:
 - Tutorial
 ---
 
+![Riemmanian Geometry Tutorial]({{ site.url }}/content/geometry_tutorial/riemannian_tutorial.png)
+
 ### Introduction
 
 This tutorial introduces the most important basics of Riemannian geometry and related concepts with a specific focus on applications in scientific visualization. The main concept in Riemannian geometry is the presence of a Riemannian metric on a differentiable manifold, comprising a second-order tensor field that defines an inner product in each tangent space that varies smoothly from point to point. Technically, the metric is what allows defining and computing distances and angles in a coordinate-independent manner. However, even more importantly, it in a sense is really the major structure (on top of topological considerations) that defines the space where scientific data, such as scalar, vector, and tensor fields live.
@@ -27,8 +29,6 @@ The tutorial is structured in six sessions of about 30 minutes each, plus a shor
 
 We note that much of each session content expands on and builds on the content of the sessions coming before. Likewise, some sessions already provide previews of later sessions that will cover concepts in more detail. We therefore cover some concepts in multiple sessions, with the goal of highlighting different aspects and details as well as different connections to visualization in each session.
 
-![Riemmanian Geometry Tutorial]({{ site.url }}/content/geometry_tutorial/riemannian_tutorial.png)
-  
 ### Tutorial Notes
 
 Download the tutorial notes (v0.1, 25 Oct 2021) here:
