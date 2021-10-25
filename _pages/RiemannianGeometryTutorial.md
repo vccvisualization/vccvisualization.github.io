@@ -32,5 +32,6 @@ We note that much of each session content expands on and builds on the content o
 ### Tutorial Notes
 
 Download the tutorial notes (v0.1, 25 Oct 2021) here:
-
-<div id="box-pdf" class="contentBox toggleBox" style="background: url({{'./assets/css/images/loading.gif' | relative_url }}) center center no-repeat transparent;"><object id="publication_pdf" class="contentBox" data="{{ site.url }}/publications/2021_riemannian_geometry_scivis_tutorial_v0_1.pdf"><p>PDF cannot be displayed.</p></object></div>
+<button id="toggle-pdf" class="button slim rounded-left leftalign" title="Read PDF"><i class="icon-file-pdf" aria-hidden="true"> </i>Tutorial Notes</button>
+<a href="{{ site.url }}/publications/2021_riemannian_geometry_scivis_tutorial_v0_1.pdf" target="_blank" rel="noopener"><button id="download-pdf" class="button narrow rounded-right leftalign" title="Download PDF"><i class="icon-download" aria-hidden="true"></i></button>	</a>
+<div id="box-pdf" class="contentBox toggleBox" style="background: url({{'./assets/css/images/loading.gif' | relative_url }}) center center no-repeat transparent; display: none;"><object id="publication_pdf" class="contentBox" data="{{ site.url }}/publications/2021_riemannian_geometry_scivis_tutorial_v0_1.pdf"><p>PDF cannot be displayed.</p></object></div>
