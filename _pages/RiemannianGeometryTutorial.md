@@ -21,29 +21,16 @@ The main objective of this tutorial is to introduce the most important concepts 
 
 While there exist a lot of general mathematical textbooks and courses on differential geometry and Riemannian geometry, we are not aware of any course that specifically targets visualization researchers and practitioners. Furthermore, the concepts—and in particular the emphasis—most relevant and important for visualization techniques are hard to extract from standard geometry texts, which often cover a large amount of advanced material. At the same time, time-dependent data, such as unsteady vector fields, are not treated in sufficient detail in most geometry texts. This tutorial aims to start filling this gap for researchers and practitioners in visualization, on an intermediate level.
 
-### Outline and Sesions
+### Outline and Sessions
 
 The tutorial is structured in six sessions of about 30 minutes each, plus a short introduction in an initial session 0. The total time is planned for three hours, with one break in between.
 
 We note that much of each session content expands on and builds on the content of the sessions coming before. Likewise, some sessions already provide previews of later sessions that will cover concepts in more detail. We therefore cover some concepts in multiple sessions, with the goal of highlighting different aspects and details as well as different connections to visualization in each session.
 
-![Alt text for image]({{ site.url }}/content/geometry_tutorial/example_image.png)
-
-Vestibulum.
-
-<!--iframe id="box-video" class="12u contentBox" src="{{ site.url }}/content/geometry_tutorial/owl.mp4"></iframe-->
-<iframe id="box-video" class="12u contentBox" src="https://player.vimeo.com/video/584574144"></iframe>
-				
-				
-### Writing some Math!
-
-We can also tex some math:
-
-When $$a \ne 0$$, there are two solutions to $$ax^2 + bx + c = 0$$ and they are
-  $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+![Riemmanian Geometry Tutorial]({{ site.url }}/content/geometry_tutorial/riemannian_tutorial.png)
   
-### Embedding a PDF
+### Tutorial Notes
 
 Download the tutorial notes (v0.1, 25 Oct 2021) here:
 
-<div id="box-pdf" class="contentBox toggleBox" style="background: url({{'./assets/css/images/loading.gif' | relative_url }}) center center no-repeat transparent;"><object id="publication_pdf" class="contentBox" data="{{ site.url }}/publications/2020_rautek_killingsurfaces_appendixes.pdf"><p>PDF cannot be displayed.</p></object></div>
+<div id="box-pdf" class="contentBox toggleBox" style="background: url({{'./assets/css/images/loading.gif' | relative_url }}) center center no-repeat transparent;"><object id="publication_pdf" class="contentBox" data="{{ site.url }}/publications/2021_riemannian_geometry_scivis_tutorial_v0_1.pdf"><p>PDF cannot be displayed.</p></object></div>
