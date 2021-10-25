@@ -1,6 +1,6 @@
 ---
 layout: tutorial
-title:  Tutorial on Riemannian Geometry in Scientific Visualization (2021)
+title:  Tutorial on Riemannian Geometry in Scientific Visualization (2021)<br><br>Markus Hadwiger, Thomas Theu&szlig;l, Peter Rautek<br>
 tags:
 - Tutorial
 ---
@@ -31,6 +31,6 @@ We note that much of each session content expands on and builds on the content o
 
 ### Tutorial Notes
 
-Download the tutorial notes (v0.1, 25 Oct 2021) here:
+Download the tutorial notes (currently v0.1, 25 Oct 2021) here:
 
 <div id="box-pdf" class="contentBox toggleBox" style="background: url({{'./assets/css/images/loading.gif' | relative_url }}) center center no-repeat transparent;"><object id="publication_pdf" class="contentBox" data="{{ site.url }}/publications/2021_riemannian_geometry_scivis_tutorial_v0_1.pdf"><p>PDF cannot be displayed.</p></object></div>
