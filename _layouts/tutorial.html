@@ -15,4 +15,18 @@ layout: default
 		</div>
 	</div>
 	</article>
+	
+	<script>
+	var id = null;
+	var isModal = false;
+	$( document ).ready( function( varSearch ) {
+		$('#toggle-pdf').click(function(){
+			var wasHidden = $('#box-pdf').is( ':visible' );
+			$('.toggleBox').hide();
+			if( !wasHidden ) {
+				$('#box-pdf').show();
+			}
+		});
+	})
+	</script>
 </div>
