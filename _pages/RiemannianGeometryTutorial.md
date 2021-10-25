@@ -8,7 +8,7 @@ tags:
 <h4> Markus Hadwiger, Thomas Theu&szlig;l, Peter Rautek </h4>
 </div>
 
-![Riemmanian Geometry Tutorial]({{ site.url }}/content/geometry_tutorial/riemannian_tutorial.png)
+![Riemannian Geometry Tutorial]({{ site.url }}/content/geometry_tutorial/riemannian_tutorial.png)
 
 ### Introduction
 
