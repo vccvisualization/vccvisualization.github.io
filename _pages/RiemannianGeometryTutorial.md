@@ -1,9 +1,12 @@
 ---
 layout: tutorial
-title:  Tutorial on Riemannian Geometry in Scientific Visualization (2021)<br><br>Markus Hadwiger, Thomas Theu&szlig;l, Peter Rautek<br>
+title:  Tutorial on Riemannian Geometry in Scientific Visualization (2021)
 tags:
 - Tutorial
 ---
+<div style='text-align: center;'>
+<h4> Markus Hadwiger, Thomas Theu&szlig;l, Peter Rautek </h4>
+</div>
 
 ![Riemmanian Geometry Tutorial]({{ site.url }}/content/geometry_tutorial/riemannian_tutorial.png)
 
@@ -32,7 +35,23 @@ We note that much of each session content expands on and builds on the content o
 ### Tutorial Notes
 
 Download the tutorial notes (v0.1, 25 Oct 2021) here:
-
+<div class="contentBox" style="min-height: 80px">
 <button id="toggle-pdf" class="button slim rounded-left leftalign" title="Read PDF"><i class="icon-file-pdf" aria-hidden="true"> </i>Tutorial Notes</button>
 <a href="{{ site.url }}/publications/2021_riemannian_geometry_scivis_tutorial_v0_1.pdf" target="_blank" rel="noopener"><button id="download-pdf" class="button narrow rounded-right leftalign" title="Download PDF"><i class="icon-download" aria-hidden="true"></i></button>	</a>
 <div id="box-pdf" class="contentBox toggleBox" style="background: url({{'./assets/css/images/loading.gif' | relative_url }}) center center no-repeat transparent; display: none;"><object id="publication_pdf" class="contentBox" data="{{ site.url }}/publications/2021_riemannian_geometry_scivis_tutorial_v0_1.pdf"><p>PDF cannot be displayed.</p></object></div>
+</div>
+### Speakers
+<div class="row">
+  <div class="column" style='text-align: center;'>
+    <a href="{{ site.url }}/people/hadwiger"><img src="{{ site.url }}/images/people/hadwiger.jpg" alt="Hadwiger" style="width:75%; border-radius: 50%;"></a>
+	<h4>Markus Hadwiger</h4>
+  </div>
+  <div class="column" style='text-align: center;'>
+    <img src="{{ site.url }}/images/people/person.jpg" alt="Theussl" style="width:75%; border-radius: 50%;">
+	<h4>Thomas Theu&szlig;l</h4>
+  </div>
+  <div class="column" style='text-align: center;'>
+    <a href="{{ site.url }}/people/rautek"><img src="{{ site.url }}/images/people/rautek.jpg" alt="Rautek" style="width:75%; border-radius: 50%;"></a>
+	<h4>Peter Rautek</h4>
+  </div>
+</div>
