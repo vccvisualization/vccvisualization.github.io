@@ -47,7 +47,7 @@ Download the tutorial notes here (current version v0.1, 25 Oct 2021; please chec
 	<h4>Markus Hadwiger</h4>
   </div>
   <div class="column" style='text-align: center;'>
-    <img src="{{ site.url }}/images/people/person.jpg" alt="Theussl" style="width:75%; border-radius: 50%;">
+    <img src="{{ site.url }}/images/people/theussl.jpg" alt="Theussl" style="width:75%; border-radius: 50%;">
 	<h4>Thomas Theu&szlig;l</h4>
   </div>
   <div class="column" style='text-align: center;'>
