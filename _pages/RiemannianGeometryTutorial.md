@@ -1,6 +1,6 @@
 ---
 layout: tutorial
-title:  Tutorial on Riemannian Geometry in Scientific Visualization (2021)
+title:  Tutorial on Riemannian Geometry for Scientific Visualization (2021)
 tags:
 - Tutorial
 ---
@@ -34,7 +34,7 @@ We note that much of each session content expands on and builds on the content o
 
 ### Tutorial Notes
 
-Download the tutorial notes (v0.1, 25 Oct 2021) here:
+Download the tutorial notes here (current version v0.1, 25 Oct 2021; please check back for updates!):
 <div class="contentBox" style="min-height: 80px">
 <button id="toggle-pdf" class="button slim rounded-left leftalign" title="Read PDF"><i class="icon-file-pdf" aria-hidden="true"> </i>Tutorial Notes</button>
 <a href="{{ site.url }}/publications/2021_riemannian_geometry_scivis_tutorial_v0_1.pdf" target="_blank" rel="noopener"><button id="download-pdf" class="button narrow rounded-right leftalign" title="Download PDF"><i class="icon-download" aria-hidden="true"></i></button>	</a>
