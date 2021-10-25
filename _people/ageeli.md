@@ -34,7 +34,9 @@ address:    Visual Computing Center, Bldg. 1, lvl. 2, Office 2xxx<br>4700 King A
 # info:       
 # optional: add links to various online presences/websites (uncomment by removing the leading # if applicable)
 # possible link types: twitter, github, facebook, linkedin, google_scholar, google_plus, instagram, skype, youtube, vimeo, flickr, web (use the latter for all other link types)
-#links:
+links:
+- type: linkedin
+  url: https://www.linkedin.com/in/amaniageeli/
 # - type: google_scholar
 #   url:  "https://scholar.google.com/citations?user=xxxxxxxxxxx"
 # - type: twitter
@@ -47,7 +49,7 @@ address:    Visual Computing Center, Bldg. 1, lvl. 2, Office 2xxx<br>4700 King A
 #for a uniform style, please write section headings with ### (three sharps)
 ---
 ### Research Interests
-I'm interested in Computer Graphics, Scientific Visualization and Artificial Intelligence, including AR and VR Visual Computing.
+Developing skills for visualizing different types of data for different media is my passion. My current research focuses on interactive large-scale visualization of scientific data, and modern GPU algorithms and architecture.
 
 ### Education Profile
 - M.Sc. in Computer Science, KAUST, 2019.
