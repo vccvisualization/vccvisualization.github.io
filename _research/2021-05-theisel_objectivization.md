@@ -26,11 +26,11 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   arXiv:2106.16169
-   
+   Physics of Fluids 33(10), 107115
+
 #insert short venue (displayed in box in publication list)
 shortvenue: >
-   arXiv
+   Physics of Fluids
 
 #specify publication year
 year:       2021
@@ -52,28 +52,29 @@ thumbnail:  './publications/2021_theisel_thumbnail.png'
 #talk:       'https://www.youtube.com/watch?v=3WW2Bdg5tY8'
 
 #link to publication pdf (optional)
-pdf:        'https://arxiv.org/pdf/2106.16169.pdf'
+pdf:        'https://doi.org/10.1063/5.0063817'
 
 #link to appendix pdf (optional)
-#pdfsupp:    './publications/2020_rautek_killingsurfaces_appendixes.pdf'
+#pdfsupp:   'https://arxiv.org/pdf/2106.16169.pdf'
 
 #insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
   @article{Theisel2021Objectivization,<br>
    &nbsp;&nbsp;title = {Vortex Criteria can be Objectivized by Unsteadiness Minimization},<br>
    &nbsp;&nbsp;author = {Theisel, Holger and Hadwiger, Markus and Rautek, Peter and Theu{\ss}l, Thomas and G{\"u}nther, Tobias},<br>
-   &nbsp;&nbsp;journal = {arXiv e-prints},<br>
-   &nbsp;&nbsp;archivePrefix = "arXiv",<br>
-   &nbsp;&nbsp;eprint = {2106.16169},<br>
+   &nbsp;&nbsp;journal = {Physics of Fluids},<br>
+   &nbsp;&nbsp;number = {33},<br>
+   &nbsp;&nbsp;issue = {10},<br>
+   &nbsp;&nbsp;pages = {107115},<br>
    &nbsp;&nbsp;year = {2021}<br>
   }
 
 #insert links to additional material for the publication (optional)
 #links need a title, a URL and a type (this defines the link icon) which can be one of the following values: code, archive, files, slides or text (this is the default icon)
 links: 
-# - title: HQ Paper + Appendix
-#   type:  pdf
-#   url:   './publications/2020_rautek_killingsurfaces_with_appendixes_hq.pdf' 
+- title: arXiv version
+  type:  pdf
+  url:   'https://arxiv.org/pdf/2106.16169.pdf' 
 # - title: Slides
 #   type:  slides
 #   url:   './publications/2020_rautek_killingsurfaces_slides.pdf'
