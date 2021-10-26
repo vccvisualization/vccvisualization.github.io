@@ -16,7 +16,7 @@ title:		Matej Mlejnek
 name:       Matej Mlejnek
 
 #your role in the vis group
-role:       Research Scientist
+role:       Alumnus (former Research Scientist)
 
 #link to your image
 image:      ./images/people/mlejnek.jpg

@@ -40,3 +40,16 @@
   url:    https://www.thomashollt.com
   #info:  todo
  
+  name:   Mohamed Ibrahim
+  prefix: Dr.
+  role:   Senior GPU Graphics Engineer<br>Huawei
+  image:  ./images/people/ibrahim.jpg
+  url:    https://www.linkedin.com/in/cengmibrahim
+  
+- name:   Matej Mlejnek
+  prefix: Dr.
+  #role:   Assistant Professor<br>Leiden Computational Biology Center
+  image:  ./images/people/mlejnek.jpg
+  url:    https://www.linkedin.com/in/matej-mlejnek-38ba4926/
+  #info:  todo
+ 

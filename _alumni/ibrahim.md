@@ -16,7 +16,7 @@ title:		Mohamed Ibrahim
 name:       Mohamed Ibrahim
 
 #your role in the vis group
-role:       Post-Doctoral Fellow
+role:       Alumnus (former Post-Doctoral Fellow)
 
 #link to your image
 image:      ./images/people/ibrahim.jpg
