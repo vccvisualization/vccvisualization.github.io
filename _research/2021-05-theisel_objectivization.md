@@ -72,8 +72,8 @@ citation:   >
 #insert links to additional material for the publication (optional)
 #links need a title, a URL and a type (this defines the link icon) which can be one of the following values: code, archive, files, slides or text (this is the default icon)
 links: 
-- title: Journal page
-  type:  pdf
+- title: Publisher version
+  type:  web
   url:   'https://doi.org/10.1063/5.0063817'
 - title: Older arXiv version
   type:  pdf
