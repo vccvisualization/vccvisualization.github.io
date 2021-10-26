@@ -1,4 +1,17 @@
-﻿- name:   Haneen Mohammed
+﻿- name:   Matej Mlejnek
+  prefix: Dr.
+  role:   Data science enthusiast
+  image:  ./images/people/mlejnek.jpg
+  url:    https://www.linkedin.com/in/matej-mlejnek-38ba4926/
+  #info:  todo
+ 
+- name:   Mohamed Ibrahim
+  prefix: Dr.
+  role:   Senior GPU Graphics Engineer<br>Huawei
+  image:  ./images/people/ibrahim.jpg
+  url:    https://www.linkedin.com/in/cengmibrahim
+  
+- name:   Haneen Mohammed
   prefix: Msc.
   role:   PhD Student<br>Columbia University
   image:  ./images/people/mohammed.jpg
@@ -38,18 +51,5 @@
   role:   Assistant Professor<br>Leiden Computational Biology Center
   image:  ./images/people/hoellt.jpg
   url:    https://www.thomashollt.com
-  #info:  todo
- 
-- name:   Mohamed Ibrahim
-  prefix: Dr.
-  role:   Senior GPU Graphics Engineer<br>Huawei
-  image:  ./images/people/ibrahim.jpg
-  url:    https://www.linkedin.com/in/cengmibrahim
-  
-- name:   Matej Mlejnek
-  prefix: Dr.
-  #role:   Assistant Professor<br>Leiden Computational Biology Center
-  image:  ./images/people/mlejnek.jpg
-  url:    https://www.linkedin.com/in/matej-mlejnek-38ba4926/
   #info:  todo
  
