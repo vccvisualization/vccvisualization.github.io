@@ -113,6 +113,7 @@ Proc. 5th Japan-Korea CAD/CAM Workshop (2005)
 
 
 ### Awards
+* Best paper at CGI 2021 conf. (Switzerland, 2021)
 * Best paper at Graphics in Cultural Heritage GCH conf. (Bosnia, 2019)
 * PhD thesis selected for Thesis Fast-forward session at ACM SIGGRAPH'19 conf. (USA, 2019)
 * Best papers selection ACM Interactive 3D Graphics and Games i3D conf. (USA, 2016)
