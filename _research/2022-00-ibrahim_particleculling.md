@@ -49,7 +49,7 @@ thumbnail:   './publications/2021_ibrahim_thumbnail.png'
 video:       'https://vimeo.com/584580487'
 
 #link to talk video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
-#talk:       'https://vimeo.com/237673207'
+talk:       'https://www.youtube.com/watch?v=ruzqXhWVfrM'
 
 #link to publication pdf (optional)
 pdf:         './publications/2021_ibrahim_particleculling.pdf'

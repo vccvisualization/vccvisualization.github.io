@@ -1,3 +1,8 @@
+- name: "Riemannian Geometry for Scientific Visualization"
+  url: ./RiemannianGeometryTutorial/
+  text: 'This is a tutorial on Riemannian Geometry for Scientific Visualization, given at the IEEE VIS 2021 conferences. Extensive course notes are available for download.'
+  image: './content/riemannian_tutorial.png'
+
 - name: "CS 380: GPU and GPGPU Programming"
   url: https://faculty.kaust.edu.sa/sites/markushadwiger/pages/cs380.aspx
   text: 'This course is held each fall semester and covers the architecture and programming of GPUs (Graphics Processing Units). Covers both the traditional use of GPUs for graphics and visualization, as well as their use for general purpose computations (GPGPU). GPU many-core hardware architectures, shading and compute programming languages and APIs, programming vertex, geometry, and fragment shaders, programming with CUDA, Brook, OpenCL, stream computing, approaches to massively parallel computations, memory subsystems and caches, rasterization, texture mapping, linear algebra computations, alternative and future architectures.'
