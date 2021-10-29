@@ -1,7 +1,7 @@
 - name: "Riemannian Geometry for Scientific Visualization"
   url: ./RiemannianGeometryTutorial/
-  text: 'This is a tutorial on Riemannian Geometry for Scientific Visualization, given at the IEEE VIS 2021 conferences. Extensive course notes are available for download.'
-  image: './content/riemannian_tutorial.png'
+  text: 'This is a tutorial on Riemannian Geometry for Scientific Visualization, presented at the IEEE VIS 2021 conference. We introduce the most important basics of Riemannian geometry and related concepts with a specific focus on applications in scientific visualization. Extensive course notes are available for download.'
+  image: './content/geometry_tutorial/riemannian_tutorial.png'
 
 - name: "CS 380: GPU and GPGPU Programming"
   url: https://faculty.kaust.edu.sa/sites/markushadwiger/pages/cs380.aspx
