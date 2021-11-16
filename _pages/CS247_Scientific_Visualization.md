@@ -34,6 +34,14 @@ Prof. Markus Hadwiger
     <a href="{{ site.url }}/people/hadwiger"><img src="{{ site.url }}/images/people/hadwiger.jpg" alt="Hadwiger" style="width:66%; border-radius: 50%;"></a>
 	<h4>Markus Hadwiger</h4>
   </div>
+  <div class="column" style='text-align: center;'>
+    <a href="{{ site.url }}/alumni/mlejnek"><img src="{{ site.url }}/images/people/mlejnek.jpg" alt="Rautek" style="width:66%; border-radius: 50%;"></a>
+	<h4>Matej Mlejnek</h4>
+  </div>
+  <div class="column" style='text-align: center;'>
+    <a href="{{ site.url }}/people/ageeli"><img src="{{ site.url }}/images/people/ageeli.jpg" alt="Ageeli" style="width:66%; border-radius: 50%;"></a>
+	<h4>Amani Ageeli</h4>
+  </div>
 </div>
 
 ### Programming assignments
