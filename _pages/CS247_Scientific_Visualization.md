@@ -29,9 +29,12 @@ Prof. Markus Hadwiger
 
 ### Contact
 
-Markus Hadwiger<br/>
-markus.hadwiger (at) kaust.edu.sa <br/>
-Building 1, level 2, room 2119 (send email).
+<div class="row">
+  <div class="column" style='text-align: center;'>
+    <a href="{{ site.url }}/people/hadwiger"><img src="{{ site.url }}/images/people/hadwiger.jpg" alt="Hadwiger" style="width:66%; border-radius: 50%;"></a>
+	<h4>Markus Hadwiger</h4>
+  </div>
+</div>
 
 ### Programming assignments
 
