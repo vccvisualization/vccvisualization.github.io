@@ -39,7 +39,7 @@ Prof. Markus Hadwiger
 	<h4>Peter Rautek</h4>
   </div>
   <div class="column" style='text-align: center;'>
-    <a href="{{ site.url }}/people/ageeli"><img src="{{ site.url }}/images/people/ageeli.jpg" alt="Ageeli" style="width:66%; border-radius: 50%;">
+    <a href="{{ site.url }}/people/ageeli"><img src="{{ site.url }}/images/people/ageeli.jpg" alt="Ageeli" style="width:66%; border-radius: 50%;"></a>
 	<h4>Amani Ageeli</h4>
   </div>
 </div>
