@@ -10,24 +10,24 @@ tags:
 
 ![CS 380 GPU and GPGPU Programming]({{ site.url }}/images/CS380_04.jpg)
 
-###### Overview
+### Overview
 
 This course covers the architecture and programming of GPUs (Graphics Processing Units). It covers both the traditional use for rendering graphics, as well as the use of GPUs for general purpose computations (GPGPU), or GPU Computing.
 
-###### Synopsis
+### Synopsis
 
 CS 380. GPU and GPGPU Programming (3-0-3) Recommended prerequisites: CS 248, CS 292, CS 282. Architecture and programming of GPUs (Graphics Processing Units). Covers both the traditional use of GPUs for graphics and visualization, as well as their use for general purpose computations (GPGPU). GPU many-core hardware architectures, shading and compute programming languages and APIs, programming vertex, geometry, and fragment shaders, programming with CUDA, Brook, OpenCL, stream computing, approaches to massively parallel computations, memory subsystems and caches, rasterization, texture mapping, linear algebra computations, alternative and future architectures.
 
-###### Hours and Location
+### Hours and Location
 
 Monday, 10:15 - 11:45, Room 3128, Bldg. 9.<br/>
 Wednesday, 10:15 - 11:45, Room 3128, Bldg. 9.
 
-###### Instructor
+### Instructor
 
 Prof. Markus Hadwiger
 
-###### Contact
+### Contact
 
 Markus Hadwiger<br/>
 markus.hadwiger (at) kaust.edu.sa <br/>
@@ -37,12 +37,11 @@ Peter Rautek (main contact programming assignments)<br/>
 peter.rautek (at) kaust.edu.sa<br/>
 Building 1, level 2, room 2120 (send email).
 
-###### Programming assignments
+### Programming assignments
 
 <a href="https://bitbucket.org/rautek/cs380-2021/src/master/" target="_blank">Bitbucket git repository for the programming assignments (Peter needs to give you access).</a>
 
-
-###### Slides (fall 2021)
+### Slides (fall 2021)
 
 <a href="/teaching/CS380/CS380_fall2021_lecture_01.pdf" target="_blank">Slides of lecture 1</a>, Aug 30, 2021: Introduction, Pt. 1.<br>
 <a href="/teaching/CS380/CS380_fall2021_lecture_02.pdf" target="_blank">Slides of lecture 2</a>, Sep 1, 2021: Introduction, Pt. 2.<br>
