@@ -71,3 +71,4 @@ No lecture on Sep 22!<br>
 <a href="/teaching/CS380/CS380_fall2021_lecture_18.pdf" target="_blank">Slides of lecture 18</a>, Nov 8, 2021: Stream Computing and GPGPU.<br>
 <a href="/teaching/CS380/CS380_fall2021_lecture_19.pdf" target="_blank">Slides of lecture 19</a>, Nov 10, 2021: CUDA Memory, Pt. 1.<br>
 <a href="/teaching/CS380/CS380_fall2021_lecture_20.pdf" target="_blank">Slides of lecture 20</a>, Nov 15, 2021: CUDA Memory, Pt. 2.<br>
+<a href="/teaching/CS380/CS380_fall2021_lecture_21.pdf" target="_blank">Slides of lecture 21</a>, Nov 22, 2021: CUDA Memory, Pt. 3.<br>
