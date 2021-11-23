@@ -48,40 +48,165 @@ Prof. Markus Hadwiger
 
 <a href="http://bitbucket.org/kaust_cs247/cs247_2021/wiki" target="_blank">Bitbucket git repository for the programming assignments.</a>
 
-### Slides (from spring 2021)
+### Old Slides
+<details>
+	<summary>Spring 2021</summary>
 
-###### PART I: Introduction and Basics (spring 2021)
+  <h6>PART I: Introduction and Basics</h6>
 
-<a href="/teaching/CS247/CS247_spring2021_lecture_01.pdf" target="_blank">Slides of lecture 1</a>, Jan 25, 2021: Introduction, Pt. 1.<br>
-<a href="/teaching/CS247/CS247_spring2021_lecture_02.pdf" target="_blank">Slides of lecture 2</a>, Jan 27, 2021: Introduction, Pt. 2.<br>
-<a href="/teaching/CS247/CS247_spring2021_lecture_03.pdf" target="_blank">Slides of lecture 3</a>, Feb 1, 2021: Data Representation, Pt. 1.<br>
-<a href="/teaching/CS247/CS247_spring2021_lecture_04.pdf" target="_blank">Slides of lecture 4</a>, Feb 3, 2021: The Visualization Pipeline; Data Representation, Pt. 2.<br>
+	<table>
+    <tbody>
+      <tr>
+      <td style="width:110px">Jan 25, 2021</td>
+      <td><a href="/teaching/CS247/CS247_spring2021_lecture_01.pdf" target="_blank">Lecture 1: Introduction, Pt. 1.</a></td>
+      </tr>
 
-###### PART II: Scalar Field Visualization (spring 2021)
+      <tr>
+      <td style="width:110px">Jan 27, 2021</td>
+      <td><a href="/teaching/CS247/CS247_spring2021_lecture_02.pdf" target="_blank">Lecture 2: Introduction, Pt. 2.</a></td>
+      </tr>
 
-<a href="/teaching/CS247/CS247_spring2021_lecture_05.pdf" target="_blank">Slides of lecture 5</a>, Feb 8, 2021: Data Representation, Pt. 3; Scalar Fields, Pt. 1.<br>
-<a href="/teaching/CS247/CS247_spring2021_lecture_06.pdf" target="_blank">Slides of lecture 6</a>, Feb 10, 2021: Scalar Fields, Pt. 2.<br>
-<a href="/teaching/CS247/CS247_spring2021_lecture_07.pdf" target="_blank">Slides of lecture 7</a>, Feb 15, 2021: Scalar Fields, Pt. 3.<br>
-<a href="/teaching/CS247/CS247_spring2021_lecture_08.pdf" target="_blank">Slides of lecture 8</a>, Feb 17, 2021: Scalar Fields, Pt. 4.<br>
-<a href="/teaching/CS247/CS247_spring2021_lecture_09.pdf" target="_blank">Slides of lecture 9</a>, Feb 22, 2021: Scalar Fields, Pt. 5.<br>
-<a href="/teaching/CS247/CS247_spring2021_lecture_10.pdf" target="_blank">Slides of lecture 10</a>, Feb 24, 2021: Scalar Fields, Pt. 6.<br>
-<a href="/teaching/CS247/CS247_spring2021_lecture_11.pdf" target="_blank">Slides of lecture 11</a>, Mar 1, 2021: Scalar Fields, Pt. 7.<br>
-<a href="/teaching/CS247/CS247_spring2021_lecture_12.pdf" target="_blank">Slides of lecture 12</a>, Mar 3, 2021: Scalar Fields, Pt. 8.<br>
-<a href="/teaching/CS247/CS247_spring2021_lecture_13.pdf" target="_blank">Slides of lecture 13</a>, Mar 8, 2021: Scalar Fields, Pt. 9; Volume Rendering, Pt. 1.<br>
-<a href="/teaching/CS247/CS247_spring2021_lecture_14.pdf" target="_blank">Slides of lecture 14</a>, Mar 10, 2021: Volume Rendering, Pt. 2.<br>
-<a href="/teaching/CS247/CS247_spring2021_lecture_15.pdf" target="_blank">Slides of lecture 15</a>, Mar 17, 2021: Volume Rendering, Pt. 3.<br>
-<a href="/teaching/CS247/CS247_spring2021_lecture_16.pdf" target="_blank">Slides of lecture 16</a>, Mar 22, 2021: Volume Rendering, Pt. 4.<br>
-<a href="/teaching/CS247/CS247_spring2021_lecture_17.pdf" target="_blank">Slides of lecture 17</a>, Mar 24, 2021: Volume Rendering, Pt. 5.<br>
-<a href="/teaching/CS247/CS247_spring2021_lecture_18.pdf" target="_blank">Slides of lecture 18</a>, Mar 29, 2021: Volume Rendering, Pt. 6.<br>
+      <tr>
+      <td style="width:110px">Feb 1, 2021</td>
+      <td><a href="/teaching/CS247/CS247_spring2021_lecture_03.pdf" target="_blank">Lecture 3: Data Representation, Pt. 1.</a></td>
+      </tr>
 
-###### PART III: Vector Field Visualization (spring 2021)
+      <tr>
+      <td style="width:110px">Feb 2, 2021</td>
+      <td><a href="/teaching/CS247/CS247_spring2021_lecture_04.pdf" target="_blank">Lecture 4: The Visualization Pipeline; Data Representation, Pt. 2.</a></td>
+      </tr>
 
-<a href="/teaching/CS247/CS247_spring2021_lecture_19.pdf" target="_blank">Slides of lecture 19</a>, Apr 5, 2021: Vector/Flow Visualization, Pt. 1.<br>
-<a href="/teaching/CS247/CS247_spring2021_lecture_20.pdf" target="_blank">Slides of lecture 20</a>, Apr 7, 2021: Vector/Flow Visualization, Pt. 2.<br>
-<a href="/teaching/CS247/CS247_spring2021_lecture_21.pdf" target="_blank">Slides of lecture 21</a>, Apr 12, 2021: Vector/Flow Visualization, Pt. 3.<br>
-<a href="/teaching/CS247/CS247_spring2021_lecture_22.pdf" target="_blank">Slides of lecture 22</a>, Apr 14, 2021: Vector/Flow Visualization, Pt. 4.<br>
-<a href="/teaching/CS247/CS247_spring2021_lecture_23.pdf" target="_blank">Slides of lecture 23</a>, Apr 21, 2021: Vector/Flow Visualization, Pt. 5.<br>
-<a href="/teaching/CS247/CS247_spring2021_lecture_24.pdf" target="_blank">Slides of lecture 24</a>, Apr 26, 2021: Vector/Flow Visualization, Pt. 6.<br>
-<a href="/teaching/CS247/CS247_spring2021_lecture_25.pdf" target="_blank">Slides of lecture 25</a>, Apr 28, 2021: Vector/Flow Visualization, Pt. 7.<br>
-<a href="/teaching/CS247/CS247_spring2021_lecture_26.pdf" target="_blank">Slides of lecture 26</a>, May 3, 2021: Vector/Flow Visualization, Pt. 8.<br>
-<a href="/teaching/CS247/CS247_spring2021_lecture_27.pdf" target="_blank">Slides of lecture 27</a>, May 5, 2021: Vector/Flow Visualization, Pt. 9.<br>
+      </tbody>
+    </table>
+
+    <h6>PART II: Scalar Field Visualization</h6>
+
+	<table>
+    <tbody>
+
+      <tr>
+      <td style="width:110px">Feb 8, 2021</td>
+      <td><a href="/teaching/CS247/CS247_spring2021_lecture_05.pdf" target="_blank">Lecture 5: Data Representation, Pt. 3; Scalar Fields, Pt. 1.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Feb 10, 2021</td>
+      <td><a href="/teaching/CS247/CS247_spring2021_lecture_06.pdf" target="_blank">Lecture 6: Scalar Fields, Pt. 2.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Feb 15, 2021</td>
+      <td><a href="/teaching/CS247/CS247_spring2021_lecture_07.pdf" target="_blank">Lecture 7: Scalar Fields, Pt. 3.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Feb 17, 2021</td>
+      <td><a href="/teaching/CS247/CS247_spring2021_lecture_08.pdf" target="_blank">Lecture 7: Scalar Fields, Pt. 4.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Feb 22, 2021</td>
+      <td><a href="/teaching/CS247/CS247_spring2021_lecture_09.pdf" target="_blank">Lecture 9: Scalar Fields, Pt. 5.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Feb 24, 2021</td>
+      <td><a href="/teaching/CS247/CS247_spring2021_lecture_10.pdf" target="_blank">Lecture 10: Scalar Fields, Pt. 6.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Mar 1, 2021</td>
+      <td><a href="/teaching/CS247/CS247_spring2021_lecture_11.pdf" target="_blank">Lecture 11: Scalar Fields, Pt. 7.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Mar 3, 2021</td>
+      <td><a href="/teaching/CS247/CS247_spring2021_lecture_12.pdf" target="_blank">Lecture 12: Scalar Fields, Pt. 8.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Mar 8, 2021</td>
+      <td><a href="/teaching/CS247/CS247_spring2021_lecture_13.pdf" target="_blank">Lecture 13: Scalar Fields, Pt. 9; Volume Rendering, Pt. 1.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Mar 10, 2021</td>
+      <td><a href="/teaching/CS247/CS247_spring2021_lecture_14.pdf" target="_blank">Lecture 14: Volume Rendering, Pt. 2.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Mar 17, 2021</td>
+      <td><a href="/teaching/CS247/CS247_spring2021_lecture_15.pdf" target="_blank">Lecture 15: Volume Rendering, Pt. 3.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Mar 22, 2021</td>
+      <td><a href="/teaching/CS247/CS247_spring2021_lecture_16.pdf" target="_blank">Lecture 16: Volume Rendering, Pt. 4.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Mar 24, 2021</td>
+      <td><a href="/teaching/CS247/CS247_spring2021_lecture_17.pdf" target="_blank">Lecture 17: Volume Rendering, Pt. 5.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Mar 29, 2021</td>
+      <td><a href="/teaching/CS247/CS247_spring2021_lecture_18.pdf" target="_blank">Lecture 18: Volume Rendering, Pt. 6.</a></td>
+      </tr>
+
+      </tbody>
+    </table>
+
+    <h6>PART III: Vector Field Visualization</h6>
+
+
+      <table>
+      <tbody>
+
+      <tr>
+      <td style="width:110px">Apr 5, 2021</td>
+      <td><a href="/teaching/CS247/CS247_spring2021_lecture_19.pdf"  target="_blank">Lecture 19: Vector/Flow Visualization, Pt. 1.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Apr 7, 2021</td>
+      <td><a href="/teaching/CS247/CS247_spring2021_lecture_20.pdf"  target="_blank">Lecture 20: Vector/Flow Visualization, Pt. 2.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Apr 12, 2021</td>
+      <td><a href="/teaching/CS247/CS247_spring2021_lecture_21.pdf"  target="_blank">Lecture 21: Vector/Flow Visualization, Pt. 3.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Apr 14, 2021</td>
+      <td><a href="/teaching/CS247/CS247_spring2021_lecture_22.pdf"  target="_blank">Lecture 22: Vector/Flow Visualization, Pt. 4.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Apr 21, 2021</td>
+      <td><a href="/teaching/CS247/CS247_spring2021_lecture_23.pdf"  target="_blank">Lecture 23: Vector/Flow Visualization, Pt. 5.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Apr 26, 2021</td>
+      <td><a href="/teaching/CS247/CS247_spring2021_lecture_24.pdf"  target="_blank">Lecture 24: Vector/Flow Visualization, Pt. 6.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Apr 28, 2021</td>
+      <td><a href="/teaching/CS247/CS247_spring2021_lecture_25.pdf"  target="_blank">Lecture 25: Vector/Flow Visualization, Pt. 7.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">May 3, 2021</td>
+      <td><a href="/teaching/CS247/CS247_spring2021_lecture_26.pdf"  target="_blank">Lecture 26: Vector/Flow Visualization, Pt. 8.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">May 5, 2021</td>
+      <td><a href="/teaching/CS247/CS247_spring2021_lecture_27.pdf"  target="_blank">Lecture 27: Vector/Flow Visualization, Pt. 9.</a></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
