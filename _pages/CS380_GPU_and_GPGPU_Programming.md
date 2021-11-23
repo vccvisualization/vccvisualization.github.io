@@ -8,6 +8,20 @@ tags:
 <h4> Markus Hadwiger, Peter Rautek, Amani Ageeli </h4>
 </div>
 
+<style>
+table.books td {
+  background-color: lime;
+  margin: 12px 12px 12px 12px;
+  padding: 12px 12px 12px 12px;
+}
+
+table.books {
+  border-collapse: separate;
+  border-spacing: 10px;
+  *border-collapse: expression('separate', cellSpacing='10px');
+}
+</style>
+
 ![CS 380 GPU and GPGPU Programming]({{ site.url }}/images/CS380_04.jpg)
 
 ### Overview
@@ -49,26 +63,289 @@ Prof. Markus Hadwiger
 <a href="https://bitbucket.org/rautek/cs380-2021/src/master/" target="_blank">Bitbucket git repository for the programming assignments (Peter needs to give you access).</a>
 
 ### Slides (fall 2021)
+<table>
+<tbody>
+<tr>
+<td style="width:110px">Aug 30, 2021</td>
+<td><a href="/teaching/CS380/CS380_fall2021_lecture_01.pdf">Lecture 1: Introduction, Pt. 1.</a></td>
+</tr>
 
-<a href="/teaching/CS380/CS380_fall2021_lecture_01.pdf" target="_blank">Slides of lecture 1</a>, Aug 30, 2021: Introduction, Pt. 1.<br>
-<a href="/teaching/CS380/CS380_fall2021_lecture_02.pdf" target="_blank">Slides of lecture 2</a>, Sep 1, 2021: Introduction, Pt. 2.<br>
-<a href="/teaching/CS380/CS380_fall2021_lecture_03.pdf" target="_blank">Slides of lecture 3</a>, Sep 6, 2021: Introduction, Pt. 3.<br>
-<a href="/teaching/CS380/CS380_fall2021_lecture_04.pdf" target="_blank">Slides of lecture 4</a>, Sep 8, 2021: GPU Architecture, Pt. 1.<br>
-<a href="/teaching/CS380/CS380_fall2021_lecture_05.pdf" target="_blank">Slides of lecture 5</a>, Sep 13, 2021: GPU Architecture, Pt. 2.<br>
-<a href="/teaching/CS380/CS380_fall2021_lecture_06.pdf" target="_blank">Slides of lecture 6</a>, Sep 15, 2021: GPU Architecture, Pt. 3.<br>
-<a href="/teaching/CS380/CS380_fall2021_lecture_07.pdf" target="_blank">Slides of lecture 7</a>, Sep 20, 2021: GPU Architecture, Pt. 4.<br>
-No lecture on Sep 22!<br>
-<a href="/teaching/CS380/CS380_fall2021_lecture_08.pdf" target="_blank">Slides of lecture 8</a>, Sep 27, 2021: GPU Architecture, Pt. 5.<br>
-<a href="/teaching/CS380/CS380_fall2021_lecture_09.pdf" target="_blank">Slides of lecture 9</a>, Sep 29, 2021: GPU Architecture, Pt. 6.<br>
-<a href="/teaching/CS380/CS380_fall2021_lecture_10.pdf" target="_blank">Slides of lecture 10</a>, Oct 4, 2021: GPU Architecture, Pt. 7.<br>
-<a href="/teaching/CS380/CS380_fall2021_lecture_11.pdf" target="_blank">Slides of lecture 11</a>, Oct 6, 2021: GPU Compute APIs, Pt. 1.<br>
-<a href="/teaching/CS380/CS380_fall2021_lecture_12.pdf" target="_blank">Slides of lecture 12</a>, Oct 11, 2021: GPU Compute APIs, Pt. 2.<br>
-<a href="/teaching/CS380/CS380_fall2021_lecture_13.pdf" target="_blank">Slides of lecture 13</a>, Oct 13, 2021: GPU Compute APIs, Pt. 3.<br>
-<a href="/teaching/CS380/CS380_fall2021_lecture_14.pdf" target="_blank">Slides of lecture 14</a>, Oct 20, 2021: GPU Texturing, Pt. 1.<br>
-<a href="/teaching/CS380/CS380_fall2021_lecture_15.pdf" target="_blank">Slides of lecture 15</a>, Oct 25, 2021: GPU Texturing, Pt. 2.<br>
-<a href="/teaching/CS380/CS380_fall2021_lecture_16.pdf" target="_blank">Slides of lecture 16</a>, Nov 1, 2021: GPU Texturing, Pt. 3.<br>
-<a href="/teaching/CS380/CS380_fall2021_lecture_17.pdf" target="_blank">Slides of lecture 17</a>, Nov 3, 2021: GPU Texturing, Pt. 4, Virtual Texturing, Virtual Geometry.<br>
-<a href="/teaching/CS380/CS380_fall2021_lecture_18.pdf" target="_blank">Slides of lecture 18</a>, Nov 8, 2021: Stream Computing and GPGPU.<br>
-<a href="/teaching/CS380/CS380_fall2021_lecture_19.pdf" target="_blank">Slides of lecture 19</a>, Nov 10, 2021: CUDA Memory, Pt. 1.<br>
-<a href="/teaching/CS380/CS380_fall2021_lecture_20.pdf" target="_blank">Slides of lecture 20</a>, Nov 15, 2021: CUDA Memory, Pt. 2.<br>
-<a href="/teaching/CS380/CS380_fall2021_lecture_21.pdf" target="_blank">Slides of lecture 21</a>, Nov 22, 2021: CUDA Memory, Pt. 3.<br>
+<tr>
+<td style="width:110px">Sep 1, 2021</td>
+<td><a href="/teaching/CS380/CS380_fall2021_lecture_02.pdf">Lecture 2: Introduction, Pt. 2.</a></td>
+</tr>
+
+<tr>
+<td style="width:110px">Sep 6, 2021</td>
+<td><a href="/teaching/CS380/CS380_fall2021_lecture_03.pdf">Lecture 3: Introduction, Pt. 3.</a></td>
+</tr>
+
+<tr>
+<td style="width:110px">Sep 8, 2021</td>
+<td><a href="/teaching/CS380/CS380_fall2021_lecture_04.pdf">Lecture 4: GPU Architecture, Pt. 1.</a></td>
+</tr>
+
+<tr>
+<td style="width:110px">Sep 13, 2021</td>
+<td><a href="/teaching/CS380/CS380_fall2021_lecture_05.pdf">Lecture 5: GPU Architecture, Pt. 2.</a></td>
+</tr>
+
+<tr>
+<td style="width:110px">Sep 15, 2021</td>
+<td><a href="/teaching/CS380/CS380_fall2021_lecture_06.pdf">Lecture 6: GPU Architecture, Pt. 3.</a></td>
+</tr>
+
+<tr>
+<td style="width:110px">Sep 20, 2021</td>
+<td><a href="/teaching/CS380/CS380_fall2021_lecture_07.pdf">Lecture 7: GPU Architecture, Pt. 4.</a></td>
+</tr>
+
+<tr>
+<td style="width:110px">Sep 27, 2021</td>
+<td><a href="/teaching/CS380/CS380_fall2021_lecture_08.pdf">Lecture 8: GPU Architecture, Pt. 5.</a></td>
+</tr>
+
+<tr>
+<td style="width:110px">Sep 29, 2021</td>
+<td><a href="/teaching/CS380/CS380_fall2021_lecture_09.pdf">Lecture 9: GPU Architecture, Pt. 6.</a></td>
+</tr>
+
+<tr>
+<td style="width:110px">Oct 4, 2021</td>
+<td><a href="/teaching/CS380/CS380_fall2021_lecture_10.pdf">Lecture 10: GPU Architecture, Pt. 7.</a></td>
+</tr>
+
+<tr>
+<td style="width:110px">Oct 6, 2021</td>
+<td><a href="/teaching/CS380/CS380_fall2021_lecture_11.pdf">Lecture 11: GPU Compute APIs, Pt. 1.</a></td>
+</tr>
+
+<tr>
+<td style="width:110px">Oct 11, 2021</td>
+<td><a href="/teaching/CS380/CS380_fall2021_lecture_12.pdf">Lecture 12: GPU Compute APIs, Pt. 2.</a></td>
+</tr>
+
+<tr>
+<td style="width:110px">Oct 13, 2021</td>
+<td><a href="/teaching/CS380/CS380_fall2021_lecture_13.pdf">Lecture 13: GPU Compute APIs, Pt. 3.</a></td>
+</tr>
+
+<tr>
+<td style="width:110px">Oct 20, 2021</td>
+<td><a href="/teaching/CS380/CS380_fall2021_lecture_14.pdf">Lecture 14: GPU Texturing, Pt. 1.</a></td>
+</tr>
+
+<tr>
+<td style="width:110px">Oct 25, 2021</td>
+<td><a href="/teaching/CS380/CS380_fall2021_lecture_15.pdf">Lecture 15: GPU Texturing, Pt. 2.</a></td>
+</tr>
+
+<tr>
+<td style="width:110px">Nov 1, 2021</td>
+<td><a href="/teaching/CS380/CS380_fall2021_lecture_16.pdf">Lecture 16: GPU Texturing, Pt. 3.</a></td>
+</tr>
+
+<tr>
+<td style="width:110px">Nov 3, 2021</td>
+<td><a href="/teaching/CS380/CS380_fall2021_lecture_17.pdf">Lecture 17: GPU Texturing, Pt. 4, Virtual Texturing, Virtual Geometry.</a></td>
+</tr>
+
+
+<tr>
+<td style="width:110px">Nov 8, 2021</td>
+<td><a href="/teaching/CS380/CS380_fall2021_lecture_18.pdf">Lecture 18: Stream Computing and GPGPU.</a></td>
+</tr>
+
+
+<tr>
+<td style="width:110px">Nov 10, 2021</td>
+<td><a href="/teaching/CS380/CS380_fall2021_lecture_19.pdf">Lecture 19: CUDA Memory, Pt. 1.</a></td>
+</tr>
+
+
+<tr>
+<td style="width:110px">Nov 15, 2021</td>
+<td><a href="/teaching/CS380/CS380_fall2021_lecture_20.pdf">Lecture 20: CUDA Memory, Pt. 2.</a></td>
+</tr>
+
+
+<tr>
+<td style="width:110px">Nov 22, 2021</td>
+<td><a href="/teaching/CS380/CS380_fall2021_lecture_21.pdf">Lecture 21: CUDA Memory, Pt. 3.</a></td>
+</tr>
+
+</tbody>
+</table>
+
+### Resources
+
+<table class="test">
+<tbody>
+
+<tr>
+<td>
+<img src="{{ site.url }}/images/Book_GLSLC.jpg" style="width:40%; float:left;">
+</td>
+<td>
+<img src="{{ site.url }}/images/Book_PMPP.jpg" style="width:40%; float:left;">
+</td>
+</tr>
+
+<tr>
+<td><a href="https://koral.summon.serialssolutions.com/#!/search?bookMark=eNqNkEFPg0AQhddojG3lP5BejAeSXQbY3aM2tZqQ9GK8kmEZoIJQWdC_71bioTcPk5mXfHnz8pbMw2msqRsPBkcqLpinpRJShSKRHOQlW_6JUFyzhUokCAkSbphn7TvnXAjQGqIFW--P1O1SP_JtjcWhq_wWu2rCinzT903u5pZdjcNE3rxW7O1p-7p5DtL97mXzkAYYx1rEAZqYS0gMAhjiJLWKpVBSi7DA0J3ERYIQF0hFCahKrkUuw5IXpHMnNazYejZucLJjBgn_wMFkZ3kddD9DaBv6tnXfjjb7aumU02ZnJTj2bmaPQ_85kfP8xYyrbcA22z5uRBSd-P-9_gHFkWcc">OpenGL 4 shading language cookbook</a></td>
+<td><a href="https://koral.summon.serialssolutions.com/#!/search?bookMark=eNoljstqwzAQRQXtIk3qf_Cq0IXBelgaL0voCwLpol2H0UROXMtR0Dil_fsacs_i7A53KQq8TMdwmnrCKexvxLKWysimbZVeiIL5u54HUlrQd-LxI6dDxnHsT4dyROb-J8S_8owZYwyxPOdEgTllvhe3U76E4qqV-Hp5_ly_VZvt6_v6aVOR0spV2Pi6NcEDQZAdKQIM4CyR7fYGfeslaItmhloXbAfGSfKAFgDJYKNX4uHa5aGPkVM37XxKAyvz63Z-4Pl6I2ut9T-nY0QX">
+Programming massively parallel processors</a></td>
+</tr>
+
+<tr>
+<td>For the Graphics part</td>
+<td>For the GPGPU part</td>
+</tr>
+
+
+</tbody>
+</table>
+
+### Old Slides
+
+<details>
+	<summary>Fall 2020</summary>
+	<table>
+    <tbody>
+      <tr>
+      <td style="width:110px">Aug 31, 2020</td>
+      <td><a href="/teaching/CS380/CS380_fall2020_lecture_01.pdf">Lecture 1: Introduction, Pt. 1.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Sep 2, 2020</td>
+      <td><a href="/teaching/CS380/CS380_fall2020_lecture_02.pdf">Lecture 2: Introduction, Pt. 2.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Sep 7, 2020</td>
+      <td><a href="/teaching/CS380/CS380_fall2020_lecture_03.pdf">Lecture 3: GPU Architecture 1.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Sep 9, 2020</td>
+      <td><a href="/teaching/CS380/CS380_fall2020_lecture_04.pdf">Lecture 4: GPU Architecture 2.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Sep 14, 2020</td>
+      <td><a href="/teaching/CS380/CS380_fall2020_lecture_05.pdf">Lecture 5: GPU Architecture 3.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Sep 16, 2020</td>
+      <td><a href="/teaching/CS380/CS380_fall2020_lecture_06.pdf">Lecture 6: GPU Architecture 4.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Sep 21, 2020</td>
+      <td><a href="/teaching/CS380/CS380_fall2020_lecture_07.pdf">Lecture 7: GPU Architecture 5.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Sep 28, 2020</td>
+      <td>Lecture 8: Quiz #1</td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Sep 30, 2020</td>
+      <td><a href="/teaching/CS380/CS380_fall2020_lecture_09.pdf">Lecture 9: GPU Architecture 6.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Oct 5, 2020</td>
+      <td><a href="/teaching/CS380/CS380_fall2020_lecture_10.pdf">Lecture 10: GPU Architecture 7.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Oct 7, 2020</td>
+      <td><a href="/teaching/CS380/CS380_fall2020_lecture_11.pdf">Lecture 11: GPU Architecture 8.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Oct 12, 2020</td>
+      <td><a href="/teaching/CS380/CS380_fall2020_lecture_12.pdf">Lecture 12: GPU Compute APIs 1.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Oct 14, 2020</td>
+      <td><a href="/teaching/CS380/CS380_fall2020_lecture_13.pdf">Lecture 13: GPU Compute APIs 2.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Oct 21, 2020</td>
+      <td><a href="/teaching/CS380/CS380_fall2020_lecture_14.pdf">Lecture 14: GPU Compute APIs 3, GPU Texturing 1.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Oct 26, 2020</td>
+      <td><a href="/teaching/CS380/CS380_fall2020_lecture_15.pdf">Lecture 15: GPU Texturing 2.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Oct 28, 2020</td>
+      <td><a href="/teaching/CS380/CS380_fall2020_lecture_16.pdf">Lecture 16: GPU Texturing 3.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Nov 2, 2020</td>
+      <td><a href="/teaching/CS380/CS380_fall2020_lecture_17.pdf">Lecture 17: GPU Texturing 4.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Nov 4, 2020</td>
+      <td><a href="/teaching/CS380/CS380_fall2020_lecture_18.pdf">Lecture 18: GPU Texturing 5.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Nov 9, 2020</td>
+      <td><a href="/teaching/CS380/CS380_fall2020_lecture_19.pdf">Lecture 19: GPU Texturing 6; Stream Computing and GPGPU.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Nov 11, 2020</td>
+      <td><a href="/teaching/CS380/CS380_fall2020_lecture_20.pdf">Lecture 20: CUDA Memory: Shared Memory.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Nov 16, 2020</td>
+      <td><a href="/teaching/CS380/CS380_fall2020_lecture_21.pdf">Lecture 21: CUDA Memory, Pt.2; GPU Reduction.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Nov 18, 2020</td>
+      <td><a href="/teaching/CS380/CS380_fall2020_lecture_22.pdf">Lecture 22: CUDA Memory, Pt. 3.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Nov 23, 2020</td>
+      <td><a href="/teaching/CS380/CS380_fall2020_lecture_23.pdf">Lecture 23: CUDA Memory, Pt. 4.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Nov 25, 2020</td>
+      <td><a href="/teaching/CS380/CS380_fall2020_lecture_24.pdf">Lecture 24: GPU Parallel Prefix Sum / Scan.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Dec 2, 2020</td>
+      <td><a href="/teaching/CS380/CS380_fall2020_lecture_25.pdf">Lecture 25: Parallel Scan Bank Conflicts; Shuffle Instructions.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Dec 7, 2020</td>
+      <td><a href="/teaching/CS380/CS380_fall2020_lecture_26.pdf">Lecture 26: Warp Synchronous Programming; Cooperative Thread Groups; Programming Tensor Cores.</a></td>
+      </tr>
+
+      <tr>
+      <td style="width:110px">Dec 9, 2020</td>
+      <td><a href="/teaching/CS380/CS380_fall2020_lecture_27.pdf">Lecture 27: CUDA Unified Memory; More on Instruction Level Parallelism.</a></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
