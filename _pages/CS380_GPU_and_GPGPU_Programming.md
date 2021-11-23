@@ -192,8 +192,8 @@ Prof. Markus Hadwiger
 </tr>
 
 <tr>
-<td><a href="https://koral.summon.serialssolutions.com/#!/search?bookMark=eNqNkEFPg0AQhddojG3lP5BejAeSXQbY3aM2tZqQ9GK8kmEZoIJQWdC_71bioTcPk5mXfHnz8pbMw2msqRsPBkcqLpinpRJShSKRHOQlW_6JUFyzhUokCAkSbphn7TvnXAjQGqIFW--P1O1SP_JtjcWhq_wWu2rCinzT903u5pZdjcNE3rxW7O1p-7p5DtL97mXzkAYYx1rEAZqYS0gMAhjiJLWKpVBSi7DA0J3ERYIQF0hFCahKrkUuw5IXpHMnNazYejZucLJjBgn_wMFkZ3kddD9DaBv6tnXfjjb7aumU02ZnJTj2bmaPQ_85kfP8xYyrbcA22z5uRBSd-P-9_gHFkWcc">OpenGL 4 shading language cookbook</a></td>
-<td><a href="https://koral.summon.serialssolutions.com/#!/search?bookMark=eNoljstqwzAQRQXtIk3qf_Cq0IXBelgaL0voCwLpol2H0UROXMtR0Dil_fsacs_i7A53KQq8TMdwmnrCKexvxLKWysimbZVeiIL5u54HUlrQd-LxI6dDxnHsT4dyROb-J8S_8owZYwyxPOdEgTllvhe3U76E4qqV-Hp5_ly_VZvt6_v6aVOR0spV2Pi6NcEDQZAdKQIM4CyR7fYGfeslaItmhloXbAfGSfKAFgDJYKNX4uHa5aGPkVM37XxKAyvz63Z-4Pl6I2ut9T-nY0QX">
+<td><a href="https://koral.summon.serialssolutions.com/#!/search?bookMark=eNqNkEFPg0AQhddojG3lP5BejAeSXQbY3aM2tZqQ9GK8kmEZoIJQWdC_71bioTcPk5mXfHnz8pbMw2msqRsPBkcqLpinpRJShSKRHOQlW_6JUFyzhUokCAkSbphn7TvnXAjQGqIFW--P1O1SP_JtjcWhq_wWu2rCinzT903u5pZdjcNE3rxW7O1p-7p5DtL97mXzkAYYx1rEAZqYS0gMAhjiJLWKpVBSi7DA0J3ERYIQF0hFCahKrkUuw5IXpHMnNazYejZucLJjBgn_wMFkZ3kddD9DaBv6tnXfjjb7aumU02ZnJTj2bmaPQ_85kfP8xYyrbcA22z5uRBSd-P-9_gHFkWcc"  target="_blank">OpenGL 4 shading language cookbook</a></td>
+<td><a href="https://koral.summon.serialssolutions.com/#!/search?bookMark=eNoljstqwzAQRQXtIk3qf_Cq0IXBelgaL0voCwLpol2H0UROXMtR0Dil_fsacs_i7A53KQq8TMdwmnrCKexvxLKWysimbZVeiIL5u54HUlrQd-LxI6dDxnHsT4dyROb-J8S_8owZYwyxPOdEgTllvhe3U76E4qqV-Hp5_ly_VZvt6_v6aVOR0spV2Pi6NcEDQZAdKQIM4CyR7fYGfeslaItmhloXbAfGSfKAFgDJYKNX4uHa5aGPkVM37XxKAyvz63Z-4Pl6I2ut9T-nY0QX"  target="_blank">
 Programming massively parallel processors</a></td>
 </tr>
 
