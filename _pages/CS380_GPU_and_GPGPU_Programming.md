@@ -174,6 +174,12 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2021_lecture_21.pdf"  target="_blank">Lecture 21: CUDA Memory, Pt. 3.</a></td>
 </tr>
 
+
+<tr>
+<td style="width:110px">Nov 24, 2021</td>
+<td><a href="/teaching/CS380/CS380_fall2021_lecture_22.pdf"  target="_blank">Lecture 22: GPU Parallel Reduction.</a></td>
+</tr>
+
 </tbody>
 </table>
 
