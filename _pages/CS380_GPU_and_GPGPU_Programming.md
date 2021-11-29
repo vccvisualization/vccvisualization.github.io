@@ -63,8 +63,10 @@ Prof. Markus Hadwiger
 <a href="https://bitbucket.org/rautek/cs380-2021/src/master/" target="_blank">Bitbucket git repository for the programming assignments (Peter needs to give you access).</a>
 
 ### Slides (fall 2021)
+
 <table>
 <tbody>
+
 <tr>
 <td style="width:110px">Aug 30, 2021</td>
 <td><a href="/teaching/CS380/CS380_fall2021_lecture_01.pdf"  target="_blank">Lecture 1: Introduction, Pt. 1.</a></td>
@@ -150,36 +152,30 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2021_lecture_17.pdf"  target="_blank">Lecture 17: GPU Texturing, Pt. 4, Virtual Texturing, Virtual Geometry.</a></td>
 </tr>
 
-
 <tr>
 <td style="width:110px">Nov 8, 2021</td>
 <td><a href="/teaching/CS380/CS380_fall2021_lecture_18.pdf"  target="_blank">Lecture 18: Stream Computing and GPGPU.</a></td>
 </tr>
-
 
 <tr>
 <td style="width:110px">Nov 10, 2021</td>
 <td><a href="/teaching/CS380/CS380_fall2021_lecture_19.pdf"  target="_blank">Lecture 19: CUDA Memory, Pt. 1.</a></td>
 </tr>
 
-
 <tr>
 <td style="width:110px">Nov 15, 2021</td>
 <td><a href="/teaching/CS380/CS380_fall2021_lecture_20.pdf"  target="_blank">Lecture 20: CUDA Memory, Pt. 2.</a></td>
 </tr>
-
 
 <tr>
 <td style="width:110px">Nov 22, 2021</td>
 <td><a href="/teaching/CS380/CS380_fall2021_lecture_21.pdf"  target="_blank">Lecture 21: CUDA Memory, Pt. 3.</a></td>
 </tr>
 
-
 <tr>
 <td style="width:110px">Nov 24, 2021</td>
 <td><a href="/teaching/CS380/CS380_fall2021_lecture_22.pdf"  target="_blank">Lecture 22: GPU Parallel Reduction.</a></td>
 </tr>
-
 
 <tr>
 <td style="width:110px">Nov 29, 2021</td>
@@ -212,7 +208,6 @@ Programming massively parallel processors</a></td>
 <td>For the Graphics part</td>
 <td>For the GPGPU part</td>
 </tr>
-
 
 </tbody>
 </table>
