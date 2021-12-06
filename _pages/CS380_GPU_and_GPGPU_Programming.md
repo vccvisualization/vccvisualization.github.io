@@ -188,7 +188,7 @@ Prof. Markus Hadwiger
 </tr>
 
 <tr>
-<td style="width:110px">Dec 1, 2021</td>
+<td style="width:110px">Dec 6, 2021</td>
 <td><a href="/teaching/CS380/CS380_fall2021_lecture_25.pdf"  target="_blank">Lecture 25: CUDA Memory, Pt. 5; Shuffle Instructions; Cooperative Groups.</a></td>
 </tr>
 
