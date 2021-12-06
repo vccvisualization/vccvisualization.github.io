@@ -187,6 +187,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2021_lecture_24.pdf"  target="_blank">Lecture 24: Scan Bank Conflicts; CUDA Memory, Pt. 4.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Dec 1, 2021</td>
+<td><a href="/teaching/CS380/CS380_fall2021_lecture_25.pdf"  target="_blank">Lecture 25: CUDA Memory, Pt. 5; Shuffle Instructions; Cooperative Groups.</a></td>
+</tr>
+
 </tbody>
 </table>
 
