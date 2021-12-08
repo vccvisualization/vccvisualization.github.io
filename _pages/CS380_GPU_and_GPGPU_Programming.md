@@ -192,6 +192,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2021_lecture_25.pdf"  target="_blank">Lecture 25: CUDA Memory, Pt. 5; Shuffle Instructions; Cooperative Groups.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Dec 8, 2021</td>
+<td><a href="/teaching/CS380/CS380_fall2021_lecture_26.pdf"  target="_blank">Lecture 26: Tensor Core Programming.</a></td>
+</tr>
+
 </tbody>
 </table>
 
