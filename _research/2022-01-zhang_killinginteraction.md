@@ -25,7 +25,7 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   IEEE Transactions on Visualization and Computer Graphics, Vol.28, No.2 (Proceedings IEEE VIS 2021), to appear
+   IEEE Transactions on Visualization and Computer Graphics, Vol.28, No.1 (Proceedings IEEE VIS 2021), pp. 281-290
   
 #insert short venue (displayed in box in publication list)
 shortvenue: >
@@ -64,8 +64,8 @@ citation:   >
    &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE VIS 2021)},<br>
    &nbsp;&nbsp;year = {2022}<br>
    &nbsp;&nbsp;volume = {28},<br>
-   &nbsp;&nbsp;number = {2},<br>
-   &nbsp;&nbsp;pages = {to appear}<br>
+   &nbsp;&nbsp;number = {1},<br>
+   &nbsp;&nbsp;pages = {281--290}<br>
   }
 
 #insert links to additional material for the publication (optional)
