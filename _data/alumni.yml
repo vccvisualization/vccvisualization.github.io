@@ -1,4 +1,11 @@
-﻿- name:   Matej Mlejnek
+﻿- name:   Ronell Sicat
+  prefix: Dr.
+  role:   Visualization Scientist
+  image:  ./images/people/sicat.jpg
+  url:    https://www.linkedin.com/in/ronellsicat
+  #info:  todo
+
+- name:   Matej Mlejnek
   prefix: Dr.
   role:   Data science enthusiast
   image:  ./images/people/mlejnek.jpg
