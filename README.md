@@ -15,8 +15,9 @@ If you are building the webpage for the first time, download and install [Jekyll
 
 To build and serve the local version of the webpage:
 1. On the command line, go to the directory of this repository
-2. type: `jekyll serve`
-3. In your browser navigate to http://localhost:4000/
+2. type: `bundle install`
+3. type: `jekyll serve`
+4. In your browser navigate to http://localhost:4000/
 
 ## Adding a Publication
 You can add PDFs, videos, teaser images and thumbnails to the publications subdirectory. 
