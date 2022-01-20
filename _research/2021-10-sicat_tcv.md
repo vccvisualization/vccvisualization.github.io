@@ -31,10 +31,10 @@ venue:      >
 
 #insert short venue (displayed in box in publication list)
 shortvenue: >
-   IEEE TVCG 2021
+   IEEE TVCG 2022
 
 #specify publication year
-year:       2021
+year:       2022
 
 #insert abstract of publication
 abstract:   >
@@ -44,7 +44,7 @@ abstract:   >
 teaser:     './publications/2021_sicat_tcv.png'
    
 #link to smaller thumbnail image of publication (please make sure the aspect ratio is 3:2, suggested size is 150x100px)
-#thumbnail:  './publications/2021_sicat_thumbnail.png'
+thumbnail:  './publications/2021_sicat_thumbnail.png'
 
 #link to publication video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
 #video:      'https://vimeo.com/458350874'
@@ -60,15 +60,15 @@ teaser:     './publications/2021_sicat_tcv.png'
 
 #insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
-  @article{Sicat2021TeraCellVis,<br>
-   &nbsp;&nbsp;title = {Real-Time Visualization of Large-Scale Geological Models with Nonlinear Feature-Preserving Levels of Detail},<br>
-   &nbsp;&nbsp;author = {Sicat, Ronell and Ibrahim, Mohamed, and Ageeli, Amani, and Mannus, Florian, and Rautek, Peter and Hadwiger, Markus},<br>
-   &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (to appear)},<br>
-  &nbsp;&nbsp;number = {00},<br>
-  &nbsp;&nbsp;issue = {00},<br>
-  &nbsp;&nbsp;pages = {00},<br>
-  &nbsp;&nbsp;year = {2021}<br>
-  }
+@article{Sicat2022TeraCellVis,<br>
+  &nbsp;&nbsp;title = {Real-Time Visualization of Large-Scale Geological Models with Nonlinear Feature-Preserving Levels of Detail},<br>
+  &nbsp;&nbsp;author = {Sicat, Ronell and Ibrahim, Mohamed, and Ageeli, Amani, and Mannus, Florian, and Rautek, Peter and Hadwiger, Markus},<br>
+  &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics},<br>
+  &nbsp;&nbsp;number = {to appear},<br>
+  &nbsp;&nbsp;issue = {to appear},<br>
+  &nbsp;&nbsp;pages = {to appear},<br>
+  &nbsp;&nbsp;year = {2022}<br>
+}
 
 #insert links to additional material for the publication (optional)
 #links need a title, a URL and a type (this defines the link icon) which can be one of the following values: code, archive, files, slides or text (this is the default icon)

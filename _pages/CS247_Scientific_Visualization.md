@@ -8,6 +8,20 @@ tags:
 <h4> Markus Hadwiger </h4>
 </div>
 
+<style>
+table.books td {
+  background-color: lime;
+  margin: 12px 12px 12px 12px;
+  padding: 12px 12px 12px 12px;
+}
+
+table.books {
+  border-collapse: separate;
+  border-spacing: 10px;
+  *border-collapse: expression('separate', cellSpacing='10px');
+}
+</style>
+
 ![CS 247 Scientific Visualization]({{ site.url }}/images/CS247_01.jpg)
 
 ### Overview
@@ -20,8 +34,8 @@ CS 247. Scientific Visualization (3-0-3) Prerequisites: Linear algebra, basic ca
 
 ### Hours and Location
 
-Monday, 16:45 - 18:15.<br/>
-Wednesday, 16:45 - 18:15.
+Monday, 16:45 - 18:15, online in Zoom (send email for link).<br/>
+Wednesday, 16:45 - 18:15, online in Zoom (send email for link).
 
 ### Instructor
 
@@ -35,8 +49,8 @@ Prof. Markus Hadwiger
 	<h4>Markus Hadwiger</h4>
   </div>
   <div class="column" style='text-align: center;'>
-    <a href="{{ site.url }}/alumni/mlejnek"><img src="{{ site.url }}/images/people/mlejnek.jpg" alt="Rautek" style="width:66%; border-radius: 50%;"></a>
-	<h4>Matej Mlejnek</h4>
+    <a href="{{ site.url }}/people/jaspe"><img src="{{ site.url }}/images/people/jaspe.jpg" alt="Jaspe" style="width:66%; border-radius: 50%;"></a>
+	<h4>Alberto Jaspe</h4>
   </div>
   <div class="column" style='text-align: center;'>
     <a href="{{ site.url }}/people/ageeli"><img src="{{ site.url }}/images/people/ageeli.jpg" alt="Ageeli" style="width:66%; border-radius: 50%;"></a>
@@ -46,9 +60,42 @@ Prof. Markus Hadwiger
 
 ### Programming assignments
 
-<a href="http://bitbucket.org/kaust_cs247/cs247_2021/wiki" target="_blank">Bitbucket git repository for the programming assignments.</a>
+<a href="http://bitbucket.org/kaust_cs247/cs247_2022/wiki" target="_blank">Bitbucket git repository for the programming assignments (Alberto needs to give you access).</a>
+
+### Slides (spring 2022)
+
+Will be online as the semester progresses (see for previous slides below!).
+
+### Resources
+
+<table class="test">
+<tbody>
+
+<tr>
+<td>
+<img src="{{ site.url }}/images/Book_DVIS.png" style="width:40%; float:left;">
+</td>
+<td>
+<img src="{{ site.url }}/images/Book_RTVG.jpg" style="width:40%; float:left;">
+</td>
+</tr>
+
+<tr>
+<td><a href="https://www.oreilly.com/library/view/data-visualization-2nd/9781466585263/?ar"  target="_blank">Data Visualization: Principles and Practice</a></td>
+<td><a href="https://www.taylorfrancis.com/books/mono/10.1201/b10629/real-time-volume-graphics-klaus-engel-markus-hadwiger-joe-kniss-christof-rezk-salama-daniel-weiskopf"  target="_blank">
+Real-Time Volume Graphics</a></td>
+</tr>
+
+<tr>
+<td>For general methods</td>
+<td>For volume rendering</td>
+</tr>
+
+</tbody>
+</table>
 
 ### Old Slides
+
 <details>
 	<summary>Spring 2021</summary>
 
@@ -158,7 +205,6 @@ Prof. Markus Hadwiger
     </table>
 
     <h6>PART III: Vector Field Visualization</h6>
-
 
       <table>
       <tbody>
