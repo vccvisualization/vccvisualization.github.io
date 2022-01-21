@@ -5,7 +5,7 @@ tags:
 - Course
 ---
 <div style='text-align: center;'>
-<h4> Markus Hadwiger </h4>
+<h4> Markus Hadwiger, Alberto Jaspe, Reem Alghamdi </h4>
 </div>
 
 <style>
