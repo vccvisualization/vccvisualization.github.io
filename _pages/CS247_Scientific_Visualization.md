@@ -53,8 +53,8 @@ Prof. Markus Hadwiger
 	<h4>Alberto Jaspe</h4>
   </div>
   <div class="column" style='text-align: center;'>
-    <a href="{{ site.url }}/people/ageeli"><img src="{{ site.url }}/images/people/ageeli.jpg" alt="Ageeli" style="width:66%; border-radius: 50%;"></a>
-	<h4>Amani Ageeli</h4>
+    <a href="{{ site.url }}/people/alghamdi"><img src="{{ site.url }}/images/people/alghamdi.png" alt="Alghamdi" style="width:66%; border-radius: 50%;"></a>
+	<h4>Reem Alghamdi</h4>
   </div>
 </div>
 
