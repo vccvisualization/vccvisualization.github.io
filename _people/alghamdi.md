@@ -6,7 +6,7 @@ slug:       alghamdi
 layout: 	person
 
 #specifies index in the generated people list (if in doubt, set to 10)
-sequence:	11
+sequence:	16
 
 #your academic title (uncomment by removing the leading # if applicable)
 #prefix:    PhD.
