@@ -60,7 +60,7 @@ Prof. Markus Hadwiger
 
 ### Programming assignments
 
-<a href="http://bitbucket.org/kaust_cs247/cs247_2022/wiki" target="_blank">Bitbucket git repository for the programming assignments (Alberto needs to give you access).</a>
+<a href="https://classroom.github.com/a/QVRPT-Ce" target="_blank">Sign up on github classroom for the programming assignments.</a>
 
 ### Slides (spring 2022)
 

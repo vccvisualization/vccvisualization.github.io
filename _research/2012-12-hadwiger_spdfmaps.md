@@ -26,11 +26,11 @@ authors:
 
 #insert publication venue (displayed on publication page)
 venue:      >
-   ACM Transactions on Graphics, Vol.31, No.6 (Proceedings ACM Siggraph Asia 2012), pp. 133:1-133:12
+   ACM Transactions on Graphics, Vol.31, No.6 (Proceedings ACM SIGGRAPH Asia 2012), pp. 133:1-133:12
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
-   ACM Siggraph Asia 2012
+   ACM SIGGRAPH Asia 2012
 
 #specify publication year
 year:       2012
@@ -56,7 +56,7 @@ citation:   >
   @article{Hadwiger2012SPDFMaps,<br>
    &nbsp;&nbsp;title = {Sparse PDF Maps for Non-Linear Multi-Resolution Image Operations},<br>
    &nbsp;&nbsp;author = {Hadwiger, Markus and Sicat, Ronell and Beyer, Johanna and Kr{\"u}ger, Jens and M{\"o}ller, Torsten},<br>
-   &nbsp;&nbsp;journal = {ACM Transactions on Graphics (Proceedings ACM Siggraph Asia 2012)},<br>
+   &nbsp;&nbsp;journal = {ACM Transactions on Graphics (Proceedings ACM SIGGRAPH Asia 2012)},<br>
    &nbsp;&nbsp;year = {2012},<br>
    &nbsp;&nbsp;volume = {31},<br>
    &nbsp;&nbsp;number = {6},<br>
