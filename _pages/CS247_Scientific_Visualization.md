@@ -70,7 +70,7 @@ Prof. Markus Hadwiger
 <tbody>
 
 <tr>
-<td style="width:110px">Aug 30, 2021</td>
+<td style="width:110px">Jan 24, 2022</td>
 <td><a href="/teaching/CS247/CS247_spring2022_lecture_01.pdf" target="_blank">Lecture 1: Introduction.</a></td>
 </tr>
 
