@@ -52,7 +52,7 @@ thumbnail:  './publications/2021_theisel_thumbnail.png'
 #talk:       'https://www.youtube.com/watch?v=3WW2Bdg5tY8'
 
 #link to publication pdf (optional)
-pdf:        'https://aip.scitation.org/doi/pdf/10.1063/5.0063817'
+pdf:        './publications/2021_theisel_PhysFluids.pdf'
 
 #link to appendix pdf (optional)
 #pdfsupp:   'https://arxiv.org/pdf/2106.16169.pdf'
@@ -75,9 +75,9 @@ links:
 - title: Publisher version
   type:  web
   url:   'https://doi.org/10.1063/5.0063817'
-- title: Older arXiv version
-  type:  pdf
-  url:   'https://arxiv.org/pdf/2106.16169.pdf' 
+#- title: Older arXiv version
+#  type:  pdf
+#  url:   'https://arxiv.org/pdf/2106.16169.pdf' 
 # - title: Code
 #   type:  github
 #   url:   'https://github.com/vccvisualization/killingsurfaces'
