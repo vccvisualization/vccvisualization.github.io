@@ -74,6 +74,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS247/CS247_spring2022_lecture_01.pdf" target="_blank">Lecture 1: Introduction.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Jan 26, 2022</td>
+<td><a href="/teaching/CS247/CS247_spring2022_lecture_02.pdf" target="_blank">Lecture 2: Introduction, Pt. 2.</a></td>
+</tr>
+
 </tbody>
 </table>
 
