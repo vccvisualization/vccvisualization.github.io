@@ -92,6 +92,19 @@ Prof. Markus Hadwiger
 </tbody>
 </table>
 
+<h6>PART II: Scalar Field Visualization</h6>
+
+<table>
+<tbody>
+
+<tr>
+<td style="width:110px">Feb 7, 2022</td>
+<td><a href="/teaching/CS247/CS247_spring2022_lecture_05.pdf" target="_blank">Lecture 5: Data Representation, Pt. 3; Scalar Fields, Pt. 1.</a></td>
+</tr>
+
+</tbody>
+</table>
+
 ### Resources
 
 <table class="test">
