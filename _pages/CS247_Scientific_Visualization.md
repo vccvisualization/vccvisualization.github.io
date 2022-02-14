@@ -107,6 +107,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS247/CS247_spring2022_lecture_06.pdf" target="_blank">Lecture 6: Scalar Fields, Pt. 2.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Feb 14, 2022</td>
+<td><a href="/teaching/CS247/CS247_spring2022_lecture_07.pdf" target="_blank">Lecture 7: Scalar Fields, Pt. 3 (preview).</a></td>
+</tr>
+
 </tbody>
 </table>
 
