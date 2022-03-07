@@ -16,7 +16,7 @@ title:		Alberto Jaspe-Villanueva
 name:       Alberto Jaspe-Villanueva
 
 #your role in the vis group
-role:       Post-Doctoral Fellow
+role:       Research Scientist
 
 #link to your image
 image:      ./images/people/jaspe.jpg
