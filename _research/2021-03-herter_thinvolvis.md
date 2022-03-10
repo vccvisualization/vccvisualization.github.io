@@ -64,7 +64,7 @@ citation:   >
    &nbsp;&nbsp;title = {Thin-Volume Visualization on Curved Domains},<br>
    &nbsp;&nbsp;author = {Herter, Felix and Hege, Hans-Christian and Hadwiger, Markus and Lepper, Verena and Baum, Daniel},<br>
    &nbsp;&nbsp;journal = {Computer Graphics Forum (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2021},<br>
-   &nbsp;&nbsp;year = {2021}<br>
+   &nbsp;&nbsp;year = {2021},<br>
    &nbsp;&nbsp;volume = {40},<br>
    &nbsp;&nbsp;number = {3},<br>
    &nbsp;&nbsp;pages = {147-157}<br>

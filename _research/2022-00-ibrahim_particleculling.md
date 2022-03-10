@@ -63,7 +63,7 @@ citation:   >
    &nbsp;&nbsp;title = {Probabilistic Occlusion Culling using Confidence Maps for High-Quality Rendering of Large Particle Data},<br>
    &nbsp;&nbsp;author = {Ibrahim, Mohamed and Rautek, Peter and Reina, Guido and Agus, Marco and Hadwiger, Markus},<br>
    &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE VIS 2021)},<br>
-   &nbsp;&nbsp;year = {2022}<br>
+   &nbsp;&nbsp;year = {2022},<br>
    &nbsp;&nbsp;volume = {28},<br>
    &nbsp;&nbsp;number = {1},<br>
    &nbsp;&nbsp;pages = {573--582}<br>

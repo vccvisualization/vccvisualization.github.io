@@ -58,7 +58,7 @@ citation:   >
    &nbsp;&nbsp;title = {A Visual Analytics Based Decision Making Environment for COVID-19 Modeling and Visualization},<br>
    &nbsp;&nbsp;author = {Afzal, Shehzad and Ghani, Sohaib and Jenkins-Smith, Hank and Ebert, David and Hadwiger, Markus and Hoteit, Ibrahim},<br>
    &nbsp;&nbsp;booktitle = {IEEE Visualization 2020 Short Papers},<br>
-   &nbsp;&nbsp;year = {2020}<br>
+   &nbsp;&nbsp;year = {2020},<br>
    &nbsp;&nbsp;pages = {86-90}<br>
   }
 

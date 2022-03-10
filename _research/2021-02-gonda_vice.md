@@ -64,7 +64,7 @@ citation:   >
    &nbsp;&nbsp;title = {VICE: Visual Identification and Correction of Neural Circuit Errors},<br>
    &nbsp;&nbsp;author = {Gonda, Felix and Wang, Xueying and Beyer, Johanna and Hadwiger, Markus and Lichtman, Jeff W. and Pfister, Hanspeter},<br>
    &nbsp;&nbsp;journal = {Computer Graphics Forum (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2021},<br>
-   &nbsp;&nbsp;year = {2021}<br>
+   &nbsp;&nbsp;year = {2021},<br>
    &nbsp;&nbsp;volume = {40},<br>
    &nbsp;&nbsp;number = {3},<br>
    &nbsp;&nbsp;pages = {447-458}<br>
