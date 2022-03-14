@@ -144,7 +144,7 @@ Prof. Markus Hadwiger
 
 <tr>
 <td style="width:110px">Mar 14, 2022</td>
-<td><a href="/teaching/CS247/CS247_spring2022_lecture_14.pdf" target="_blank">Lecture 14: Scalar Fields, Pt. 10; Volume Rendering, Pt. 1 (preview).</a></td>
+<td><a href="/teaching/CS247/CS247_spring2022_lecture_14.pdf" target="_blank">Lecture 14: Scalar Fields, Pt. 10; Volume Rendering, Pt. 1.</a></td>
 </tr>
 
 </tbody>
