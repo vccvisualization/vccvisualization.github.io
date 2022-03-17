@@ -60,7 +60,7 @@ citation:   >
    &nbsp;&nbsp;title = {SparseLeap: Efficient Empty Space Skipping for Large-Scale Volume Rendering},<br>
    &nbsp;&nbsp;author = {Hadwiger, Markus and Al-Awami, Ali K. and Beyer, Johanna and Agus, Marco and Pfister, Hanspeter},<br>
    &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2017)},<br>
-   &nbsp;&nbsp;year = {2018}<br>
+   &nbsp;&nbsp;year = {2018},<br>
    &nbsp;&nbsp;volume = {24},<br>
    &nbsp;&nbsp;number = {1},<br>
    &nbsp;&nbsp;pages = {974--983}<br>

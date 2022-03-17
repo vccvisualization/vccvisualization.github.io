@@ -58,7 +58,7 @@ citation:   >
    &nbsp;&nbsp;title = {A Lagrangian Method for Extracting Eddy Boundaries in the Red Sea and the Gulf of Aden},<br>
    &nbsp;&nbsp;author = {Friedrici, Anke and Toye Mahamadou Kele, Habib and Hoteit, Ibrahim and Weinkauf, Tino and Theisel, Holger and Hadwiger, Markus},<br>
    &nbsp;&nbsp;booktitle = {IEEE Scientific Visualization 2018 Short Papers},<br>
-   &nbsp;&nbsp;year = {2018}<br>
+   &nbsp;&nbsp;year = {2018},<br>
    &nbsp;&nbsp;pages = {52--56}<br>
   }
 

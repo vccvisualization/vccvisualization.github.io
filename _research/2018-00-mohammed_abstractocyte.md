@@ -61,7 +61,7 @@ citation:   >
    &nbsp;&nbsp;title = {Abstractocyte: A Visual Tool for Exploring Nanoscale Astroglial Cells},<br>
    &nbsp;&nbsp;author = {Mohammed, Haneen and Al-Awami, Ali K. and Beyer, Johanna and Cali, Corrado and Magistretti, Pierre and Pfister, Hanspeter and Hadwiger, Markus},<br>
    &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2017)},<br>
-   &nbsp;&nbsp;year = {2018}<br>
+   &nbsp;&nbsp;year = {2018},<br>
    &nbsp;&nbsp;volume = {24},<br>
    &nbsp;&nbsp;number = {1},<br>
    &nbsp;&nbsp;pages = {853--861}<br>

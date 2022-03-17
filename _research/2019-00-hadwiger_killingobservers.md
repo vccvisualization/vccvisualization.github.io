@@ -62,7 +62,7 @@ citation:   >
    &nbsp;&nbsp;title = {Time-Dependent Flow seen through Approximate Observer Killing Fields},<br>
    &nbsp;&nbsp;author = {Hadwiger, Markus and Mlejnek, Matej and Theu{\ss}l, Thomas and Rautek, Peter},<br>
    &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2018)},<br>
-   &nbsp;&nbsp;year = {2019}<br>
+   &nbsp;&nbsp;year = {2019},<br>
    &nbsp;&nbsp;volume = {25},<br>
    &nbsp;&nbsp;number = {1},<br>
    &nbsp;&nbsp;pages = {1257--1266}<br>

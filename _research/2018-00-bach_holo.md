@@ -61,7 +61,7 @@ citation:   >
    &nbsp;&nbsp;title = {The Hologram in My Hand: How Effective is Interactive Exploration of 3D Visualizations in Immersive Tangible Augmented Reality?},<br>
    &nbsp;&nbsp;author = {Benjamin Bach and Ronell Sicat and Johanna Beyer and Maxime Cordeil and Hanspeter Pfister},<br>
    &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Information Visualization 2017)},<br>
-   &nbsp;&nbsp;year = {2018}<br>
+   &nbsp;&nbsp;year = {2018},<br>
    &nbsp;&nbsp;volume = {24},<br>
    &nbsp;&nbsp;number = {1},<br>
    &nbsp;&nbsp;pages = {457-467}<br>

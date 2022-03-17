@@ -61,7 +61,7 @@ citation:   >
    &nbsp;&nbsp;title = {Screen-Space Normal Distribution Function Caching for Consistent Multi-Resolution Rendering of Large Particle Data},<br>
    &nbsp;&nbsp;author = {Ibrahim, Mohamed and Wickenh\"{a}user, Patrick and Rautek, Peter and Reina, Guido and Hadwiger, Markus},<br>
    &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2017)},<br>
-   &nbsp;&nbsp;year = {2018}<br>
+   &nbsp;&nbsp;year = {2018},<br>
    &nbsp;&nbsp;volume = {24},<br>
    &nbsp;&nbsp;number = {1},<br>
    &nbsp;&nbsp;pages = {944--953}<br>

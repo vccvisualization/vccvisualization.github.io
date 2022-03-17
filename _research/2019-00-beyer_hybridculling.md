@@ -61,7 +61,7 @@ citation:   >
    &nbsp;&nbsp;title = {Culling for Extreme-Scale Segmentation Volumes: A Hybrid Deterministic and Probabilistic Approach},<br>
    &nbsp;&nbsp;author = {Beyer, Johanna and Mohammed, Haneen and Agus, Marco and Al-Awami, Ali K. and Pfister, Hanspeter and Hadwiger, Markus},<br>
    &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2018)},<br>
-   &nbsp;&nbsp;year = {2019}<br>
+   &nbsp;&nbsp;year = {2019},<br>
    &nbsp;&nbsp;volume = {25},<br>
    &nbsp;&nbsp;number = {1},<br>
    &nbsp;&nbsp;pages = {1132--1141}<br>
