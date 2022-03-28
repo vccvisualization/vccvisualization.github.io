@@ -162,6 +162,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS247/CS247_spring2022_lecture_17.pdf" target="_blank">Lecture 17: Volume Rendering, Pt. 4.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Mar 28, 2022</td>
+<td><a href="/teaching/CS247/CS247_spring2022_lecture_18.pdf" target="_blank">Lecture 18: Volume Rendering, Pt. 5 (preview).</a></td>
+</tr>
+
 </tbody>
 </table>
 
