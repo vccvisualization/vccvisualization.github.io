@@ -14,7 +14,7 @@ title:      >
    DXR: A Toolkit for Building Immersive Data Visualizations
 
 #include in selected publications on front page (optional, delete line if not applicable)
-display: selected
+#display: selected
 
 #list all publication authors in correct order
 authors:
