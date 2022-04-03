@@ -20,7 +20,7 @@ display:	selected
 authors:
  - Jakob Troidl
  - Corrado Cali
- - Eduard Groeller
+ - Eduard Gröller
  - Hanspeter Pfister
  - Markus Hadwiger
  - Johanna Beyer
