@@ -53,11 +53,10 @@ thumbnail:  './publications/2022_troidl_thumbnail.png'
 #talk:       'https://www.youtube.com/watch?v=JSHjLvIulY0'
 
 #link to publication pdf (optional)
-#pdf:        'https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.14296'
-#pdf:        './publications/2022_troidl_barrio.pdf'
+pdf:         'https://vcg.seas.harvard.edu/publications/barrio/paper'
 
 #link to appendix pdf (optional)
-#pdfsupp:    './publications/2022_troidl_barrio_appendixes.pdf'
+pdfsupp:     'https://vcg.seas.harvard.edu/publications/barrio/supplementary-material'
 
 #insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
