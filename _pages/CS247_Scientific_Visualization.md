@@ -222,7 +222,12 @@ Prof. Markus Hadwiger
 
 <tr>
 <td style="width:110px">May 9, 2022</td>
-<td><a href="/teaching/CS247/CS247_spring2022_lecture_28.pdf" target="_blank">Lecture 28: Vector/Flow Visualization, Pt. 7 (preview).</a></td>
+<td><a href="/teaching/CS247/CS247_spring2022_lecture_28.pdf" target="_blank">Lecture 28: Vector/Flow Visualization, Pt. 7.</a></td>
+</tr>
+
+<tr>
+<td style="width:110px">May 11, 2022</td>
+<td><a href="/teaching/CS247/CS247_spring2022_lecture_29.pdf" target="_blank">Lecture 29: Vector/Flow Visualization, Pt. 8.</a></td>
 </tr>
 
 </tbody>
