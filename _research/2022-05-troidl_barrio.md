@@ -63,7 +63,7 @@ citation:   >
   @article{Troidl2022Barrio,<br>
    &nbsp;&nbsp;title = {Barrio: Customizable Spatial Neighborhood Analysis and Comparison for Nanoscale Brain Structures},<br>
    &nbsp;&nbsp;author = {Troidl, Jakob and Cali, Corrado and Gr{\"o}ller, Eduard and Pfister, Hanspeter and Hadwiger, Markus and Beyer, Johanna},<br>
-   &nbsp;&nbsp;journal = {Computer Graphics Forum (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2022},<br>
+   &nbsp;&nbsp;journal = {Computer Graphics Forum (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2022)},<br>
    &nbsp;&nbsp;year = {2022},<br>
    &nbsp;&nbsp;volume = {41},<br>
    &nbsp;&nbsp;number = {3},<br>
