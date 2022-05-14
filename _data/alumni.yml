@@ -1,13 +1,13 @@
 ﻿- name:   Ronell Sicat
   prefix: Dr.
-  role:   Visualization Scientist
+  role:   Visualization Scientist<br>KAUST
   image:  ./images/people/sicat.jpg
   url:    https://www.linkedin.com/in/ronellsicat
   #info:  todo
 
 - name:   Matej Mlejnek
   prefix: Dr.
-  role:   Data science enthusiast
+  role:   Head of IT<br>LEAD Horizon
   image:  ./images/people/mlejnek.jpg
   url:    https://www.linkedin.com/in/matej-mlejnek-38ba4926/
   #info:  todo
@@ -55,7 +55,7 @@
 
 - name:   Thomas Höllt
   prefix: Prof. Dr.
-  role:   Assistant Professor<br>Leiden Computational Biology Center
+  role:   Assistant Professor<br>TU Delft
   image:  ./images/people/hoellt.jpg
   url:    https://www.thomashollt.com
   #info:  todo
