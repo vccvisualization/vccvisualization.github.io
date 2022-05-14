@@ -9,7 +9,7 @@ layout: 	person
 sequence:	17
 
 #your academic title (uncomment by removing the leading # if applicable)
-#prefix:    PhD.
+#prefix:    MSc.
 
 #your name (twice)
 title:		Julio Rey Ramirez

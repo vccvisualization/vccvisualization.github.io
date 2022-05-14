@@ -16,7 +16,7 @@ title:		Xingdi Zhang
 name:       Xingdi Zhang
 
 #your role in the vis group
-role:       MS/PhD Student
+role:       PhD Student
 
 #link to your image
 image:      ./images/people/zhang.jpg
@@ -50,6 +50,7 @@ address:    Visual Computing Center, Bldg. 1, lvl. 2, Office 2xxx<br>4700 King A
 I plan to dedicate my career to research in parallel computing and the computer graphics field, serving as a thought leader for these domains.
 
 ### Education Profile
+- M.Sc. in Computer Science, KAUST, 2021.
 - B.Sc. in Computer Science, UESTC, 2019.
 
 ### KAUST Affiliations
