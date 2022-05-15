@@ -73,6 +73,9 @@ citation:   >
 #insert links to additional material for the publication (optional)
 #links need a title, a URL and a type (this defines the link icon) which can be one of the following values: code, archive, files, slides or text (this is the default icon)
 links: 
+- title: Survey Papers
+  type:  web
+  url:   'https://connectomics-vis-survey.github.io/'
 # - title: Slides
 #   type:  slides
 #   url:   './publications/2021_herter_slides.pdf'
