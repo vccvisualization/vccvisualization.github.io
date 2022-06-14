@@ -50,9 +50,12 @@ links:
 ---
 ### Research Interests
 
+Julio is passionate about GPGPU programming, with a focus on computer graphics, scientific visualization, and computational imaging.
+
 ### Education Profile
-- M.Sc. in Computer Science, KAUST, 2022.
+- M.Sc. in Computer Science, King Abdullah University of Science and Technology (KAUST), 2022.
+- B.Sc. in Electronics Engineering, National University of Colombia (UNAL), 2018.
 
 ### KAUST Affiliations
-- ​Visual Computing Center (VCC)
+- Visual Computing Center (VCC)
 - Computer, Electrical and Mathematical Sciences & Engineering (CEMSE)
