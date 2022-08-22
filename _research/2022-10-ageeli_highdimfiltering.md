@@ -66,7 +66,7 @@ citation:   >
    &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2022)},<br>
    &nbsp;&nbsp;year = {2023},<br>
    &nbsp;&nbsp;volume = {29},<br>
-   &nbsp;&nbsp;number = {2},<br>
+   &nbsp;&nbsp;number = {1},<br>
    &nbsp;&nbsp;pages = {to appear}<br>
   }
 
