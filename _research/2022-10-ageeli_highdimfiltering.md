@@ -27,11 +27,11 @@ authors:
 
 #insert publication venue (displayed on publication page)
 venue:      >
-   IEEE Transactions on Visualization and Computer Graphics, Vol.29, No.2 (Proceedings IEEE Scientific Visualization 2022), to appear
+   IEEE Transactions on Visualization and Computer Graphics, Vol.29, No.1 (Proceedings IEEE Scientific Visualization 2022), to appear
 
 #insert short venue (displayed in box in publication list)
 shortvenue: >
-   IEEE Scientific Visualization 2022
+   IEEE VIS 2022
 
 #specify publication year
 year:       2023
