@@ -62,7 +62,7 @@ Prof. Markus Hadwiger
 
 <a href="https://bitbucket.org/rautek/cs380-2022/src/main/" target="_blank">Bitbucket git repository for the programming assignments (Peter needs to give you access via your KAUST email address).</a>
 
-### Slides (fall 2023)
+### Slides (fall 2022)
 
 <table>
 <tbody>
@@ -248,7 +248,7 @@ Programming massively parallel processors</a></td>
 </details>
 
 <details>
-	<summary>Fall 2022</summary>
+	<summary>Fall 2021</summary>
 	<table>
     <tbody>
 
