@@ -72,6 +72,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2022_lecture_01.pdf"  target="_blank">Lecture 1: Introduction, Pt. 1.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Aug 31, 2022</td>
+<td><a href="/teaching/CS380/CS380_fall2022_lecture_02.pdf"  target="_blank">Lecture 2: Introduction, Pt. 2.</a></td>
+</tr>
+
 </tbody>
 </table>
 
