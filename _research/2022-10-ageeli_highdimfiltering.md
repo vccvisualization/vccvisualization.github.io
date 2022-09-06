@@ -53,10 +53,10 @@ thumbnail:  './publications/2022_ageeli_thumbnail.png'
 #talk:       'https://www.youtube.com/watch?v=3WW2Bdg5tY8'
 
 #link to publication pdf (optional)
-#pdf:        './publications/2022_ageeli_highdimfiltering.pdf'
+pdf:        './publications/2022_ageeli_highdimfiltering.pdf'
 
 #link to appendix pdf (optional)
-#pdfsupp:    './publications/2020_rautek_killingsurfaces_appendixes.pdf'
+pdfsupp:    './publications/2022_ageeli_highdimfiltering_appendixes.pdf'
 
 #insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
