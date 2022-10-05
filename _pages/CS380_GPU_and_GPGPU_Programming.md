@@ -122,6 +122,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2022_lecture_11.pdf"  target="_blank">Lecture 11: GPU Architecture, Pt. 8.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Oct 5, 2022</td>
+<td><a href="/teaching/CS380/CS380_fall2022_lecture_12.pdf"  target="_blank">Lecture 12: GPU Compute APIs, Pt. 1.</a></td>
+</tr>
+
 </tbody>
 </table>
 
