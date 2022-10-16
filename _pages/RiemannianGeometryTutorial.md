@@ -48,7 +48,7 @@ While there exist a lot of general mathematical textbooks and courses on differe
 Download the tutorial notes here (current version v0.2.0, 16 Oct 2022; please check back for updates!):
 <div class="contentBox" style="min-height: 80px">
 <button id="toggle-pdf" class="button slim rounded-left leftalign" title="Read PDF"><i class="icon-file-pdf" aria-hidden="true"> </i>Tutorial Notes</button>
-<a href="{{ site.url }}/publications/2021_riemannian_geometry_scivis_tutorial_v0_1.pdf" target="_blank" rel="noopener"><button id="download-pdf" class="button narrow rounded-right leftalign" title="Download PDF"><i class="icon-download" aria-hidden="true"></i></button>	</a>
+<a href="{{ site.url }}/publications/2022_riemannian_geometry_scivis_tutorial_v0_2.pdf" target="_blank" rel="noopener"><button id="download-pdf" class="button narrow rounded-right leftalign" title="Download PDF"><i class="icon-download" aria-hidden="true"></i></button>	</a>
 <div id="box-pdf" class="contentBox toggleBox" style="background: url({{'./assets/css/images/loading.gif' | relative_url }}) center center no-repeat transparent; display: none;"><object id="publication_pdf" class="contentBox" data="{{ site.url }}/publications/2022_riemannian_geometry_scivis_tutorial_v0_2.pdf"><p>PDF cannot be displayed.</p></object></div>
 </div>
 
