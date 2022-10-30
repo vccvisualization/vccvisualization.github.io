@@ -142,6 +142,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2022_lecture_15.pdf"  target="_blank">Lecture 15: GPU Compute APIs, Pt. 4; GPU Texturing, Pt. 1.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Oct 30, 2022</td>
+<td><a href="/teaching/CS380/CS380_fall2022_lecture_16.pdf"  target="_blank">Lecture 16: GPU Texturing, Pt. 2.</a></td>
+</tr>
+
 </tbody>
 </table>
 
