@@ -166,6 +166,12 @@ Prof. Markus Hadwiger
 <td style="width:110px">Nov 9, 2022</td>
 <td><a href="/teaching/CS380/CS380_fall2022_lecture_20.pdf"  target="_blank">Lecture 20: GPU Virtual Texturing, Pt. 2.</a></td>
 </tr>
+
+<tr>
+<td style="width:110px">Nov 13, 2022</td>
+<td><a href="/teaching/CS380/CS380_fall2022_lecture_21.pdf"  target="_blank">Lecture 21: GPU Virtual Geometry (and GPU Virtual Texturing).</a></td>
+</tr>
+
 </tbody>
 </table>
 
