@@ -172,6 +172,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2022_lecture_21.pdf"  target="_blank">Lecture 21: GPU Virtual Geometry (and GPU Virtual Texturing).</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Nov 16, 2022</td>
+<td><a href="/teaching/CS380/CS380_fall2022_lecture_22.pdf"  target="_blank">Lecture 22: Stream Computing and GPGPU; CUDA Memory Pt.1.</a></td>
+</tr>
+
 </tbody>
 </table>
 
