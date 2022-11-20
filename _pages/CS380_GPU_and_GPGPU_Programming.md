@@ -177,6 +177,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2022_lecture_22.pdf"  target="_blank">Lecture 22: Stream Computing and GPGPU; CUDA Memory Pt.1.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Nov 20, 2022</td>
+<td><a href="/teaching/CS380/CS380_fall2022_lecture_23.pdf"  target="_blank">Lecture 23: CUDA Memory Pt.2: Shared Memory.</a></td>
+</tr>
+
 </tbody>
 </table>
 
