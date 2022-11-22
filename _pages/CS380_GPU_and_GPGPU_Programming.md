@@ -182,6 +182,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2022_lecture_23.pdf"  target="_blank">Lecture 23: CUDA Memory Pt.2: Shared Memory.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Nov 22, 2022</td>
+<td><a href="/teaching/CS380/CS380_fall2022_lecture_24.pdf"  target="_blank">Lecture 24: CUDA Memory Pt.3: Shared Memory.</a></td>
+</tr>
+
 </tbody>
 </table>
 
