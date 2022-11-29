@@ -192,6 +192,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2022_lecture_25.pdf"  target="_blank">Lecture 25: CUDA Memory Pt.4.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Nov 29, 2022</td>
+<td><a href="/teaching/CS380/CS380_fall2022_lecture_26.pdf"  target="_blank">Lecture 26: GPU Reduction; GPU Prefix Sum (Pt.1).</a></td>
+</tr>
+
 </tbody>
 </table>
 
