@@ -197,6 +197,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2022_lecture_26.pdf"  target="_blank">Lecture 26: GPU Reduction; GPU Prefix Sum (Pt.1).</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Nov 30, 2022</td>
+<td><a href="/teaching/CS380/CS380_fall2022_lecture_27.pdf"  target="_blank">Lecture 27: GPU Prefix Sum (Pt.2); Tensor Core Programming.</a></td>
+</tr>
+
 </tbody>
 </table>
 
