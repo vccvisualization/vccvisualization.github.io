@@ -27,7 +27,7 @@ authors:
 
 #insert publication venue (displayed on publication page)
 venue:      >
-   Computer Graphics Forum, Vol.41, to appear
+   Computer Graphics Forum, Vol.41, No.3, pp. 573-607
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
@@ -64,10 +64,10 @@ citation:   >
    &nbsp;&nbsp;title = {A Survey of Visualization and Analysis in High-Resolution Connectomics},<br>
    &nbsp;&nbsp;author = {Beyer, Johanna and Troidl, Jakob and Boorboor, Saeed and Hadwiger, Markus and Kaufman, Arie and Pfister, Hanspeter},<br>
    &nbsp;&nbsp;journal = {Computer Graphics Forum},<br>
-   &nbsp;&nbsp;year = {2022},<br>
    &nbsp;&nbsp;volume = {41},<br>
-   &nbsp;&nbsp;number = {to appear},<br>
-   &nbsp;&nbsp;pages = {to appear}<br>
+   &nbsp;&nbsp;number = {3},<br>
+   &nbsp;&nbsp;pages = {573--607},<br>
+   &nbsp;&nbsp;year = {2022}<br>
   }
 
 #insert links to additional material for the publication (optional)

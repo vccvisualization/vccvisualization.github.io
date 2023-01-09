@@ -63,10 +63,10 @@ citation:   >
    &nbsp;&nbsp;title = {DXR: A Toolkit for Building Immersive Data Visualizations},<br>
    &nbsp;&nbsp;author = {Ronell Sicat and Jiabao Li and JunYoung Choi and Maxime Cordeil and Won-ki Jeong and Benjamin Bach and Hanspeter Pfister},<br>
    &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Information Visualization 2018)},<br>
-   &nbsp;&nbsp;year = {2019},<br>
    &nbsp;&nbsp;volume = {25},<br>
    &nbsp;&nbsp;number = {1},<br>
-   &nbsp;&nbsp;pages = {715-725}<br>
+   &nbsp;&nbsp;pages = {715--725},<br>
+   &nbsp;&nbsp;year = {2019}<br>
   }
   
 #insert links to additional material for the publication (optional)

@@ -27,7 +27,7 @@ authors:
 
 #insert publication venue (displayed on publication page)
 venue:      >
-   Computer Graphics Forum, Vol.41, No.3 (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2022), to appear
+   Computer Graphics Forum, Vol.41, No.3 (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2022), pp. 183-194
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
@@ -64,10 +64,10 @@ citation:   >
    &nbsp;&nbsp;title = {Barrio: Customizable Spatial Neighborhood Analysis and Comparison for Nanoscale Brain Structures},<br>
    &nbsp;&nbsp;author = {Troidl, Jakob and Cali, Corrado and Gr{\"o}ller, Eduard and Pfister, Hanspeter and Hadwiger, Markus and Beyer, Johanna},<br>
    &nbsp;&nbsp;journal = {Computer Graphics Forum (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2022)},<br>
-   &nbsp;&nbsp;year = {2022},<br>
    &nbsp;&nbsp;volume = {41},<br>
    &nbsp;&nbsp;number = {3},<br>
-   &nbsp;&nbsp;pages = {to appear}<br>
+   &nbsp;&nbsp;pages = {183--194},<br>
+   &nbsp;&nbsp;year = {2022}<br>
   }
 
 #insert links to additional material for the publication (optional)

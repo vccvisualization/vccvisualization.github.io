@@ -27,7 +27,7 @@ authors:
 
 #insert publication venue (displayed on publication page)
 venue:      >
-   IEEE Transactions on Visualization and Computer Graphics, Vol.29, No.1 (Proceedings IEEE VIS 2022), to appear
+   IEEE Transactions on Visualization and Computer Graphics, Vol.29, No.1 (Proceedings IEEE VIS 2022), pp. 646-656
 
 #insert short venue (displayed in box in publication list)
 shortvenue: >
@@ -64,10 +64,10 @@ citation:   >
    &nbsp;&nbsp;title = {Multivariate Probabilistic Range Queries for Scalable Interactive 3D Visualization},<br>
    &nbsp;&nbsp;author = {Ageeli, Amani and {Jaspe Villanueva}, Alberto and Sicat, Ronell and Mannuss, Florian and Rautek, Peter and Hadwiger, Markus},<br>
    &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE VIS 2022)},<br>
-   &nbsp;&nbsp;year = {2023},<br>
    &nbsp;&nbsp;volume = {29},<br>
    &nbsp;&nbsp;number = {1},<br>
-   &nbsp;&nbsp;pages = {to appear}<br>
+   &nbsp;&nbsp;pages = {646--656},<br>
+   &nbsp;&nbsp;year = {2023}<br>
   }
 
 #insert links to additional material for the publication (optional)

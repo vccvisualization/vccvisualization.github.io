@@ -27,14 +27,14 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   IEEE Transactions on Visualization and Computer Graphics, to appear
+   IEEE Transactions on Visualization and Computer Graphics, Vol.29, No.2, pp. 1491-1505
 
 #insert short venue (displayed in box in publication list)
 shortvenue: >
-   IEEE TVCG 2022
+   IEEE TVCG 2023
 
 #specify publication year
-year:       2022
+year:       2023
 
 #insert abstract of publication
 abstract:   >
@@ -60,14 +60,14 @@ thumbnail:   './publications/2022_sicat_thumbnail.png'
 
 #insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
-  @article{Sicat2022TeraCellVis,<br>
+  @article{Sicat2023TeraCellVis,<br>
    &nbsp;&nbsp;title = {Real-Time Visualization of Large-Scale Geological Models with Nonlinear Feature-Preserving Levels of Detail},<br>
    &nbsp;&nbsp;author = {Sicat, Ronell and Ibrahim, Mohamed, and Ageeli, Amani, and Mannus, Florian, and Rautek, Peter and Hadwiger, Markus},<br>
    &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics},<br>
-   &nbsp;&nbsp;number = {to appear},<br>
-   &nbsp;&nbsp;issue = {to appear},<br>
-   &nbsp;&nbsp;pages = {to appear},<br>
-   &nbsp;&nbsp;year = {2022}<br>
+   &nbsp;&nbsp;number = {29},<br>
+   &nbsp;&nbsp;issue = {2},<br>
+   &nbsp;&nbsp;pages = {1491--1505},<br>
+   &nbsp;&nbsp;year = {2023}<br>
   }
 
 #insert links to additional material for the publication (optional)
