@@ -28,15 +28,15 @@ email:      reem.alghamdi@kaust.edu.sa
 #phone:      +966 (0) xxxxxxxxx
 
 #your address at the VCC
-address:    Visual Computing Center, Bldg. 1, lvl. 2, Office 2xxx<br>4700 King Abdullah University of Science and Technology<br>Thuwal 23955-6900, Saudi Arabia
+address:    Visual Computing Center, Bldg. 1, lvl. 2, Office 2101-WS06<br>4700 King Abdullah University of Science and Technology<br>Thuwal 23955-6900, Saudi Arabia
 
 #a brief description of yourself
 # info:       
 # optional: add links to various online presences/websites (uncomment by removing the leading # if applicable)
 # possible link types: twitter, github, facebook, linkedin, google_scholar, google_plus, instagram, skype, youtube, vimeo, flickr, web (use the latter for all other link types)
 links:
-#- type: linkedin
-#  url: https://www.linkedin.com/in/user/
+  - type: linkedin
+    url: "https://www.linkedin.com/in/reem-codes"
 # - type: google_scholar
 #   url:  "https://scholar.google.com/citations?user=xxxxxxxxxxx"
 # - type: twitter
