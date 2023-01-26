@@ -58,16 +58,23 @@ Alberto is a passionate of Computer Graphics and Visual Computing. His main inte
 * B.Sc. in Computer Science, University of A Coruna (Spain), 2011.
 
 ### Professional Profile
-* 2020 – today: Post-Doctoral Research Fellow, [High-Performance Visualization Group](http://vccvisualization.org) - [KAUST](http://kaust.edu.sa) (Saudi Arabia)
+* 2021 – today: Research Scientist, [High-Performance Visualization Group](http://vccvisualization.org) - [KAUST](http://kaust.edu.sa) (Saudi Arabia)
+* 2020 – 2021: Post-Doctoral Research Fellow, [High-Performance Visualization Group](http://vccvisualization.org) - [KAUST](http://kaust.edu.sa) (Saudi Arabia)
 * 2016 – 2020: Expert Reseacher, [Visual Computing Group](http://vic.crs4.it) - [CRS4](http://www.crs4.it) (Italy)
 * 2013 – 2015: Marie Curie Early Stage Researcher, [Visual Computing Group](http://vic.crs4.it) - [CRS4](http://www.crs4.it) (Italy)
 * 2010 – 2012: Head of R&D, [CEGA Audiovisuals S.L.](http://cega.es) (Spain)
 * 2003 – 2010: Undergraduated Researcher, [VideaLAB](http://videalab.udc.es) - [University of A Coruña](http://udc.es/en) (Spain)
 
 ### Selected Publications
-- **Web-based Multi-layered Exploration of Annotated Image-based Shape and Material Models**  
+- **Multivariate Probabilistic Range Queries for Scalable Interactive 3D Visualization**  
+A.Ageeli, A.Jaspe-Villanueva, R.Sicat, F.Mannuss, P.Rautek, M.Hadwiger  
+IEEE Transactions on Visualization and Computer Graphics (presented in IEEE VIS 2022)
+- **A practical and efficient model for intensity calibration of multi-light image collections**  
+R.Pintus, A.Jaspe-Villanueva, A.Zorcolo, M.Hadwiger, E.Gobbetti  
+The Visual Computer (2021)
+- **Web-based Exploration of Annotated Multi-Layered Relightable Image Models**  
 A.Jaspe-Villanueva, R.Pintus, A.Giachetti, E.Gobbetti  
-Proc. 16th Eurographics Workshop on Graphics and Cultural Heritage (2019)
+Journal of Computing and Cultural Heritage (2020)
 - **Automatic modeling of cluttered multi-room floor plans from panoramic images**  
 G.Pintore, F.Ganovelli, A.Jaspe-Villanueva, E.Gobbetti  
 Computer Graphics Forum (2019)
