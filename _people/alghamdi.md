@@ -35,14 +35,15 @@ address:    Visual Computing Center, Bldg. 1, lvl. 2, Office 2101-WS06<br>4700 K
 # optional: add links to various online presences/websites (uncomment by removing the leading # if applicable)
 # possible link types: twitter, github, facebook, linkedin, google_scholar, google_plus, instagram, skype, youtube, vimeo, flickr, web (use the latter for all other link types)
 links:
+  - type: google_scholar
+    url:  "https://scholar.google.com/citations?user=TfCl9P8AAAAJ"
+  - type: web
+    url:  "http://reemali.com"
   - type: linkedin
     url: "https://www.linkedin.com/in/reem-codes"
-# - type: google_scholar
-#   url:  "https://scholar.google.com/citations?user=xxxxxxxxxxx"
 # - type: twitter
 #   url:  "http://twitter.com/mytwitter"
-# - type: web
-#   url:  "http://mywebsite.com"
+
 
 #below the following --- enter the content to your personal page
 #content is written in markdown (check out this markdown cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
