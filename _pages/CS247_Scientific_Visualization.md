@@ -79,6 +79,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS247/CS247_spring2023_lecture_02.pdf" target="_blank">Lecture 2: Introduction, Pt.2.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Jan 29, 2023</td>
+<td><a href="/teaching/CS247/CS247_spring2023_lecture_03.pdf" target="_blank">Lecture 3: The Visualization Pipeline.</a></td>
+</tr>
+
 </tbody>
 </table>
 
