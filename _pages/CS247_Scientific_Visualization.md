@@ -99,6 +99,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS247/CS247_spring2023_lecture_06.pdf" target="_blank">Lecture 6: Data Representation, Pt.3: Structured and Unstructured Grids.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Feb 12, 2023</td>
+<td><a href="/teaching/CS247/CS247_spring2023_lecture_07.pdf" target="_blank">Lecture 7: Scalar Field Visualization, Pt.1.</a></td>
+</tr>
+
 </tbody>
 </table>
 
