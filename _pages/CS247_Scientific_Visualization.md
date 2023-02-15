@@ -104,6 +104,16 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS247/CS247_spring2023_lecture_07.pdf" target="_blank">Lecture 7: Scalar Field Visualization, Pt.1.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Feb 15, 2023</td>
+<td><a href="/teaching/CS247/CS247_spring2023_lecture_08.pdf" target="_blank">Lecture 8: Scalar Field Visualization, Pt.2.</a></td>
+</tr>
+
+<tr>
+<td style="width:110px">Feb 26, 2023</td>
+<td><a href="" target="_blank">Lecture 9: after spring break!.</a></td>
+</tr>
+
 </tbody>
 </table>
 
