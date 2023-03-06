@@ -50,7 +50,7 @@ links:
 #for a uniform style, please write section headings with ### (three sharps)
 ---
 ### Research Interests
-Alberto is a passionate of Computer Graphics and Visual Computing. His main interest lies in the exploration of massive models and complex data, from acquisition to real-time visualization and interaction.
+Alberto is passionate about Computer Graphics and Visual Computing. His main interest lies in the exploration of massive models and complex data, from acquisition to real-time visualization and interaction.
 
 ### Education Profile
 * Ph.D. in Computer Science, CRS4 (Italy) and University of A Coruna (Spain), 2018.
