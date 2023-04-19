@@ -11,7 +11,7 @@ layout:     publication
 
 #publication title
 title:      >
-   Doppler Volume Rendering: A Dynamic, Piecewise Linear Spectral Representation for Visualizing Astrophysics
+   Doppler Volume Rendering: A Dynamic, Piecewise Linear Spectral Representation for Visualizing Astrophysics Simulations
    
 #include in selected publications on front page (optional, delete line if not applicable)
 display:	selected
@@ -60,8 +60,8 @@ pdfsupp:     './publications/2023_alghamdi_doppler_volume_supplemental.pdf'
 #insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
   @article{Troidl2022Barrio,<br>
-   &nbsp;&nbsp;title = {Doppler Volume Rendering: A Dynamic, Piecewise Linear Spectral Representation for Visualizing Astrophysics},<br>
-   &nbsp;&nbsp;author = {Alghamdi,Reem and Müller, Thomas and Jaspe-Villanueva, Alberto and Hadwiger, Markus and Sadlo, Filip},<br>
+   &nbsp;&nbsp;title = {Doppler Volume Rendering: A Dynamic, Piecewise Linear Spectral Representation for Visualizing Astrophysics Simulations},<br>
+   &nbsp;&nbsp;author = {Alghamdi, Reem and Müller, Thomas and Jaspe-Villanueva, Alberto and Hadwiger, Markus and Sadlo, Filip},<br>
    &nbsp;&nbsp;journal = {Computer Graphics Forum (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2023)},<br>
    &nbsp;&nbsp;volume = {42},<br>
    &nbsp;&nbsp;number = {3},<br>
