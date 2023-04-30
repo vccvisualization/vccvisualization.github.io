@@ -66,7 +66,7 @@ citation:   >
    &nbsp;&nbsp;number = {29},<br>
    &nbsp;&nbsp;issue = {to appear},<br>
    &nbsp;&nbsp;pages = {1--15},<br>
-   &nbsp;&nbsp;year = {2023}<br>,
+   &nbsp;&nbsp;year = {2023},<br>
    &nbsp;&nbsp;doi = {10.1109/TVCG.2022.3230445}<br>
   }
 
