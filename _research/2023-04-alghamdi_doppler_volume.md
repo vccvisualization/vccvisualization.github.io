@@ -59,7 +59,7 @@ pdfsupp:     './publications/2023_alghamdi_doppler_volume_supplemental.pdf'
 
 #insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
-  @article{Troidl2022Barrio,<br>
+  @article{Alghamdi2023Doppler,<br>
    &nbsp;&nbsp;title = {Doppler Volume Rendering: A Dynamic, Piecewise Linear Spectral Representation for Visualizing Astrophysics Simulations},<br>
    &nbsp;&nbsp;author = {Alghamdi, Reem and Müller, Thomas and Jaspe-Villanueva, Alberto and Hadwiger, Markus and Sadlo, Filip},<br>
    &nbsp;&nbsp;journal = {Computer Graphics Forum (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2023)},<br>
