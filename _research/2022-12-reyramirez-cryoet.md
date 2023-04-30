@@ -33,10 +33,10 @@ venue:      >
 
 #insert short venue (displayed in box in publication list)
 shortvenue: >
-   IEEE TVCG
+   IEEE TVCG 2023
 
 #specify publication year
-year:       2022
+year:       2023
 
 #insert abstract of publication
 abstract:   >
@@ -59,13 +59,16 @@ pdfsupp:    './publications/2022_reyramirez_cryoet_supp.pdf'
 
 #insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
-  @ARTICLE{9992117,
-  author={Ramirez, Julio Rey and Rautek, Peter and Bohak, Ciril and Strnad, Ondřej and Zhang, Zheyuan and Li, Sai and Viola, Ivan and Heidrich, Wolfgang},
-  journal={IEEE Transactions on Visualization and Computer Graphics}, 
-  title={GPU Accelerated 3D Tomographic Reconstruction and Visualization from Noisy Electron Microscopy Tilt-Series}, 
-  year={2022},
-  pages={1-15},
-  doi={10.1109/TVCG.2022.3230445}}
+  @article{Ramirez2023EMTiltSeries,<br>
+   &nbsp;&nbsp;title = {GPU Accelerated 3D Tomographic Reconstruction and Visualization from Noisy Electron Microscopy Tilt-Series},<br>
+   &nbsp;&nbsp;author = {Ramirez, Julio Rey and Rautek, Peter and Bohak, Ciril and Strnad, Ondřej and Zhang, Zheyuan and Li, Sai and Viola, Ivan and Heidrich, Wolfgang},<br>
+   &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics},<br>
+   &nbsp;&nbsp;number = {29},<br>
+   &nbsp;&nbsp;issue = {to appear},<br>
+   &nbsp;&nbsp;pages = {1--15},<br>
+   &nbsp;&nbsp;year = {2023}<br>,
+   &nbsp;&nbsp;doi = {10.1109/TVCG.2022.3230445}<br>
+  }
 
 #insert links to additional material for the publication (optional)
 #links need a title, a URL and a type (this defines the link icon) which can be one of the following values: code, archive, files, slides or text (this is the default icon)
