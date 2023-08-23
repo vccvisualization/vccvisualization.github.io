@@ -46,13 +46,13 @@ teaser:     './publications/2023_rautek_vortexlens.png'
 thumbnail:  './publications/2023_rautek_thumbnail.png'
 
 #link to publication video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
-#video:      'https://vimeo.com/458350874'
+video:       'https://www.youtube.com/watch?v=c6CBPzRL_Tw'
 
 #link to talk video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
-#talk:       'https://www.youtube.com/watch?v=3WW2Bdg5tY8'
+#talk:       'https://www.youtube.com/watch?v=c6CBPzRL_Tw'
 
 #link to publication pdf (optional)
-#pdf:        './publications/2023_rautek_vortexlens.pdf'
+pdf:        './publications/2023_rautek_vortexlens.pdf'
 
 #link to appendix pdf (optional)
 #pdfsupp:    './publications/2023_rautek_vortexlens_appendixes.pdf'
