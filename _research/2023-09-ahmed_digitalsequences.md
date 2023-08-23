@@ -65,7 +65,7 @@ citation:   >
    &nbsp;&nbsp;archivePrefix = "arXiv",<br>
    &nbsp;&nbsp;eprint = {2306.06925},<br>
    &nbsp;&nbsp;year = {2023}<br>
-}
+  }
 
 #insert links to additional material for the publication (optional)
 #links need a title, a URL and a type (this defines the link icon) which can be one of the following values: code, archive, files, slides or text (this is the default icon)
@@ -75,7 +75,7 @@ links:
 #  url:   'https://doi.org/10.1063/5.0063817'
 - title: arXiv paper
   type:  pdf
-  url:   'https://arxiv.org/pdf/2306.06925.pdf' 
+  url:   'https://arxiv.org/pdf/2306.06925.pdf'
 # - title: Code
 #   type:  github
 #   url:   'https://github.com/vccvisualization/killingsurfaces'
