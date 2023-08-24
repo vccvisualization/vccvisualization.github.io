@@ -36,7 +36,7 @@ year:       2023
 
 #insert abstract of publication
 abstract:   >
-   We explore the space of matrix-generated (0, m, 2)-nets and (0, 2)-sequences in base 2, also known as digital dyadic nets and sequences. We provide a complete characterization of the design space and count the possible number of constructions with and without considering possible reorderings of the point set. Based on this analysis, we then show that every digital dyadic net can be reordered into a sequence, together with a corresponding algorithm. Finally, we present a novel family of self-similar digital dyadic sequences, to be named ξ-sequences, that spans a subspace with fewer degrees of freedom. Those ξ-sequences are extremely efficient to sample and compute, and we demonstrate their advantages over the classic Sobol (0, 2)-sequence.
+   We explore the space of matrix-generated (0, m, 2)-nets and (0, 2)-sequences in base 2, also known as digital dyadic nets and sequences. We provide a complete characterization of the design space and count the possible number of constructions with and without considering possible reorderings of the point set. Based on this analysis, we then show that every digital dyadic net can be reordered into a sequence, together with a corresponding algorithm. Finally, we present a novel family of self-similar digital dyadic sequences, to be named xi-sequences, that spans a subspace with fewer degrees of freedom. Those xi-sequences are extremely efficient to sample and compute, and we demonstrate their advantages over the classic Sobol (0, 2)-sequence.
    
 #link to hi-res teaser image of publication (please make sure the image is wide, e.g. aspect ratio between 4:2 and 4:1)
 teaser:     './publications/2023_ahmed_digitalsequences.png'
@@ -65,7 +65,7 @@ citation:   >
    &nbsp;&nbsp;archivePrefix = "arXiv",<br>
    &nbsp;&nbsp;eprint = {2306.06925},<br>
    &nbsp;&nbsp;year = {2023}<br>
-}
+  }
 
 #insert links to additional material for the publication (optional)
 #links need a title, a URL and a type (this defines the link icon) which can be one of the following values: code, archive, files, slides or text (this is the default icon)
@@ -75,7 +75,7 @@ links:
 #  url:   'https://doi.org/10.1063/5.0063817'
 - title: arXiv paper
   type:  pdf
-  url:   'https://arxiv.org/pdf/2306.06925.pdf' 
+  url:   'https://arxiv.org/pdf/2306.06925.pdf'
 # - title: Code
 #   type:  github
 #   url:   'https://github.com/vccvisualization/killingsurfaces'
