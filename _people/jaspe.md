@@ -6,7 +6,7 @@ slug:       jaspe
 layout: 	person
 
 #specifies index in the generated people list (if in doubt, set to 10)
-sequence:	9
+sequence:	3
 
 #your academic title (uncomment by removing the leading # if applicable)
 prefix:     Dr.
@@ -66,6 +66,9 @@ Alberto is passionate about Computer Graphics and Visual Computing. His main int
 * 2003 – 2010: Undergraduated Researcher, [VideaLAB](http://videalab.udc.es) - [University of A Coruña](http://udc.es/en) (Spain)
 
 ### Selected Publications
+- **Doppler Volume Rendering: A Dynamic, Piecewise Linear Spectral Representation for Visualizing Astrophysics Simulations**  
+R. Alghamdi, T.s Müller, A. Jaspe-Villanueva, M. Hadwiger, F. Sadlo
+Computer Graphics Forum (presented in EuroVIS 2023)
 - **Multivariate Probabilistic Range Queries for Scalable Interactive 3D Visualization**  
 A.Ageeli, A.Jaspe-Villanueva, R.Sicat, F.Mannuss, P.Rautek, M.Hadwiger  
 IEEE Transactions on Visualization and Computer Graphics (presented in IEEE VIS 2022)
