@@ -19,7 +19,7 @@ name:       Waad Alshehri
 role:       MS/PhD Student
 
 #link to your image
-image:      ./images/people/person.jpg
+image:      ./images/people/alshehri.jpg
 
 #your email address
 email:      waad.alshehri@kaust.edu.sa
