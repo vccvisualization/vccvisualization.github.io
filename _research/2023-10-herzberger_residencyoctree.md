@@ -54,7 +54,7 @@ thumbnail:  './publications/2023_herzberger_thumbnail.png'
 #talk:       'https://vimeo.com/303253176'
 
 #link to publication pdf (optional)
-#pdf:        './publications/2023_herzberger_residencyoctree.pdf'
+pdf:        'https://arxiv.org/pdf/2309.04393.pdf'
 
 #insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
