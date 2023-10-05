@@ -19,24 +19,24 @@ display:	selected
 #list all publication authors in correct order (please check the spelling is identical to your personal page)
 authors:
  - Abdalla G. M. Ahmed
- - Markus Hadwiger
  - Mikhail Skopenkov
+ - Markus Hadwiger
  - Peter Wonka
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   arXiv:2306.06925
+   ACM Transactions on Graphics, Vol.42, No.6 (Proceedings ACM SIGGRAPH Asia 2023), to appear
 
 #insert short venue (displayed in box in publication list)
 shortvenue: >
-   arXiv
+   ACM SIGGRAPH Asia 2023
 
 #specify publication year
 year:       2023
 
 #insert abstract of publication
 abstract:   >
-   We explore the space of matrix-generated (0, m, 2)-nets and (0, 2)-sequences in base 2, also known as digital dyadic nets and sequences. We provide a complete characterization of the design space and count the possible number of constructions with and without considering possible reorderings of the point set. Based on this analysis, we then show that every digital dyadic net can be reordered into a sequence, together with a corresponding algorithm. Finally, we present a novel family of self-similar digital dyadic sequences, to be named xi-sequences, that spans a subspace with fewer degrees of freedom. Those xi-sequences are extremely efficient to sample and compute, and we demonstrate their advantages over the classic Sobol (0, 2)-sequence.
+   We explore the space of matrix-generated (0, m, 2)-nets and (0, 2)-sequences in base 2, also known as digital dyadic nets and sequences. In computer graphics, they are arguably leading the competition for use in rendering. We provide a complete characterization of the design space and count the possible number of constructions with and without considering possible reorderings of the point set. Based on this analysis, we then show that every digital dyadic net can be reordered into a sequence, together with a corresponding algorithm. Finally, we present a novel family of self-similar digital dyadic sequences, to be named xi-sequences, that spans a subspace with fewer degrees of freedom. Those xi-sequences are extremely efficient to sample and compute, and we demonstrate their advantages over the classic Sobol (0, 2)-sequence.
    
 #link to hi-res teaser image of publication (please make sure the image is wide, e.g. aspect ratio between 4:2 and 4:1)
 teaser:     './publications/2023_ahmed_digitalsequences.png'
@@ -51,20 +51,21 @@ thumbnail:  './publications/2023_ahmed_thumbnail.png'
 #talk:       'https://www.youtube.com/watch?v=3WW2Bdg5tY8'
 
 #link to publication pdf (optional)
-#pdf:        './publications/2023_ahmed_digitalsequences.pdf'
+pdf:        'https://arxiv.org/pdf/2306.06925.pdf'
 
 #link to appendix pdf (optional)
-#pdfsupp:   'https://arxiv.org/pdf/2306.06925.pdf'
+#pdfsupp:    'https://arxiv.org/pdf/2306.06925.pdf'
 
 #insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
   @article{Ahmed2023DigitalDyadicSequences,<br>
    &nbsp;&nbsp;title = {Analysis and Synthesis of Digital Dyadic Sequences},<br>
-   &nbsp;&nbsp;author = {Ahmed, Abdalla G. M. and Hadwiger, Markus and Skopenkov, Mikhail and Wonka, Peter},<br>
-   &nbsp;&nbsp;journal = {arXiv e-prints},<br>
-   &nbsp;&nbsp;archivePrefix = "arXiv",<br>
-   &nbsp;&nbsp;eprint = {2306.06925},<br>
-   &nbsp;&nbsp;year = {2023}<br>
+   &nbsp;&nbsp;author = {Ahmed, Abdalla G. M. and Skopenkov, Mikhail and Hadwiger, Markus and Wonka, Peter},<br>
+   &nbsp;&nbsp;journal = {ACM Transactions on Graphics (Proceedings ACM SIGGRAPH Asia 2023)},<br>
+   &nbsp;&nbsp;year = {2023},<br>
+   &nbsp;&nbsp;volume = {42},<br>
+   &nbsp;&nbsp;number = {6},<br>
+   &nbsp;&nbsp;pages = {to appear}<br>
   }
 
 #insert links to additional material for the publication (optional)
@@ -73,9 +74,9 @@ links:
 #- title: Publisher version
 #  type:  web
 #  url:   'https://doi.org/10.1063/5.0063817'
-- title: arXiv paper
-  type:  pdf
-  url:   'https://arxiv.org/pdf/2306.06925.pdf'
+#- title: arXiv paper
+#  type:  pdf
+#  url:   'https://arxiv.org/pdf/2306.06925.pdf'
 # - title: Code
 #   type:  github
 #   url:   'https://github.com/vccvisualization/killingsurfaces'
