@@ -31,7 +31,7 @@ venue:      >
 
 #insert short venue (displayed in box in publication list)
 shortvenue: >
-   Web3D 2023
+   Web3D 2023 <span style="color:rgb(180,0,0);">(Honorable Mention Award)</span>
 
 #specify publication year
 year:       2023
