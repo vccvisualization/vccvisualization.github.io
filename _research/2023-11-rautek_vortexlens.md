@@ -49,7 +49,7 @@ thumbnail:  './publications/2023_rautek_thumbnail.png'
 video:       'https://www.youtube.com/watch?v=c6CBPzRL_Tw'
 
 #link to talk video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
-talk:       'https://youtu.be/qiLjCvrpdZU'
+talk:       'https://www.youtube.com/watch?v=qiLjCvrpdZU'
 
 #link to publication pdf (optional)
 pdf:        './publications/2023_rautek_vortexlens.pdf'
