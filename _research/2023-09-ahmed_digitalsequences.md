@@ -25,7 +25,7 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   ACM Transactions on Graphics, Vol.42, No.6 (Proceedings ACM SIGGRAPH Asia 2023), to appear
+   ACM Transactions on Graphics, Vol.42, No.6 (Proceedings ACM SIGGRAPH Asia 2023), pp. 218:1-218:17
 
 #insert short venue (displayed in box in publication list)
 shortvenue: >
@@ -51,7 +51,8 @@ thumbnail:  './publications/2023_ahmed_thumbnail.png'
 #talk:       'https://www.youtube.com/watch?v=3WW2Bdg5tY8'
 
 #link to publication pdf (optional)
-pdf:        'https://arxiv.org/pdf/2306.06925.pdf'
+#pdf:        'https://arxiv.org/pdf/2306.06925.pdf'
+pdf:        'https://dl.acm.org/doi/pdf/10.1145/3618308'
 
 #link to appendix pdf (optional)
 #pdfsupp:    'https://arxiv.org/pdf/2306.06925.pdf'
@@ -65,7 +66,7 @@ citation:   >
    &nbsp;&nbsp;year = {2023},<br>
    &nbsp;&nbsp;volume = {42},<br>
    &nbsp;&nbsp;number = {6},<br>
-   &nbsp;&nbsp;pages = {to appear}<br>
+   &nbsp;&nbsp;pages = {218:1--218:17}<br>
   }
 
 #insert links to additional material for the publication (optional)
