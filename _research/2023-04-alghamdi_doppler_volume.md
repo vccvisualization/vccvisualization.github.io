@@ -26,7 +26,7 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   Computer Graphics Forum, Vol.43, No.3 (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2023), To appear
+   Computer Graphics Forum, Vol.43, No.3 (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2023), pp. 39-49
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
@@ -65,7 +65,7 @@ citation:   >
    &nbsp;&nbsp;journal = {Computer Graphics Forum (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2023)},<br>
    &nbsp;&nbsp;volume = {42},<br>
    &nbsp;&nbsp;number = {3},<br>
-   &nbsp;&nbsp;pages = {to appear},<br>
+   &nbsp;&nbsp;pages = {39--49},<br>
    &nbsp;&nbsp;year = {2023}<br>
   }
 

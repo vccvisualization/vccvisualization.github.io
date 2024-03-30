@@ -28,7 +28,7 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   IEEE Transactions on Visualization and Computer Graphics, Vol.30, No.1 (Proceedings IEEE VIS 2023), to appear
+   IEEE Transactions on Visualization and Computer Graphics, Vol.30, No.1 (Proceedings IEEE VIS 2023), pp. 1380-1390
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
@@ -65,7 +65,7 @@ citation:   >
    &nbsp;&nbsp;year = {2024},<br>
    &nbsp;&nbsp;volume = {30},<br>
    &nbsp;&nbsp;number = {1},<br>
-   &nbsp;&nbsp;pages = {to appear}<br>
+   &nbsp;&nbsp;pages = {1380--1390}<br>
   }
 
 #insert links to additional material for the publication (optional)
