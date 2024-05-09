@@ -47,7 +47,7 @@ teaser:     './publications/2023-pintore_jaspe-panoverse-teaser.jpg'
 thumbnail:  './publications/2023-pintore_jaspe-panoverse-thumb.jpg'
 
 #link to publication video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
-#video:      'https://vimeo.com/458350874'
+video:      'https://www.youtube.com/watch?v=ZUHBNyZecdw'
 
 #link to talk video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
 #talk:       'https://www.youtube.com/watch?v=3WW2Bdg5tY8'
