@@ -14,7 +14,7 @@ title:      >
    PanoVerse: automatic generation of stereoscopic environments from single indoor panoramic images for Metaverse applications
    
 #include in selected publications on front page (optional, delete line if not applicable)
-display:	selected
+#display:	selected
 
 #list all publication authors in correct order (please check the spelling is identical to your personal page)
 authors:
