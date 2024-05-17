@@ -33,7 +33,7 @@ venue:      >
 
 #insert short venue (displayed in box in publication list)
 shortvenue: >
-   Computer & Graphics
+   Computers & Graphics <span style="color:rgb(180,0,0);">(Honorable Mention Award at Web3D 2023)</span>
 
 #specify publication year
 year:       2024
