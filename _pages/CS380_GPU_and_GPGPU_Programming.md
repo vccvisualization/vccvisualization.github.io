@@ -53,11 +53,11 @@ Prof. Markus Hadwiger
 	<h4>Peter Rautek</h4>
   </div>
   <div class="column" style='text-align: center;'>
-    <a href="{{ site.url }}/people/reyramirez"><img src="{{ site.url }}/images/people/reyramirez.jpg" alt="Rey Ramirez" style="width:66%; border-radius: 50%;"></a>
+    <a href="{{ site.url }}/people/reyramirez"><img src="{{ site.url }}/images/people/reyramirez.png" alt="Rey Ramirez" style="width:66%; border-radius: 50%;"></a>
 	<h4>Julio Rey Ramirez</h4>
   </div>
   <div class="column" style='text-align: center;'>
-    <a href="{{ site.url }}/people/alghamdi"><img src="{{ site.url }}/images/people/alghamdi.jpg" alt="Alghamdi" style="width:66%; border-radius: 50%;"></a>
+    <a href="{{ site.url }}/people/alghamdi"><img src="{{ site.url }}/images/people/alghamdi.png" alt="Alghamdi" style="width:66%; border-radius: 50%;"></a>
 	<h4>Reem Alghamdi</h4>
   </div>
 </div>
