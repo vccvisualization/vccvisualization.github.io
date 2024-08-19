@@ -5,7 +5,7 @@ tags:
 - Course
 ---
 <div style='text-align: center;'>
-<h4> Markus Hadwiger, Peter Rautek, Amani Ageeli </h4>
+<h4> Markus Hadwiger, Peter Rautek, Julio Rey Ramirez, Reem Alghamdi </h4>
 </div>
 
 <style>
