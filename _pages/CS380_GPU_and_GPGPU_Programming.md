@@ -34,8 +34,8 @@ CS 380. GPU and GPGPU Programming (3-0-3) Recommended prerequisites: CS 248, CS 
 
 ### Hours and Location
 
-Sunday, 14:30 - 16:00, Room 3128, Bldg. 9.<br/>
-Wednesday, 14:30 - 16:00, Room 3128, Bldg. 9.
+Monday, 10:30 - 12:00, Room tba, Bldg. 9.<br/>
+Thursday, 10:30 - 12:00, Room tba, Bldg. 9.
 
 ### Instructor
 
@@ -53,14 +53,31 @@ Prof. Markus Hadwiger
 	<h4>Peter Rautek</h4>
   </div>
   <div class="column" style='text-align: center;'>
-    <a href="{{ site.url }}/people/ageeli"><img src="{{ site.url }}/images/people/ageeli.jpg" alt="Ageeli" style="width:66%; border-radius: 50%;"></a>
-	<h4>Amani Ageeli</h4>
+    <a href="{{ site.url }}/people/reyramirez"><img src="{{ site.url }}/images/people/reyramirez.jpg" alt="Rey Ramirez" style="width:66%; border-radius: 50%;"></a>
+	<h4>Julio Rey Ramirez</h4>
+  </div>
+  <div class="column" style='text-align: center;'>
+    <a href="{{ site.url }}/people/alghamdi"><img src="{{ site.url }}/images/people/alghamdi.jpg" alt="Alghamdi" style="width:66%; border-radius: 50%;"></a>
+	<h4>Reem Alghamdi</h4>
   </div>
 </div>
 
 ### Programming assignments
 
-<a href="https://bitbucket.org/rautek/cs380-2022/src/main/" target="_blank">Bitbucket git repository for the programming assignments (Peter needs to give you access via your KAUST email address).</a>
+<a href="https://bitbucket.org/rautek/cs380-2024/src/main/" target="_blank">Bitbucket git repository for the programming assignments (Peter needs to give you access via your KAUST email address).</a>
+
+### Slides (fall 2024)
+
+<table>
+<tbody>
+
+<tr>
+<td style="width:110px">Aug 26, 2024</td>
+<td><a href=""  target="_blank">Lecture 1: Introduction, Pt. 1.</a></td>
+</tr>
+
+</tbody>
+</table>
 
 ### Slides (fall 2022)
 
