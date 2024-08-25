@@ -34,8 +34,8 @@ CS 380. GPU and GPGPU Programming (3-0-3) Recommended prerequisites: CS 248, CS 
 
 ### Hours and Location
 
-Monday, 10:30 - 12:00, Room tba, Bldg. 9.<br/>
-Thursday, 10:30 - 12:00, Room tba, Bldg. 9.
+Monday, 10:00 - 11:30, Room 3120, Bldg. 9.<br/>
+Thursday, 10:00 - 11:30, Room 3120, Bldg. 9.
 
 ### Instructor
 
@@ -73,7 +73,7 @@ Prof. Markus Hadwiger
 
 <tr>
 <td style="width:110px">Aug 26, 2024</td>
-<td><a href=""  target="_blank">Lecture 1: Introduction, Pt. 1.</a></td>
+<td>Lecture 1: Introduction, Pt. 1.</td>
 </tr>
 
 </tbody>
