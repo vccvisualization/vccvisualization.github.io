@@ -73,7 +73,7 @@ Prof. Markus Hadwiger
 
 <tr>
 <td style="width:110px">Aug 26, 2024</td>
-<td>Lecture 1: Introduction, Pt. 1.</td>
+<td><a href="/teaching/CS380/CS380_fall2024_lecture_01.pdf"  target="_blank">Lecture 1: Introduction, Pt. 1.</a></td>
 </tr>
 
 </tbody>
