@@ -64,7 +64,7 @@ Prof. Markus Hadwiger
 
 ### Programming assignments
 
-<a href="https://bitbucket.org/rautek/cs380-2024/src/main/" target="_blank">Bitbucket git repository for the programming assignments (Peter needs to give you access via your KAUST email address).</a>
+<a href="{{ site.url }}/people/rautek">Peter</a> will give you access.
 
 ### Slides (fall 2024)
 
