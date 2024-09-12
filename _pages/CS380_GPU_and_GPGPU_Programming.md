@@ -96,6 +96,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2024_lecture_05.pdf"  target="_blank">Lecture 5: GPU Architecture, Pt. 3.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Sep 12, 2024</td>
+<td><a href="/teaching/CS380/CS380_fall2024_lecture_06.pdf"  target="_blank">Lecture 6: GPU Architecture, Pt. 4.</a></td>
+</tr>
+
 </tbody>
 </table>
 
