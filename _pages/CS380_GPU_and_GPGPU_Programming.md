@@ -121,6 +121,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2024_lecture_10.pdf"  target="_blank">Lecture 10: GPU Architecture, Pt. 8.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Sep 30, 2024</td>
+<td><a href="/teaching/CS380/CS380_fall2024_lecture_11_preview.pdf"  target="_blank">Lecture 11: GPU Architecture, Pt. 9; GPU Compute APIs, Pt. 1. (preview slides)</a></td>
+</tr>
+
 </tbody>
 </table>
 
