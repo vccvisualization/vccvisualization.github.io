@@ -138,7 +138,12 @@ Prof. Markus Hadwiger
 
 <tr>
 <td style="width:110px">Oct 7, 2024</td>
-<td><a href="/teaching/CS380/CS380_fall2024_lecture_14_preview.pdf"  target="_blank">Lecture 14: GPU Compute APIs, Pt. 4. (preview slides)</a></td>
+<td><a href="/teaching/CS380/CS380_fall2024_lecture_14.pdf"  target="_blank">Lecture 14: GPU Compute APIs, Pt. 4.</a></td>
+</tr>
+
+<tr>
+<td style="width:110px">Oct 8, 2024</td>
+<td><a href="/teaching/CS380/CS380_fall2024_lecture_15_preview.pdf"  target="_blank">Lecture 15: GPU Compute APIs, Pt. 5. (preview slides)</a></td>
 </tr>
 
 </tbody>
