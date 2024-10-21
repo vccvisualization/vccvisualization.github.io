@@ -143,17 +143,22 @@ Prof. Markus Hadwiger
 
 <tr>
 <td style="width:110px">Oct 8, 2024</td>
-<td><a href="/teaching/CS380/CS380_fall2024_lecture_15.pdf"  target="_blank">Lecture 15: GPU Compute APIs, Pt. 5.</a></td>
+<td><a href="/teaching/CS380/CS380_fall2024_lecture_15.pdf"  target="_blank">Lecture 15: CUDA memories, Pt. 1.</a></td>
 </tr>
 
 <tr>
 <td style="width:110px">Oct 10, 2024</td>
-<td><a href="/teaching/CS380/CS380_fall2024_lecture_16.pdf"  target="_blank">Lecture 16: GPU Compute APIs, Pt. 6.</a></td>
+<td><a href="/teaching/CS380/CS380_fall2024_lecture_16.pdf"  target="_blank">Lecture 16: CUDA memories, Pt. 2.</a></td>
 </tr>
 
 <tr>
 <td style="width:110px">Oct 21, 2024</td>
-<td><a href="/teaching/CS380/CS380_fall2024_lecture_17_preview.pdf"  target="_blank">Lecture 17: CUDA memories, Pt. 3. (preview slides)</a></td>
+<td><a href="/teaching/CS380/CS380_fall2024_lecture_17.pdf"  target="_blank">Lecture 17: CUDA memories, Pt. 3.</a></td>
+</tr>
+
+<tr>
+<td style="width:110px">Oct 22, 2024</td>
+<td><a href="/teaching/CS380/CS380_fall2024_lecture_18_preview.pdf"  target="_blank">Lecture 18: CUDA memories, Pt. 4; CUDA Reduction. (preview slides)</a></td>
 </tr>
 
 </tbody>
