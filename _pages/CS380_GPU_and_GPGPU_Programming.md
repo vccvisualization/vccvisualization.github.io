@@ -151,6 +151,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2024_lecture_16.pdf"  target="_blank">Lecture 16: GPU Compute APIs, Pt. 6.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Oct 21, 2024</td>
+<td><a href="/teaching/CS380/CS380_fall2024_lecture_17_preview.pdf"  target="_blank">Lecture 17: CUDA memories, Pt. 3. (preview slides)</a></td>
+</tr>
+
 </tbody>
 </table>
 
