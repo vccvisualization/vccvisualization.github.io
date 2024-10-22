@@ -153,7 +153,7 @@ Prof. Markus Hadwiger
 
 <tr>
 <td style="width:110px">Oct 15, 2024</td>
-<td>Lecture 17: Vulkan tutorial.</td>
+<td><a href="/teaching/CS380/CS380_fall2024_lecture_17_vulkan_tutorial.pdf"  target="_blank">Lecture 17: Vulkan tutorial.</a></td>
 </tr>
 
 <tr>
