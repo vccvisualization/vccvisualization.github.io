@@ -152,13 +152,23 @@ Prof. Markus Hadwiger
 </tr>
 
 <tr>
+<td style="width:110px">Oct 15, 2024</td>
+<td>Lecture 17: Vulkan tutorial.</td>
+</tr>
+
+<tr>
+<td style="width:110px">Oct 17, 2024</td>
+<td>Lecture 18: Quiz #2.</td>
+</tr>
+
+<tr>
 <td style="width:110px">Oct 21, 2024</td>
-<td><a href="/teaching/CS380/CS380_fall2024_lecture_17.pdf"  target="_blank">Lecture 17: CUDA memories, Pt. 3.</a></td>
+<td><a href="/teaching/CS380/CS380_fall2024_lecture_19.pdf"  target="_blank">Lecture 19: CUDA memories, Pt. 3.</a></td>
 </tr>
 
 <tr>
 <td style="width:110px">Oct 22, 2024</td>
-<td><a href="/teaching/CS380/CS380_fall2024_lecture_18_preview.pdf"  target="_blank">Lecture 18: CUDA memories, Pt. 4; CUDA Reduction. (preview slides)</a></td>
+<td><a href="/teaching/CS380/CS380_fall2024_lecture_20_preview.pdf"  target="_blank">Lecture 20: CUDA memories, Pt. 4; CUDA Reduction. (preview slides)</a></td>
 </tr>
 
 </tbody>
