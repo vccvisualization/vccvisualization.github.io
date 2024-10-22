@@ -168,7 +168,12 @@ Prof. Markus Hadwiger
 
 <tr>
 <td style="width:110px">Oct 22, 2024</td>
-<td><a href="/teaching/CS380/CS380_fall2024_lecture_20_preview.pdf"  target="_blank">Lecture 20: CUDA memories, Pt. 4; CUDA Reduction. (preview slides)</a></td>
+<td><a href="/teaching/CS380/CS380_fall2024_lecture_20.pdf"  target="_blank">Lecture 20: CUDA memories, Pt. 4</a></td>
+</tr>
+
+<tr>
+<td style="width:110px">Oct 24, 2024</td>
+<td><a href="/teaching/CS380/CS380_fall2024_lecture_21_preview.pdf"  target="_blank">Lecture 21: GPU Parallel Reduction. (preview slides)</a></td>
 </tr>
 
 </tbody>
