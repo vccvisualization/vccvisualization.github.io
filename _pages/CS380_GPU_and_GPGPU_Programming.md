@@ -178,7 +178,7 @@ Prof. Markus Hadwiger
 
 <tr>
 <td style="width:110px">Oct 28, 2024</td>
-<td><a href="/teaching/CS380/CS380_fall2024_lecture_22_preview.pdf"  target="_blank">Lecture 22: GPU Parallel Prefix Sum. (preview slides)</a></td>
+<td><a href="/teaching/CS380/CS380_fall2024_lecture_22.pdf"  target="_blank">Lecture 22: GPU Parallel Prefix Sum.</a></td>
 </tr>
 
 </tbody>
