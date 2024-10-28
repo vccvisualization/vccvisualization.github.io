@@ -181,6 +181,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2024_lecture_22.pdf"  target="_blank">Lecture 22: GPU Parallel Prefix Sum.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Oct 29, 2024</td>
+<td><a href="/teaching/CS380/CS380_fall2024_lecture_23_preview.pdf"  target="_blank">Lecture 23: Prefix Sum Bank Conflicts; Tensor Core Programming.</a></td>
+</tr>
+
 </tbody>
 </table>
 
