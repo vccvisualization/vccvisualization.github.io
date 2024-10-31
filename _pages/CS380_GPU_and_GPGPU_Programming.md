@@ -188,7 +188,12 @@ Prof. Markus Hadwiger
 
 <tr>
 <td style="width:110px">Oct 31, 2024</td>
-<td><a href="/teaching/CS380/CS380_fall2024_lecture_24_preview.pdf"  target="_blank">Lecture 24: Graphics Pipelines; GPU Texturing, Pt. 1. (preview slides)</a></td>
+<td><a href="/teaching/CS380/CS380_fall2024_lecture_24.pdf"  target="_blank">Lecture 24: Graphics Pipelines; GPU Texturing, Pt. 1.</a></td>
+</tr>
+
+<tr>
+<td style="width:110px">Nov 4, 2024</td>
+<td><a href="/teaching/CS380/CS380_fall2024_lecture_25_preview.pdf"  target="_blank">Lecture 25: GPU Texturing, Pt. 2. (preview slides)</a></td>
 </tr>
 
 </tbody>
