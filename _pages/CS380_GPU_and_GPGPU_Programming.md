@@ -186,6 +186,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2024_lecture_23.pdf"  target="_blank">Lecture 23: Prefix Sum Bank Conflicts; Tensor Core Programming.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Oct 31, 2024</td>
+<td><a href="/teaching/CS380/CS380_fall2024_lecture_24_preview.pdf"  target="_blank">Lecture 24: Graphics Pipelines; GPU Texturing, Pt. 1. (preview slides)</a></td>
+</tr>
+
 </tbody>
 </table>
 
