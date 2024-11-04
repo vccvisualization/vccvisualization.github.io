@@ -153,7 +153,7 @@ Prof. Markus Hadwiger
 
 <tr>
 <td style="width:110px">Oct 15, 2024</td>
-<td><a href="/teaching/CS380/CS380_fall2024_lecture_17_vulkan_tutorial.pdf"  target="_blank">Lecture 17: Vulkan tutorial.</a></td>
+<td><a href="/teaching/CS380/CS380_fall2024_lecture_17_vulkan_tutorial.pdf"  target="_blank">Lecture 17: Vulkan tutorial #1.</a></td>
 </tr>
 
 <tr>
@@ -193,7 +193,17 @@ Prof. Markus Hadwiger
 
 <tr>
 <td style="width:110px">Nov 4, 2024</td>
-<td><a href="/teaching/CS380/CS380_fall2024_lecture_25_preview.pdf"  target="_blank">Lecture 25: GPU Texturing, Pt. 2. (preview slides)</a></td>
+<td><a href="/teaching/CS380/CS380_fall2024_lecture_25.pdf"  target="_blank">Lecture 25: GPU Texturing, Pt. 2.</a></td>
+</tr>
+
+<tr>
+<td style="width:110px">Nov 5, 2024</td>
+<td><a href="/teaching/CS380/CS380_fall2024_lecture_26_preview.pdf"  target="_blank">Lecture 26: GPU Texturing, Pt. 3. (preview slides)</a></td>
+</tr>
+
+<tr>
+<td style="width:110px">Nov 7, 2024</td>
+<td>Lecture 27: Vulkan tutorial #2.</td>
 </tr>
 
 </tbody>
