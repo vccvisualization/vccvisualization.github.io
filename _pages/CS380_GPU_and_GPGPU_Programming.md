@@ -206,6 +206,11 @@ Prof. Markus Hadwiger
 <td>Lecture 27: Vulkan tutorial #2.</td>
 </tr>
 
+<tr>
+<td style="width:110px">Nov 11, 2024</td>
+<td><a href="/teaching/CS380/CS380_fall2024_lecture_28_preview.pdf"  target="_blank">Lecture 28: GPU Virtual Texturing. (preview slides)</a></td>
+</tr>
+
 </tbody>
 </table>
 
