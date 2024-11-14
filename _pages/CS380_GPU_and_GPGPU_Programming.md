@@ -211,6 +211,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2024_lecture_28.pdf"  target="_blank">Lecture 28: GPU Virtual Texturing.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Nov 14, 2024</td>
+<td><a href="/teaching/CS380/CS380_fall2024_lecture_29.pdf"  target="_blank">Lecture 29: GPU Virtual Texturing + Virtual Geometry; Unreal Engine 5.</a></td>
+</tr>
+
 </tbody>
 </table>
 
