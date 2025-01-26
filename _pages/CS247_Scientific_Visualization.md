@@ -5,7 +5,7 @@ tags:
 - Course
 ---
 <div style='text-align: center;'>
-<h4> Markus Hadwiger, Alberto Jaspe, Reem Alghamdi </h4>
+<h4> Markus Hadwiger, Alberto Jaspe, Amani Ageeli </h4>
 </div>
 
 <style>
@@ -34,8 +34,8 @@ CS 247. Scientific Visualization (3-0-3) Prerequisites: Linear algebra, basic ca
 
 ### Hours and Location
 
-Sunday, 11:00 - 12:25, Bldg 9, Room 3221.<br/>
-Wednesday, 11:00 - 12:25, Bldg 9, Room 3221.
+Sunday, 10:00 - 11:30, Bldg 9, Room 4229.<br/>
+Wednesday, 10:00 - 11:30, Bldg 9, Room 4229.
 
 ### Instructor
 
@@ -53,14 +53,27 @@ Prof. Markus Hadwiger
 	<h4>Alberto Jaspe</h4>
   </div>
   <div class="column" style='text-align: center;'>
-    <a href="{{ site.url }}/people/alghamdi"><img src="{{ site.url }}/images/people/alghamdi.png" alt="Alghamdi" style="width:66%; border-radius: 50%;"></a>
-	<h4>Reem Alghamdi</h4>
+    <a href="{{ site.url }}/people/ageeli"><img src="{{ site.url }}/images/people/ageeli.jpg" alt="Ageeli" style="width:66%; border-radius: 50%;"></a>
+	<h4>Amani Ageeli</h4>
   </div>
 </div>
 
 ### Programming Assignments
 
-<a href="https://classroom.github.com/classrooms/98274160-cs247-kaust-2023" target="_blank">Sign up on github classroom for the programming assignments.</a>
+<a href="{{ site.url }}/people/jaspe">Alberto</a> will give you access.
+
+### Slides (spring 2025)
+
+<table>
+<tbody>
+
+<tr>
+<td style="width:110px">Jan 26, 2025</td>
+<td>Lecture 1: Introduction, Pt. 1.</td>
+</tr>
+
+</tbody>
+</table>
 
 ### Slides (spring 2023)
 
