@@ -69,7 +69,7 @@ Prof. Markus Hadwiger
 
 <tr>
 <td style="width:110px">Jan 26, 2025</td>
-<td>Lecture 1: Introduction, Pt. 1.</td>
+<td><a href="/teaching/CS247/CS247_spring2025_lecture_01.pdf" target="_blank">Lecture 1: Introduction.</a></td>
 </tr>
 
 </tbody>
