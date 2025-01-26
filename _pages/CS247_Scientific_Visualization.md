@@ -75,7 +75,7 @@ Prof. Markus Hadwiger
 </tbody>
 </table>
 
-### Slides (spring 2023)
+### Old slides (spring 2023)
 
 <h6>PART I: Introduction and Basics</h6>
 
