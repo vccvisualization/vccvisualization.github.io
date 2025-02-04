@@ -34,8 +34,8 @@ CS 247. Scientific Visualization (3-0-3) Prerequisites: Linear algebra, basic ca
 
 ### Hours and Location
 
-Sunday, 10:00 - 11:30, Bldg 9, Room 4229.<br/>
-Wednesday, 10:00 - 11:30, Bldg 9, Room 4229.
+Sunday, 10:15 - 11:30, Bldg 9, Room 4229.<br/>
+Wednesday, 10:15 - 11:30, Bldg 9, Room 4229.
 
 ### Instructor
 
