@@ -92,6 +92,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS247/CS247_spring2025_lecture_05.pdf" target="_blank">Lecture 5: Data Representation, Pt.2.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Feb 12, 2025</td>
+<td><a href="/teaching/CS247/CS247_spring2025_lecture_06.pdf" target="_blank">Lecture 6: Data Representation, Pt.3.</a></td>
+</tr>
+
 </tbody>
 </table>
 
