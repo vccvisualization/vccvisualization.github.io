@@ -64,6 +64,8 @@ Prof. Markus Hadwiger
 
 ### Slides (spring 2025)
 
+<h6>PART I: Introduction and Basics</h6>
+
 <table>
 <tbody>
 
@@ -100,6 +102,19 @@ Prof. Markus Hadwiger
 <tr>
 <td style="width:110px">Feb 16, 2025</td>
 <td><a href="/teaching/CS247/CS247_spring2025_lecture_07.pdf" target="_blank">Lecture 7: Data Representation, Pt.4.</a></td>
+</tr>
+
+</tbody>
+</table>
+
+<h6>PART II: Scalar Field Visualization</h6>
+
+<table>
+<tbody>
+
+<tr>
+<td style="width:110px">Feb 19, 2025</td>
+<td><a href="/teaching/CS247/CS247_spring2023_lecture_08.pdf" target="_blank">Lecture 8: Scalar Field Visualization, Pt.1.</a></td>
 </tr>
 
 </tbody>
