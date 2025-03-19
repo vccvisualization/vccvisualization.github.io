@@ -142,6 +142,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS247/CS247_spring2025_lecture_13.pdf" target="_blank">Lecture 13: Scalar Field Visualization, Pt.6.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Mar 19, 2025</td>
+<td><a href="/teaching/CS247/CS247_spring2025_lecture_14.pdf" target="_blank">Lecture 14: Volume Visualization, Pt.1.</a></td>
+</tr>
+
 </tbody>
 </table>
 
