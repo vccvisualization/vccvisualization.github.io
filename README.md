@@ -9,7 +9,7 @@ To edit the page clone this repository and make changes to the yml and md files.
 
 ## Local Builds
 If you are building the webpage for the first time, download and install [Jekyll](https://jekyllrb.com/docs/windows/) and [Ruby](https://rubyinstaller.org/). The steps are:
-1. Download and install a package manager version from RubyInstaller Downloads.
+1. Download and install a package manager version from RubyInstaller Downloads (tested version: Ruby+Devkit 3.3.7-1(x64)).
 2. Install Jekyll and Bundler via a command prompt window: `gem install jekyll bundler`
 3. Check if Jekyll installed properly: `jekyll -v`
 
@@ -26,6 +26,9 @@ To create a new publication entry, go to the _research subdirectory and create a
 
 ## Adding a Person
 To create a new person entry, go to the _people subdirectory and create a md file.
+
+## Caution with Large files
+Do NOT attempt to add files of 100MB or larger. Github will not accept them and refuse your push due to its files size limit.
 
 
 
