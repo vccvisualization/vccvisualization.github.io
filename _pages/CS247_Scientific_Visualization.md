@@ -172,6 +172,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS247/CS247_spring2025_lecture_19.pdf" target="_blank">Lecture 19: Volume Visualization, Pt.6.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Apr 16, 2025</td>
+<td><a href="/teaching/CS247/CS247_spring2025_lecture_20.pdf" target="_blank">Lecture 20: Volume Visualization, Pt.7.</a></td>
+</tr>
+
 </tbody>
 </table>
 
