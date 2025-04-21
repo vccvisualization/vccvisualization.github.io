@@ -57,7 +57,7 @@ video:       'https://www.youtube.com/watch?v=Qkzcqjoj7Y8'
 pdf:        './publications/2025_zhang_boundary.pdf'
 
 #link to appendix pdf (optional)
-#pdfsupp:    './publications/2025_zhang_boundary_appendix.pdf'
+pdfsupp:    './publications/2025_zhang_boundary_appendix.pdf'
 
 #insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
