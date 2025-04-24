@@ -185,6 +185,19 @@ Prof. Markus Hadwiger
 </tbody>
 </table>
 
+<h6>PART III: Vector Field Visualization</h6>
+
+<table>
+<tbody>
+
+<tr>
+<td style="width:110px">Apr 23, 2025</td>
+<td><a href="/teaching/CS247/CS247_spring2025_lecture_22.pdf" target="_blank">Lecture 22: Volume Visualization, Pt.9; Vector / Flow Visualization, Pt.1.</a></td>
+</tr>
+
+</tbody>
+</table>
+
 ### Old slides (spring 2023)
 
 <h6>PART I: Introduction and Basics</h6>
