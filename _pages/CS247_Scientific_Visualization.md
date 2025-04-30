@@ -200,6 +200,16 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS247/CS247_spring2025_lecture_23.pdf" target="_blank">Lecture 23: Vector / Flow Visualization, Pt.2.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Apr 30, 2025</td>
+<td><a href="/teaching/CS247/CS247_spring2025_lecture_24.pdf" target="_blank">Lecture 24: Vector / Flow Visualization, Pt.3.</a></td>
+</tr>
+
+<tr>
+<td style="width:110px">Apr 30, 2025</td>
+<td><a href="/teaching/CS247/CS247_spring2025_lecture_25.pdf" target="_blank">Lecture 25: Vector / Flow Visualization, Pt.4.</a></td>
+</tr>
+
 </tbody>
 </table>
 
