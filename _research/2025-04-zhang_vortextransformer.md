@@ -65,7 +65,7 @@ citation:   >
    &nbsp;&nbsp;number = {2},<br>
    &nbsp;&nbsp;pages = {to appear},<br>
    &nbsp;&nbsp;year = {2025}<br>
-}
+  }
 
 #insert links to additional material for the publication (optional)
 #links need a title, a URL and a type (this defines the link icon) which can be one of the following values: code, archive, files, slides or text (this is the default icon)
