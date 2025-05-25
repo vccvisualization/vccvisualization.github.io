@@ -4,7 +4,7 @@
 # longer blocks of text should start with a a leading > to escape all special characters
 
 # URL handle for generated webpage
-slug:       material_boundary
+slug:       materialboundary
 
 #specifies layout to be used for page generation (do not modify)
 layout:     publication
