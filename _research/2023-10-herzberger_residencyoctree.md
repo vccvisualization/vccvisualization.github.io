@@ -62,10 +62,10 @@ citation:   >
    &nbsp;&nbsp;title = {Residency Octree: A Hybrid Approach for Scalable Web-Based Multi-Volume Rendering},<br>
    &nbsp;&nbsp;author = {Herzberger, Lukas and Hadwiger, Markus and Kr{\"u}ger, Robert and Sorger, Peter and Pfister, Hanspeter and Gr{\"o}ller, Eduard and Beyer, Johanna},<br>
    &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE VIS 2023)},<br>
-   &nbsp;&nbsp;year = {2024},<br>
    &nbsp;&nbsp;volume = {30},<br>
    &nbsp;&nbsp;number = {1},<br>
-   &nbsp;&nbsp;pages = {1380--1390}<br>
+   &nbsp;&nbsp;pages = {1380--1390},<br>
+   &nbsp;&nbsp;year = {2024}<br>
   }
 
 #insert links to additional material for the publication (optional)

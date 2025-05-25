@@ -68,8 +68,8 @@ citation:   >
    &nbsp;&nbsp;journal = {Computers & Graphics},<br>
    &nbsp;&nbsp;volume = {119},<br>
    &nbsp;&nbsp;month = {March},<br>
-   &nbsp;&nbsp;year = {2024},<br>
    &nbsp;&nbsp;doi = {10.1016/j.cag.2024.103907},<br>
+   &nbsp;&nbsp;year = {2024}<br>
   }
 
 #insert links to additional material for the publication (optional)
