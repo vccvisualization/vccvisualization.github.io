@@ -67,8 +67,8 @@ citation:   >
    &nbsp;&nbsp;number = {29},<br>
    &nbsp;&nbsp;issue = {2},<br>
    &nbsp;&nbsp;pages = {1491--1505},<br>
-   &nbsp;&nbsp;year = {2023}<br>,
-   &nbsp;&nbsp;doi = {10.1109/TVCG.2021.3120372}<br>
+   &nbsp;&nbsp;doi = {10.1109/TVCG.2021.3120372},<br>
+   &nbsp;&nbsp;year = {2023}<br>
   }
 
 #insert links to additional material for the publication (optional)
