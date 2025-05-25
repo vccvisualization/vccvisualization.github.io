@@ -26,7 +26,7 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   Computer Graphics Forum, Vol.43, No.3 (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2023), pp. 39-49
+   Computer Graphics Forum, Vol.42, No.3 (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2023), pp. 39-49
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >

@@ -24,11 +24,11 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   Computer Graphics Forum (Proceedings of Eurographics 2025)
-   
+   Computer Graphics Forum, Vol.44, No.2 (Proceedings Eurographics 2025), to appear
+
 #insert short venue (displayed in box in publication list)
 shortvenue: >
-   CGF (Eurographics 2025) 
+   Eurographics 2025
 
 #specify publication year
 year:       2025
@@ -60,12 +60,12 @@ citation:   >
   @article{Zhang2025VortexTransformer,<br>
    &nbsp;&nbsp;title = {VortexTransformer: End-to-End Objective Vortex Detection in 2D Unsteady Flow Using Transformers},<br>
    &nbsp;&nbsp;author = {Zhang, Xingdi and Rautek, Peter and Hadwiger, Markus},<br>
-   &nbsp;&nbsp;journal = {Computer Graphics Forum (Proceedings of Eurographics 2025)},<br>
-   &nbsp;&nbsp;year = {2025},<br>
-   &nbsp;&nbsp;volume = {to appear},<br>
-   &nbsp;&nbsp;number = {},<br>
-   &nbsp;&nbsp;pages = {}<br>
-  }
+   &nbsp;&nbsp;journal = {Computer Graphics Forum (Proceedings Eurographics 2025)},<br>
+   &nbsp;&nbsp;volume = {44},<br>
+   &nbsp;&nbsp;number = {2},<br>
+   &nbsp;&nbsp;pages = {to appear},<br>
+   &nbsp;&nbsp;year = {2025}<br>
+}
 
 #insert links to additional material for the publication (optional)
 #links need a title, a URL and a type (this defines the link icon) which can be one of the following values: code, archive, files, slides or text (this is the default icon)

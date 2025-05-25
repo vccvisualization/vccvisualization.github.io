@@ -26,11 +26,11 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   Computer Graphics Forum (Eurographics Conference on Visualization 2025)
+   Computer Graphics Forum, Vol.44, No.3 (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2025), to appear
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
-   CGF (EuroVis 2025) 
+   Eurovis 2025
 
 #specify publication year
 year:       2025
@@ -64,12 +64,12 @@ citation:   >
   @article{Zhang2025MaterialBoundary,<br>
    &nbsp;&nbsp;title = {Enhancing Material Boundary Visualizations in 2D Unsteady Flow through Local Reference Frame Transformations},<br>
    &nbsp;&nbsp;author = {Zhang, Xingdi and Rautek, Peter and Theu{\ss}l, Thomas and Hadwiger, Markus},<br>
-   &nbsp;&nbsp;journal = {Computer Graphics Forum (Proceedings of Eurographics Conference on Visualization 2025)},<br>
-   &nbsp;&nbsp;year = {2025},<br>
+   &nbsp;&nbsp;journal = {Computer Graphics Forum (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2025)},<br>
    &nbsp;&nbsp;volume = {44},<br>
    &nbsp;&nbsp;number = {3},<br>
-   &nbsp;&nbsp;pages = {to appear}<br>
-  }
+   &nbsp;&nbsp;pages = {to appear},<br>
+   &nbsp;&nbsp;year = {2025}<br>
+}
 
 #insert links to additional material for the publication (optional)
 #links need a title, a URL and a type (this defines the link icon) which can be one of the following values: code, archive, files, slides or text (this is the default icon)
