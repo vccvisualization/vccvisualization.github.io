@@ -62,6 +62,7 @@ links:
 - 2000 - 2004: Researcher in Basic Research on Visualization and Medical Visualization, VRVis Research Center, Vienna, Austria.
 
 ### Awards
+- Honorable Mention for Best Paper Award at IEEE VIS 2025.
 - Best Paper Award at IEEE VIS 2023.
 - Honorable Mention for Best Paper Award at IEEE VIS 2021.
 - Best Paper Award at CGI 2021.
