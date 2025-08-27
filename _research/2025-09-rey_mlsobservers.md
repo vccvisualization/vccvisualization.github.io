@@ -54,7 +54,7 @@ thumbnail:  './publications/2025_rey_mlsobservers_thumbnail.png'
 pdf:        './publications/2025_rey_mlsobservers.pdf'
 
 #link to appendix pdf (optional)
-pdfsupp:    './publications/2025_rey_mlsobservers_appendixes.pdf'
+pdfsupp:    './publications/2025_rey_mlsobservers_supp.pdf'
 
 #insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
