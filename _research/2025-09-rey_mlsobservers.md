@@ -51,10 +51,10 @@ thumbnail:  './publications/2025_rey_mlsobservers_thumbnail.png'
 #talk:       'https://www.youtube.com/watch?v=qiLjCvrpdZU'
 
 #link to publication pdf (optional)
-#pdf:        './publications/2025_rey_mlsobservers.pdf'
+pdf:        './publications/2025_rey_mlsobservers.pdf'
 
 #link to appendix pdf (optional)
-#pdfsupp:    './publications/2025_rey_mlsobservers_appendixes.pdf'
+pdfsupp:    './publications/2025_rey_mlsobservers_appendixes.pdf'
 
 #insert citation. please format citation by inserting <br> at line breaks, &nbsp;&nbsp; will insert a tab character to prettify the citation
 citation:   >
