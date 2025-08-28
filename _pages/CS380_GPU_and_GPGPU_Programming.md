@@ -246,8 +246,10 @@ Prof. Markus Hadwiger
 </tr>
 
 <tr>
-<td><a href=""  target="_blank">OpenGL 4 shading language cookbook</a></td>
-<td><a href=""  target="_blank">Programming massively parallel processors</a></td>
+<td><a href="https://www.oreilly.com/library/view/opengl-4-shading/9781789342253/"  target="_blank">OpenGL 4 shading language cookbook (needs KAUST sign in)</a></td>
+<td><a href="https://learning.oreilly.com/library/view/vulkantm-programming-guide/9780134464701/"  target="_blank">Vulkan Programming Guide(needs KAUST sign in)</a></td>
+<td><a href="https://learning.oreilly.com/library/view/vulkantm-programming-guide/9781786468154/"  target="_blank">Vulkan Cookbook (needs KAUST sign in)</a></td>	
+<td><a href="https://www-sciencedirect-com.kaust.idm.oclc.org/book/9780323912310/programming-massively-parallel-processors"  target="_blank">Programming massively parallel processors</a></td>
 </tr>
 
 <tr>
