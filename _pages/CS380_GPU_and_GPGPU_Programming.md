@@ -63,6 +63,19 @@ Prof. Markus Hadwiger
 
 <a href="{{ site.url }}/people/rautek">Peter</a> will give you access.
 
+
+### Slides (fall 2025)
+
+<table>
+<tbody>
+
+<tr>
+<td style="width:110px">Sept 1, 2025</td>
+<td><a href="/teaching/CS380/tbd.pdf"  target="_blank">Lecture 1: Introduction, Pt. 1.</a></td>
+</tr>
+</tbody>
+</table>
+
 ### Slides (fall 2024)
 
 <table>
@@ -216,148 +229,7 @@ Prof. Markus Hadwiger
 </tbody>
 </table>
 
-### Slides (fall 2022)
 
-<table>
-<tbody>
-
-<tr>
-<td style="width:110px">Aug 28, 2022</td>
-<td><a href="/teaching/CS380/CS380_fall2022_lecture_01.pdf"  target="_blank">Lecture 1: Introduction, Pt. 1.</a></td>
-</tr>
-
-<tr>
-<td style="width:110px">Aug 31, 2022</td>
-<td><a href="/teaching/CS380/CS380_fall2022_lecture_02.pdf"  target="_blank">Lecture 2: Introduction, Pt. 2.</a></td>
-</tr>
-
-<tr>
-<td style="width:110px">Sep 4, 2022</td>
-<td><a href="/teaching/CS380/CS380_fall2022_lecture_03.pdf"  target="_blank">Lecture 3: Introduction, Pt. 3.</a></td>
-</tr>
-
-<tr>
-<td style="width:110px">Sep 7, 2022</td>
-<td><a href="/teaching/CS380/CS380_fall2022_lecture_04.pdf"  target="_blank">Lecture 4: GPU Architecture, Pt. 1.</a></td>
-</tr>
-
-<tr>
-<td style="width:110px">Sep 11, 2022</td>
-<td><a href="/teaching/CS380/CS380_fall2022_lecture_05.pdf"  target="_blank">Lecture 5: GPU Architecture, Pt. 2.</a></td>
-</tr>
-
-<tr>
-<td style="width:110px">Sep 14, 2022</td>
-<td><a href="/teaching/CS380/CS380_fall2022_lecture_06.pdf"  target="_blank">Lecture 6: GPU Architecture, Pt. 3.</a></td>
-</tr>
-
-<tr>
-<td style="width:110px">Sep 18, 2022</td>
-<td><a href="/teaching/CS380/CS380_fall2022_lecture_07.pdf"  target="_blank">Lecture 7: GPU Architecture, Pt. 4.</a></td>
-</tr>
-
-<tr>
-<td style="width:110px">Sep 25, 2022</td>
-<td><a href="/teaching/CS380/CS380_fall2022_lecture_08.pdf"  target="_blank">Lecture 8: GPU Architecture, Pt. 5.</a></td>
-</tr>
-
-<tr>
-<td style="width:110px">Sep 28, 2022</td>
-<td><a href="/teaching/CS380/CS380_fall2022_lecture_09.pdf"  target="_blank">Lecture 9: GPU Architecture, Pt. 6.</a></td>
-</tr>
-
-<tr>
-<td style="width:110px">Oct 2, 2022</td>
-<td><a href="/teaching/CS380/CS380_fall2022_lecture_10.pdf"  target="_blank">Lecture 10: GPU Architecture, Pt. 7.</a></td>
-</tr>
-
-<tr>
-<td style="width:110px">Oct 4, 2022</td>
-<td><a href="/teaching/CS380/CS380_fall2022_lecture_11.pdf"  target="_blank">Lecture 11: GPU Architecture, Pt. 8.</a></td>
-</tr>
-
-<tr>
-<td style="width:110px">Oct 5, 2022</td>
-<td><a href="/teaching/CS380/CS380_fall2022_lecture_12.pdf"  target="_blank">Lecture 12: GPU Compute APIs, Pt. 1.</a></td>
-</tr>
-
-<tr>
-<td style="width:110px">Oct 9, 2022</td>
-<td><a href="/teaching/CS380/CS380_fall2022_lecture_13.pdf"  target="_blank">Lecture 13: GPU Compute APIs, Pt. 2.</a></td>
-</tr>
-
-<tr>
-<td style="width:110px">Oct 12, 2022</td>
-<td><a href="/teaching/CS380/CS380_fall2022_lecture_14.pdf"  target="_blank">Lecture 14: GPU Compute APIs, Pt. 3.</a></td>
-</tr>
-
-<tr>
-<td style="width:110px">Oct 23, 2022</td>
-<td><a href="/teaching/CS380/CS380_fall2022_lecture_15.pdf"  target="_blank">Lecture 15: GPU Compute APIs, Pt. 4; GPU Texturing, Pt. 1.</a></td>
-</tr>
-
-<tr>
-<td style="width:110px">Oct 30, 2022</td>
-<td><a href="/teaching/CS380/CS380_fall2022_lecture_16.pdf"  target="_blank">Lecture 16: GPU Texturing, Pt. 2.</a></td>
-</tr>
-
-<tr>
-<td style="width:110px">Nov 1, 2022</td>
-<td><a href="/teaching/CS380/CS380_fall2022_lecture_17.pdf"  target="_blank">Lecture 17: GPU Texturing, Pt. 3.</a></td>
-</tr>
-
-<tr>
-<td style="width:110px">Nov 2, 2022</td>
-<td><a href="/teaching/CS380/CS380_fall2022_lecture_18.pdf"  target="_blank">Lecture 18: GPU Texturing, Pt. 4.</a></td>
-</tr>
-
-<tr>
-<td style="width:110px">Nov 6, 2022</td>
-<td><a href="/teaching/CS380/CS380_fall2022_lecture_19.pdf"  target="_blank">Lecture 19: GPU Texturing, Pt. 5.</a></td>
-</tr>
-
-<tr>
-<td style="width:110px">Nov 9, 2022</td>
-<td><a href="/teaching/CS380/CS380_fall2022_lecture_20.pdf"  target="_blank">Lecture 20: GPU Virtual Texturing, Pt. 2.</a></td>
-</tr>
-
-<tr>
-<td style="width:110px">Nov 13, 2022</td>
-<td><a href="/teaching/CS380/CS380_fall2022_lecture_21.pdf"  target="_blank">Lecture 21: GPU Virtual Geometry (and GPU Virtual Texturing).</a></td>
-</tr>
-
-<tr>
-<td style="width:110px">Nov 16, 2022</td>
-<td><a href="/teaching/CS380/CS380_fall2022_lecture_22.pdf"  target="_blank">Lecture 22: Stream Computing and GPGPU; CUDA Memory Pt.1.</a></td>
-</tr>
-
-<tr>
-<td style="width:110px">Nov 20, 2022</td>
-<td><a href="/teaching/CS380/CS380_fall2022_lecture_23.pdf"  target="_blank">Lecture 23: CUDA Memory Pt.2: Shared Memory.</a></td>
-</tr>
-
-<tr>
-<td style="width:110px">Nov 22, 2022</td>
-<td><a href="/teaching/CS380/CS380_fall2022_lecture_24.pdf"  target="_blank">Lecture 24: CUDA Memory Pt.3: Shared Memory.</a></td>
-</tr>
-
-<tr>
-<td style="width:110px">Nov 27, 2022</td>
-<td><a href="/teaching/CS380/CS380_fall2022_lecture_25.pdf"  target="_blank">Lecture 25: CUDA Memory Pt.4.</a></td>
-</tr>
-
-<tr>
-<td style="width:110px">Nov 29, 2022</td>
-<td><a href="/teaching/CS380/CS380_fall2022_lecture_26.pdf"  target="_blank">Lecture 26: GPU Reduction; GPU Prefix Sum (Pt.1).</a></td>
-</tr>
-
-<tr>
-<td style="width:110px">Nov 30, 2022</td>
-<td><a href="/teaching/CS380/CS380_fall2022_lecture_27.pdf"  target="_blank">Lecture 27: GPU Prefix Sum (Pt.2); Tensor Core Programming.</a></td>
-</tr>
-
-</tbody>
-</table>
 
 ### Resources
 
@@ -374,9 +246,8 @@ Prof. Markus Hadwiger
 </tr>
 
 <tr>
-<td><a href="https://koral.summon.serialssolutions.com/2.0.0/link/0/eLvHCXMwfV07T8MwED4BXZAYQICAAorY2zi2yUOqQFBRCqpYykBZKscPIbV0CGXlt3Nn8igdOudyiZWLv8_nu88AgndZZ21OsI5p53LFpIm0MFypSFvDuUssBoihfufxPX97EZNnKtWxVWtMfU7BjFRwfP7ia10w0duVeYQunWc5n9fbrV4UgnLs4Q9pyUYJwrPEEBbhrSq2canG8Gdu3T1N3odVFCLDiLOVvTkhcE5IGxDHNV2c8YbUCHmNHhvFGUQEjrhd3y_RX4LEhrrKqsfzUmyqfh2kxn6EK9g22IeWpYaHA9iyi0MIe5-qmN1QncnjKJDB-MMX2QejMq8Z9NGWmHkv9IZHcDV4eO0PO97xVMSMxDGm_8YkjmFPUSX9Yuk77swJBE4IkxmeaqWZ1EmWu5QEeHKHuGbTxJ1Ce4PHs41X27CLhCP9q9E6h51l8W0vcOgkRnBZfodfjG2caw"  target="_blank">OpenGL 4 shading language cookbook</a></td>
-<td><a href="https://koral.summon.serialssolutions.com/2.0.0/link/0/eLvHCXMwfV1NS8NAEB3UXgQPiopalcWTHmr3I80HFMFKUxGUgoJ6qrvJFqEfQhIP_ntnNmvAHnpNNsmy7M687L73BkDJa95ZiQlxosMoF0aZqQlinYRGZFZNDQZHrWRGuuHngXx7Uu8PRNX5-JPGNHUKZuSC4_YvylXDxNKzMX3KqFOBC_L-SpfwKlnJciVVIgjRbOJfGsd13LodjF6bBYCTGeFJoNyprm8qvEtP8yiiWNeZmi_p0lC6Cy1L2oQ92LDLfRj1F7qY3YxrhtUCcxB7RCiM4Wv-w8a6oCopc-aVAF9F2e-69uwyxflTfbJh7uhaVwdwkQ5f7u477oMTFXLyt5j866s6hB1NZPhl5URz-REwbTOpTWTJbDDI8lhHMVU8FMIGSsa8dwztNW88WXu3DduSFABuF-IUtqri257hkJCfwLkfz1_-0ZD9"  target="_blank">
-Programming massively parallel processors</a></td>
+<td><a href=""  target="_blank">OpenGL 4 shading language cookbook</a></td>
+<td><a href=""  target="_blank">Programming massively parallel processors</a></td>
 </tr>
 
 <tr>
@@ -388,6 +259,152 @@ Programming massively parallel processors</a></td>
 </table>
 
 ### Old Slides
+
+<details>
+	<summary>Fall 2022</summary>
+	<table>
+	<tbody>
+	
+	<tr>
+	<td style="width:110px">Aug 28, 2022</td>
+	<td><a href="/teaching/CS380/CS380_fall2022_lecture_01.pdf"  target="_blank">Lecture 1: Introduction, Pt. 1.</a></td>
+	</tr>
+	
+	<tr>
+	<td style="width:110px">Aug 31, 2022</td>
+	<td><a href="/teaching/CS380/CS380_fall2022_lecture_02.pdf"  target="_blank">Lecture 2: Introduction, Pt. 2.</a></td>
+	</tr>
+	
+	<tr>
+	<td style="width:110px">Sep 4, 2022</td>
+	<td><a href="/teaching/CS380/CS380_fall2022_lecture_03.pdf"  target="_blank">Lecture 3: Introduction, Pt. 3.</a></td>
+	</tr>
+	
+	<tr>
+	<td style="width:110px">Sep 7, 2022</td>
+	<td><a href="/teaching/CS380/CS380_fall2022_lecture_04.pdf"  target="_blank">Lecture 4: GPU Architecture, Pt. 1.</a></td>
+	</tr>
+	
+	<tr>
+	<td style="width:110px">Sep 11, 2022</td>
+	<td><a href="/teaching/CS380/CS380_fall2022_lecture_05.pdf"  target="_blank">Lecture 5: GPU Architecture, Pt. 2.</a></td>
+	</tr>
+	
+	<tr>
+	<td style="width:110px">Sep 14, 2022</td>
+	<td><a href="/teaching/CS380/CS380_fall2022_lecture_06.pdf"  target="_blank">Lecture 6: GPU Architecture, Pt. 3.</a></td>
+	</tr>
+	
+	<tr>
+	<td style="width:110px">Sep 18, 2022</td>
+	<td><a href="/teaching/CS380/CS380_fall2022_lecture_07.pdf"  target="_blank">Lecture 7: GPU Architecture, Pt. 4.</a></td>
+	</tr>
+	
+	<tr>
+	<td style="width:110px">Sep 25, 2022</td>
+	<td><a href="/teaching/CS380/CS380_fall2022_lecture_08.pdf"  target="_blank">Lecture 8: GPU Architecture, Pt. 5.</a></td>
+	</tr>
+	
+	<tr>
+	<td style="width:110px">Sep 28, 2022</td>
+	<td><a href="/teaching/CS380/CS380_fall2022_lecture_09.pdf"  target="_blank">Lecture 9: GPU Architecture, Pt. 6.</a></td>
+	</tr>
+	
+	<tr>
+	<td style="width:110px">Oct 2, 2022</td>
+	<td><a href="/teaching/CS380/CS380_fall2022_lecture_10.pdf"  target="_blank">Lecture 10: GPU Architecture, Pt. 7.</a></td>
+	</tr>
+	
+	<tr>
+	<td style="width:110px">Oct 4, 2022</td>
+	<td><a href="/teaching/CS380/CS380_fall2022_lecture_11.pdf"  target="_blank">Lecture 11: GPU Architecture, Pt. 8.</a></td>
+	</tr>
+	
+	<tr>
+	<td style="width:110px">Oct 5, 2022</td>
+	<td><a href="/teaching/CS380/CS380_fall2022_lecture_12.pdf"  target="_blank">Lecture 12: GPU Compute APIs, Pt. 1.</a></td>
+	</tr>
+	
+	<tr>
+	<td style="width:110px">Oct 9, 2022</td>
+	<td><a href="/teaching/CS380/CS380_fall2022_lecture_13.pdf"  target="_blank">Lecture 13: GPU Compute APIs, Pt. 2.</a></td>
+	</tr>
+	
+	<tr>
+	<td style="width:110px">Oct 12, 2022</td>
+	<td><a href="/teaching/CS380/CS380_fall2022_lecture_14.pdf"  target="_blank">Lecture 14: GPU Compute APIs, Pt. 3.</a></td>
+	</tr>
+	
+	<tr>
+	<td style="width:110px">Oct 23, 2022</td>
+	<td><a href="/teaching/CS380/CS380_fall2022_lecture_15.pdf"  target="_blank">Lecture 15: GPU Compute APIs, Pt. 4; GPU Texturing, Pt. 1.</a></td>
+	</tr>
+	
+	<tr>
+	<td style="width:110px">Oct 30, 2022</td>
+	<td><a href="/teaching/CS380/CS380_fall2022_lecture_16.pdf"  target="_blank">Lecture 16: GPU Texturing, Pt. 2.</a></td>
+	</tr>
+	
+	<tr>
+	<td style="width:110px">Nov 1, 2022</td>
+	<td><a href="/teaching/CS380/CS380_fall2022_lecture_17.pdf"  target="_blank">Lecture 17: GPU Texturing, Pt. 3.</a></td>
+	</tr>
+	
+	<tr>
+	<td style="width:110px">Nov 2, 2022</td>
+	<td><a href="/teaching/CS380/CS380_fall2022_lecture_18.pdf"  target="_blank">Lecture 18: GPU Texturing, Pt. 4.</a></td>
+	</tr>
+	
+	<tr>
+	<td style="width:110px">Nov 6, 2022</td>
+	<td><a href="/teaching/CS380/CS380_fall2022_lecture_19.pdf"  target="_blank">Lecture 19: GPU Texturing, Pt. 5.</a></td>
+	</tr>
+	
+	<tr>
+	<td style="width:110px">Nov 9, 2022</td>
+	<td><a href="/teaching/CS380/CS380_fall2022_lecture_20.pdf"  target="_blank">Lecture 20: GPU Virtual Texturing, Pt. 2.</a></td>
+	</tr>
+	
+	<tr>
+	<td style="width:110px">Nov 13, 2022</td>
+	<td><a href="/teaching/CS380/CS380_fall2022_lecture_21.pdf"  target="_blank">Lecture 21: GPU Virtual Geometry (and GPU Virtual Texturing).</a></td>
+	</tr>
+	
+	<tr>
+	<td style="width:110px">Nov 16, 2022</td>
+	<td><a href="/teaching/CS380/CS380_fall2022_lecture_22.pdf"  target="_blank">Lecture 22: Stream Computing and GPGPU; CUDA Memory Pt.1.</a></td>
+	</tr>
+	
+	<tr>
+	<td style="width:110px">Nov 20, 2022</td>
+	<td><a href="/teaching/CS380/CS380_fall2022_lecture_23.pdf"  target="_blank">Lecture 23: CUDA Memory Pt.2: Shared Memory.</a></td>
+	</tr>
+	
+	<tr>
+	<td style="width:110px">Nov 22, 2022</td>
+	<td><a href="/teaching/CS380/CS380_fall2022_lecture_24.pdf"  target="_blank">Lecture 24: CUDA Memory Pt.3: Shared Memory.</a></td>
+	</tr>
+	
+	<tr>
+	<td style="width:110px">Nov 27, 2022</td>
+	<td><a href="/teaching/CS380/CS380_fall2022_lecture_25.pdf"  target="_blank">Lecture 25: CUDA Memory Pt.4.</a></td>
+	</tr>
+	
+	<tr>
+	<td style="width:110px">Nov 29, 2022</td>
+	<td><a href="/teaching/CS380/CS380_fall2022_lecture_26.pdf"  target="_blank">Lecture 26: GPU Reduction; GPU Prefix Sum (Pt.1).</a></td>
+	</tr>
+	
+	<tr>
+	<td style="width:110px">Nov 30, 2022</td>
+	<td><a href="/teaching/CS380/CS380_fall2022_lecture_27.pdf"  target="_blank">Lecture 27: GPU Prefix Sum (Pt.2); Tensor Core Programming.</a></td>
+	</tr>
+	
+	</tbody>
+	</table>
+</details>
+
+
 
 <details>
 	<summary>Fall 2021</summary>
