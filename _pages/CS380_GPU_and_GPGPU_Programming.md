@@ -238,23 +238,32 @@ Prof. Markus Hadwiger
 
 <tr>
 <td>
+<img src="{{ site.url }}/images/Book_PMPP.jpg" style="width:40%; float:left;">
+</td>
+<td>
 <img src="{{ site.url }}/images/Book_GLSLC.jpg" style="width:40%; float:left;">
 </td>
 <td>
-<img src="{{ site.url }}/images/Book_PMPP.jpg" style="width:40%; float:left;">
+<img src="{{ site.url }}/images/vpg.jpg" style="width:40%; float:left;">
 </td>
+<td>
+<img src="{{ site.url }}/images/vcb.jpg" style="width:40%; float:left;">
+</td>
+
 </tr>
 
 <tr>
-<td><a href="https://www.oreilly.com/library/view/opengl-4-shading/9781789342253/"  target="_blank">OpenGL 4 shading language cookbook (needs KAUST sign in)</a></td>
+<td><a href="https://www-sciencedirect-com.kaust.idm.oclc.org/book/9780323912310/programming-massively-parallel-processors"  target="_blank">Programming massively parallel processors</a></td>
+<td><a href="https://www.oreilly.com/library/view/opengl-4-shading/9781789342253/" target="_blank">OpenGL 4 shading language cookbook (needs KAUST sign in)</a></td>
 <td><a href="https://learning.oreilly.com/library/view/vulkantm-programming-guide/9780134464701/"  target="_blank">Vulkan Programming Guide(needs KAUST sign in)</a></td>
 <td><a href="https://learning.oreilly.com/library/view/vulkantm-programming-guide/9781786468154/"  target="_blank">Vulkan Cookbook (needs KAUST sign in)</a></td>	
-<td><a href="https://www-sciencedirect-com.kaust.idm.oclc.org/book/9780323912310/programming-massively-parallel-processors"  target="_blank">Programming massively parallel processors</a></td>
 </tr>
 
 <tr>
-<td>For the Graphics part</td>
-<td>For the GPGPU part</td>
+<td>Compute part - CUDA</td>
+<td>Graphics part - OpenGL</td>
+<td>Graphics part - Vulkan</td>
+<td>Graphics part - Vulkan</td>
 </tr>
 
 </tbody>
