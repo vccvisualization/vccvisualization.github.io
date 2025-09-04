@@ -73,6 +73,12 @@ Prof. Markus Hadwiger
 <td style="width:110px">Sept 1, 2025</td>
 <td><a href="/teaching/CS380/CS380_fall2025_lecture_01.pdf"  target="_blank">Lecture 1: Introduction, Pt. 1.</a></td>
 </tr>
+
+<tr>
+<td style="width:110px">Sept 4, 2025</td>
+<td><a href="/teaching/CS380/CS380_fall2025_lecture_02.pdf"  target="_blank">Lecture 2: Introduction, Pt. 2.</a></td>
+</tr>
+
 </tbody>
 </table>
 
