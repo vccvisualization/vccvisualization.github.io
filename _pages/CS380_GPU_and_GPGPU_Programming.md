@@ -80,7 +80,7 @@ Prof. Markus Hadwiger
 </tr>
 
 <tr>
-<td style="width:110px">Sep 8, 2024</td>
+<td style="width:110px">Sep 8, 2025</td>
 <td><a href="/teaching/CS380/CS380_fall2025_lecture_03.pdf"  target="_blank">Lecture 3: GPU Architecture, Pt. 1.</a></td>
 </tr>
 
