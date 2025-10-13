@@ -129,6 +129,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2025_lecture_12.pdf"  target="_blank">Lecture 12: GPU Compute APIs, Pt. 2.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Oct 13, 2025</td>
+<td><a href="/teaching/CS380/CS380_fall2025_lecture_13.pdf"  target="_blank">Lecture 13: GPU Compute APIs, Pt. 3.</a></td>
+</tr>
+
 </tbody>
 </table>
 
