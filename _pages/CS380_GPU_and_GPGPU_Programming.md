@@ -144,6 +144,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2025_lecture_15.pdf"  target="_blank">Lecture 15: CUDA Memories, Pt. 2.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Oct 27, 2025</td>
+<td><a href="/teaching/CS380/CS380_fall2025_lecture_16.pdf"  target="_blank">Lecture 16: CUDA Memories, Pt. 3.</a></td>
+</tr>
+
 </tbody>
 </table>
 
