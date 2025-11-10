@@ -154,6 +154,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2025_lecture_17.pdf"  target="_blank">Lecture 17: GPU Parallel Reduction; Shuffle Instructions, Pt. 1.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Nov 10, 2025</td>
+<td><a href="/teaching/CS380/CS380_fall2025_lecture_18.pdf"  target="_blank">Lecture 18: Shuffle Instructions, Pt. 2; GPU Parallel Prefix Sum.</a></td>
+</tr>
+
 </tbody>
 </table>
 
