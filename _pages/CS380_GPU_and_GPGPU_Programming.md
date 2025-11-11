@@ -159,6 +159,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2025_lecture_18.pdf"  target="_blank">Lecture 18: Shuffle Instructions, Pt. 2; GPU Parallel Prefix Sum, Pt. 1.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Nov 11, 2025</td>
+<td><a href="/teaching/CS380/CS380_fall2025_lecture_19.pdf"  target="_blank">Lecture 19: GPU Parallel Prefix Sum, Pt. 2; GPU Texturing, Pt. 1.</a></td>
+</tr>
+
 </tbody>
 </table>
 
