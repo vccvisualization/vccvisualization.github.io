@@ -19,7 +19,7 @@ name:       Reem Alghamdi
 role:       PhD Student
 
 #link to your image
-image:      ./images/people/alghamdi.png
+image:      ./images/people/person.jpg
 
 #your email address
 email:      reem.alghamdi@kaust.edu.sa
