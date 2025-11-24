@@ -184,6 +184,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2025_lecture_23.pdf"  target="_blank">Lecture 23: GPU Texturing, Pt. 5.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Nov 24, 2025</td>
+<td><a href="/teaching/CS380/CS380_fall2025_lecture_24.pdf"  target="_blank">Lecture 24: GPU Virtual Texturing.</a></td>
+</tr>
+
 </tbody>
 </table>
 
