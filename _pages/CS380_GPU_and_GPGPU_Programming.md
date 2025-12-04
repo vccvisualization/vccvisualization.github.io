@@ -194,6 +194,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2025_lecture_25.pdf"  target="_blank">Lecture 25: GPU Virtual Geometry (and more Virtual Texturing).</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Dec 4, 2025</td>
+<td><a href="/teaching/CS380/CS380_fall2025_lecture_26.pdf"  target="_blank">Lecture 26: Programming Tensor Cores.</a></td>
+</tr>
+
 </tbody>
 </table>
 
