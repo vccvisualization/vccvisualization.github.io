@@ -199,6 +199,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2025_lecture_26.pdf"  target="_blank">Lecture 26: Programming Tensor Cores.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Dec 8, 2025</td>
+<td><a href="/teaching/CS380/CS380_fall2025_lecture_27.pdf"  target="_blank">Lecture 27: Neural Shading on GPUs.</a></td>
+</tr>
+
 </tbody>
 </table>
 
