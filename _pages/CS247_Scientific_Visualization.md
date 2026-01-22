@@ -5,7 +5,7 @@ tags:
 - Course
 ---
 <div style='text-align: center;'>
-<h4> Markus Hadwiger, Alberto Jaspe, Amani Ageeli </h4>
+<h4> Markus Hadwiger, Alberto Jaspe, Julio Rey Ramirez </h4>
 </div>
 
 <style>
