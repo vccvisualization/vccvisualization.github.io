@@ -34,8 +34,8 @@ CS 247. Scientific Visualization (3-0-3) Prerequisites: Linear algebra, basic ca
 
 ### Hours and Location
 
-Sunday, 10:15 - 11:30, Bldg 9, Room 4229.<br/>
-Wednesday, 10:15 - 11:30, Bldg 9, Room 4229.
+Sunday, 10:00 - 11:30, Bldg 9, Room 3123.<br/>
+Wednesday, 10:00 - 11:30, Bldg 9, Room 3123.
 
 ### Instructor
 
@@ -45,16 +45,16 @@ Prof. Markus Hadwiger
 
 <div class="row">
   <div class="column" style='text-align: center;'>
-    <a href="{{ site.url }}/people/hadwiger"><img src="{{ site.url }}/images/people/hadwiger.jpg" alt="Hadwiger" style="width:66%; border-radius: 50%;"></a>
+    <a href="{{ site.url }}/people/hadwiger"><img src="{{ site.url }}/images/people/hadwiger.jpg" alt="Markus" style="width:66%; border-radius: 50%;"></a>
 	<h4>Markus Hadwiger</h4>
   </div>
   <div class="column" style='text-align: center;'>
-    <a href="{{ site.url }}/people/jaspe"><img src="{{ site.url }}/images/people/jaspe.jpg" alt="Jaspe" style="width:66%; border-radius: 50%;"></a>
+    <a href="{{ site.url }}/people/jaspe"><img src="{{ site.url }}/images/people/jaspe.jpg" alt="Alberto" style="width:66%; border-radius: 50%;"></a>
 	<h4>Alberto Jaspe</h4>
   </div>
   <div class="column" style='text-align: center;'>
-    <a href="{{ site.url }}/people/ageeli"><img src="{{ site.url }}/images/people/ageeli.jpg" alt="Ageeli" style="width:66%; border-radius: 50%;"></a>
-	<h4>Amani Ageeli</h4>
+    <a href="{{ site.url }}/people/reyramirez"><img src="{{ site.url }}/images/people/reyramirez.jpg" alt="Julio" style="width:66%; border-radius: 50%;"></a>
+	<h4>Julio Rey Ramirez</h4>
   </div>
 </div>
 
@@ -63,6 +63,21 @@ Prof. Markus Hadwiger
 <a href="{{ site.url }}/people/jaspe">Alberto</a> will give you access.
 
 ### Slides (spring 2025)
+
+<h6>PART I: Introduction and Basics</h6>
+
+<table>
+<tbody>
+
+<tr>
+<td style="width:110px">Jan 25, 2025</td>
+<td><a href="" target="_blank">Lecture 1: Introduction.</a></td>
+</tr>
+
+</tbody>
+</table>
+
+### Old slides (spring 2025)
 
 <h6>PART I: Introduction and Basics</h6>
 
