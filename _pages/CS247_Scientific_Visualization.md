@@ -53,7 +53,7 @@ Prof. Markus Hadwiger
 	<h4>Alberto Jaspe</h4>
   </div>
   <div class="column" style='text-align: center;'>
-    <a href="{{ site.url }}/people/reyramirez"><img src="{{ site.url }}/images/people/reyramirez.jpg" alt="Julio" style="width:66%; border-radius: 50%;"></a>
+    <a href="{{ site.url }}/people/reyramirez"><img src="{{ site.url }}/images/people/reyramirez.png" alt="Julio" style="width:66%; border-radius: 50%;"></a>
 	<h4>Julio Rey Ramirez</h4>
   </div>
 </div>
