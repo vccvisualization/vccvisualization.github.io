@@ -62,7 +62,7 @@ Prof. Markus Hadwiger
 
 <a href="{{ site.url }}/people/jaspe">Alberto</a> will give you access.
 
-### Slides (spring 2025)
+### Slides (spring 2026)
 
 <h6>PART I: Introduction and Basics</h6>
 
@@ -70,8 +70,8 @@ Prof. Markus Hadwiger
 <tbody>
 
 <tr>
-<td style="width:110px">Jan 25, 2025</td>
-<td><a href="" target="_blank">Lecture 1: Introduction.</a></td>
+<td style="width:110px">Jan 25, 2026</td>
+<td>Lecture 1: Introduction.</td>
 </tr>
 
 </tbody>
