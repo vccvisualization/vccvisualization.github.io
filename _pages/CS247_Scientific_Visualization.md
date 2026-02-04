@@ -84,6 +84,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS247/CS247_spring2026_lecture_03.pdf" target="_blank">Lecture 3: The Visualization Pipeline; Data Representation, Pt.1.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Feb 4, 2026</td>
+<td><a href="/teaching/CS247/CS247_spring2026_lecture_04.pdf" target="_blank">Lecture 4: Data Representation, Pt.2.</a></td>
+</tr>
+
 </tbody>
 </table>
 
