@@ -112,6 +112,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS247/CS247_spring2026_lecture_07.pdf" target="_blank">Lecture 7: Data Representation, Pt.5; Scalar Field Visualization, Pt.1.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Feb 18, 2026</td>
+<td><a href="/teaching/CS247/CS247_spring2026_lecture_08.pdf" target="_blank">Lecture 8: Scalar Field Visualization, Pt.2.</a></td>
+</tr>
+
 </tbody>
 </table>
 
