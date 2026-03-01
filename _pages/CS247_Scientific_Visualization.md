@@ -122,6 +122,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS247/CS247_spring2026_lecture_09.pdf" target="_blank">Lecture 9: Scalar Field Visualization, Pt.3.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Mar 1, 2026</td>
+<td><a href="/teaching/CS247/CS247_spring2026_lecture_10.pdf" target="_blank">Lecture 10: Scalar Field Visualization, Pt.4.</a></td>
+</tr>
+
 </tbody>
 </table>
 
