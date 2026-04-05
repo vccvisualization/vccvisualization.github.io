@@ -147,6 +147,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS247/CS247_spring2026_lecture_14.pdf" target="_blank">Lecture 14: Volume Rendering, Pt.1.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Apr 1, 2026</td>
+<td><a href="/teaching/CS247/CS247_spring2026_lecture_15.pdf" target="_blank">Lecture 15: Volume Rendering, Pt.2.</a></td>
+</tr>
+
 </tbody>
 </table>
 
