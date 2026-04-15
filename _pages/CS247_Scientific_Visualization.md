@@ -170,6 +170,19 @@ Prof. Markus Hadwiger
 </tbody>
 </table>
 
+<h6>PART III: Vector Field Visualization</h6>
+
+<table>
+<tbody>
+
+<tr>
+<td style="width:110px">Apr 15, 2026</td>
+<td><a href="/teaching/CS247/CS247_spring2026_lecture_19.pdf" target="_blank">Lecture 19: Vector Field / Flow Visualization, Pt.1.</a></td>
+</tr>
+
+</tbody>
+</table>
+
 ### Old slides (spring 2025)
 
 <h6>PART I: Introduction and Basics</h6>
