@@ -14,7 +14,7 @@ title:      >
  Interactive Volumetric Visual Analysis of Glycogen-derived Energy Absorption in Nanometric Brain Structures
 
 #include in selected publications on front page (optional, delete line if not applicable)
-display:	selected
+#display:	selected
 
 #list all publication authors in correct order
 authors:
