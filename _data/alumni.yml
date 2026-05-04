@@ -1,4 +1,18 @@
-﻿- name:   Ronell Sicat
+﻿- name:   Ondrej Strnad
+  prefix: Dr.
+  role:   Former Research Scientist<br>KAUST
+  image:  ./images/people/strnad.jpg
+  url:    ./alumni/strnad/
+  #info:  todo
+
+- name:   Amani Ageeli
+  prefix: Dr.
+  role:   Former PhD Student<br>KAUST
+  image:  ./images/people/ageeli.jpg
+  url:    ./alumni/ageeli/
+  #info:  todo
+
+- name:   Ronell Sicat
   prefix: Dr.
   role:   Visualization Scientist<br>KAUST
   image:  ./images/people/sicat.jpg
