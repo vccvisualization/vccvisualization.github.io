@@ -41,7 +41,7 @@
 
 - name:   Marco Agus
   prefix: Prof. Dr.
-  role:   Assistant Professor<br>College of Science and Engineering, HBKU
+  role:   Associate Professor<br>College of Science and Engineering, HBKU
   image:  ./images/people/agus.jpg
   url:    ./alumni/agus/
   #info:   todo
@@ -69,7 +69,7 @@
 
 - name:   Thomas Höllt
   prefix: Prof. Dr.
-  role:   Assistant Professor<br>TU Delft
+  role:   Tenured Assistant Professor<br>TU Delft
   image:  ./images/people/hoellt.jpg
   url:    https://www.thomashollt.com
   #info:  todo

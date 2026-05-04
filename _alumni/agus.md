@@ -96,4 +96,4 @@ Proc. 21st International Workshop on Vision, Modeling and Visualization (VMV), (
 - Best paper IEEE Virtual Reality 2002  in Orlando, USA
  
 ### KAUST Affiliations
-​​V#isual Computing Center (VCC)
+​​Visual Computing Center (VCC)
