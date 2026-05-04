@@ -6,7 +6,7 @@ slug:       strnad
 layout: 	person
 
 #specifies index in the generated people list (if in doubt, set to 10)
-sequence:	4
+sequence:	1
 
 #your academic title (uncomment by removing the leading # if applicable)
 prefix:    Dr.
@@ -16,7 +16,7 @@ title:		Ondrej Strnad
 name:       Ondrej Strnad
 
 #your role in the vis group
-role:       Research Scientist
+role:       Alumnus (former Research Scientist)
 
 #link to your image
 image:      ./images/people/strnad.jpg
