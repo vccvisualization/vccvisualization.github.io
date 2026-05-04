@@ -9,14 +9,14 @@ layout: 	person
 sequence:	13
 
 #your academic title (uncomment by removing the leading # if applicable)
-#prefix:    MSc.
+prefix:    Dr.
 
 #your name (twice)
 title:		Xingdi Zhang
 name:       Xingdi Zhang
 
 #your role in the vis group
-role:       PhD Student
+role:       Postdoc
 
 #link to your image
 image:      ./images/people/zhang.jpg

@@ -24,11 +24,11 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   SIGGRAPH 2026 Conference Papers, to appear
+   ACM SIGGRAPH 2026 Conference Papers, to appear
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
-   SIGGRAPH 2026
+   ACM SIGGRAPH 2026
 
 #specify publication year
 year:       2026
