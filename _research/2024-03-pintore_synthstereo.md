@@ -29,7 +29,7 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   Computers & Graphics. Vol 119 (to appear)
+   Computers & Graphics, Vol.119, April, 103907
 
 #insert short venue (displayed in box in publication list)
 shortvenue: >
@@ -67,8 +67,9 @@ citation:   >
    &nbsp;&nbsp;author = {Pintore, Giovanni and Jaspe-Villanueva, Alberto and Hadwiger, Markus and Schneider, Jens and Agus, Marco and Marton, Fabio and Bettio, Fabio and Gobbetti, Enrico},<br>
    &nbsp;&nbsp;journal = {Computers & Graphics},<br>
    &nbsp;&nbsp;volume = {119},<br>
-   &nbsp;&nbsp;month = {March},<br>
+   &nbsp;&nbsp;month = {April},<br>
    &nbsp;&nbsp;doi = {10.1016/j.cag.2024.103907},<br>
+   &nbsp;&nbsp;pages = {103907},<br>
    &nbsp;&nbsp;year = {2024}<br>
   }
 
