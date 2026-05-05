@@ -26,7 +26,7 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   IEEE Transactions on Visualization and Computer Graphics, Vol.32, No.1 (Proceedings IEEE VIS 2025), to appear
+   IEEE Transactions on Visualization and Computer Graphics, Vol.32, No.1 (Proceedings IEEE VIS 2025), pp. 517-526
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
@@ -66,7 +66,7 @@ citation:   >
    &nbsp;&nbsp;year = {2026},<br>
    &nbsp;&nbsp;volume = {32},<br>
    &nbsp;&nbsp;number = {1},<br>
-   &nbsp;&nbsp;pages = {to appear}<br>
+   &nbsp;&nbsp;pages = {517--526}<br>
   }
 
 #insert links to additional material for the publication (optional)
