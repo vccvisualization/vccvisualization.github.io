@@ -26,7 +26,7 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   Computer Graphics Forum, Vol.44, No.3 (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2025), to appear
+   Computer Graphics Forum, Vol.44, No.3 (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2025), e70117
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
@@ -66,7 +66,7 @@ citation:   >
    &nbsp;&nbsp;journal = {Computer Graphics Forum (Proceedings Eurographics/IEEE Symposium on Visualization, Eurovis 2025)},<br>
    &nbsp;&nbsp;volume = {44},<br>
    &nbsp;&nbsp;number = {3},<br>
-   &nbsp;&nbsp;pages = {to appear},<br>
+   &nbsp;&nbsp;pages = {e70117},<br>
    &nbsp;&nbsp;year = {2025}<br>
   }
 
