@@ -190,6 +190,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS247/CS247_spring2026_lecture_21.pdf" target="_blank">Lecture 21: Vector Field / Flow Visualization, Pt.3.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">May 6, 2026</td>
+<td><a href="/teaching/CS247/CS247_spring2026_lecture_22.pdf" target="_blank">Lecture 22: Vector Field / Flow Visualization, Pt.4.</a></td>
+</tr>
+
 </tbody>
 </table>
 
