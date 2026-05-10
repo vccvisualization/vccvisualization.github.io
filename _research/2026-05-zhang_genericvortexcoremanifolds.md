@@ -50,7 +50,7 @@ thumbnail:  './publications/2026_zhang_genericvortexcoremanifolds_thumbnail.png'
 #talk:       'https://www.youtube.com/watch?v=qiLjCvrpdZU'
 
 #link to publication pdf (optional)
-#pdf:        './publications/2026_zhang_genericvortexcoremanifolds.pdf'
+pdf:        './publications/2026_zhang_genericvortexcoremanifolds.pdf'
 
 #link to appendix pdf (optional)
 #pdfsupp:    './publications/2026_zhang_genericvortexcoremanifolds_appendixes.pdf'
