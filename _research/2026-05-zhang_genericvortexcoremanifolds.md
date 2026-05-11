@@ -44,7 +44,7 @@ teaser:     './publications/2026_zhang_genericvortexcoremanifolds.png'
 thumbnail:  './publications/2026_zhang_genericvortexcoremanifolds_thumbnail.png'
 
 #link to publication video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
-video:       'https://youtu.be/QsAiYPGV2-M'
+video:       'https://www.youtube.com/watch?v=QsAiYPGV2-M'
 
 #link to talk video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
 #talk:       'https://www.youtube.com/watch?v=qiLjCvrpdZU'
