@@ -55,11 +55,11 @@ links:
 - Dipl.-Ing. (MS), Computer Science, Vienna University of Technology, Austria, 2000
 
 ### Professional Profile
-- 2021 - : Professor of Computer Science at King Abdullah University of Science and Technology, Thuwal, Saudi Arabia.
-- 2014 - 2021: Associate Professor of Computer Science at King Abdullah University of Science and Technology, Thuwal, Saudi Arabia.
+- 2021 – : Professor of Computer Science at King Abdullah University of Science and Technology, Thuwal, Saudi Arabia.
+- 2014 – 2021: Associate Professor of Computer Science at King Abdullah University of Science and Technology, Thuwal, Saudi Arabia.
 - 2009 – 2014: Assistant Professor of Computer Science at King Abdullah University of Science and Technology, Thuwal, Saudi Arabia.
 - 2004 – 2009: Senior Researcher for Visualization at the VRVis Research Center, Vienna, Austria.
-- 2000 - 2004: Researcher in Basic Research on Visualization and Medical Visualization, VRVis Research Center, Vienna, Austria.
+- 2000 – 2004: Researcher in Basic Research on Visualization and Medical Visualization, VRVis Research Center, Vienna, Austria.
 
 ### Awards
 - Honorable Mention for Best Paper Award at IEEE VIS 2025.
