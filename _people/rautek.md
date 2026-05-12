@@ -60,10 +60,13 @@ links:
 * March 2003 – Jan 2004: Teaching Assistant (part time), Vienna University of Technology, Austria
 
 ### Awards
-​KAUST Seed Fund 2013
+Honorable Mention for Best Paper Award at IEEE VIS 2025.
+Best Paper Award at IEEE VIS 2023.
+Honorable Mention for Best Paper Award at IEEE VIS 2021.
+Best Paper Award at IEEE VIS 2020 (IEEE Scientific Visualization 2020).
+​KAUST Seed Fund 2013.
 
 ### KAUST Affiliations
-* Visual Computing Center (VCC)
 * Computer, Electrical and Mathematical Sciences & Engineering (CEMSE)
 * Co-Founder of KAUST startup Visual Experience
 * Co-Founder of the Maker Space SDG​ at KAUST

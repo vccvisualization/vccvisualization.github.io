@@ -45,7 +45,7 @@ teaser:     './publications/2025_rey_mlsobservers.png'
 thumbnail:  './publications/2025_rey_mlsobservers_thumbnail.png'
 
 #link to publication video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
-#video:       'https://www.youtube.com/watch?v=c6CBPzRL_Tw'
+video:       'https://www.youtube.com/watch?v=ZY3XUtt__oM'
 
 #link to talk video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
 #talk:       'https://www.youtube.com/watch?v=qiLjCvrpdZU'
