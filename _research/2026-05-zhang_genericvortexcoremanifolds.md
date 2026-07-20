@@ -24,7 +24,7 @@ authors:
  
 #insert publication venue (displayed on publication page)
 venue:      >
-   ACM SIGGRAPH 2026 Conference Papers, to appear
+   ACM SIGGRAPH 2026 Conference Papers, Article No. 53
    
 #insert short venue (displayed in box in publication list)
 shortvenue: >
