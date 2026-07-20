@@ -60,10 +60,12 @@ citation:   >
   @inproceedings{Zhang2026GenericVortexCoreManifolds,<br>
    &nbsp;&nbsp;title = {Generic Variational Spacetime Optimization of Vortex Core Manifolds},<br>
    &nbsp;&nbsp;author = {Zhang, Xingdi and Rautek, Peter and Hadwiger, Markus},<br>
-   &nbsp;&nbsp;booktitle = {SIGGRAPH 2026 Conference Papers},<br>
+   &nbsp;&nbsp;booktitle = {Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference Conference Papers},<br>
+   &nbsp;&nbsp;series = {SIGGRAPH Conference Papers '26},<br>
    &nbsp;&nbsp;year = {2026},<br>
-   &nbsp;&nbsp;articleno = {193},<br>
-   &nbsp;&nbsp;numpages = {11}<br>
+   &nbsp;&nbsp;articleno = {53},<br>
+   &nbsp;&nbsp;numpages = {11},<br>
+   &nbsp;&nbsp;doi = {10.1145/3799902.3811230}<br>
   }
 
 #insert links to additional material for the publication (optional)
