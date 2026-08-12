@@ -5,7 +5,7 @@ tags:
 - Course
 ---
 <div style='text-align: center;'>
-<h4> Markus Hadwiger, Peter Rautek, Xingdi Zhang</h4>
+<h4> Markus Hadwiger, Peter Rautek, Julio Rey Ramirez</h4>
 </div>
 
 <style>
@@ -34,8 +34,8 @@ CS 380. GPU and GPGPU Programming (3-0-3) Recommended prerequisites: CS 248, CS 
 
 ### Hours and Location
 
-Monday, 10:00 - 11:30, Room 3120, Bldg. 9.<br/>
-Thursday, 10:00 - 11:30, Room 3120, Bldg. 9.
+Monday, 10:00 - 11:30, Room tba, Bldg. 9.<br/>
+Thursday, 10:00 - 11:30, Room tba, Bldg. 9.
 
 ### Instructor
 
@@ -53,8 +53,8 @@ Prof. Markus Hadwiger
 	<h4>Peter Rautek</h4>
   </div>
   <div class="column" style='text-align: center;'>
-    <a href="{{ site.url }}/people/zhang"><img src="{{ site.url }}/images/people/zhang.jpg" alt="Rey Ramirez" style="width:66%; border-radius: 50%;"></a>
-	<h4>Xingdi Zhang</h4>
+    <a href="{{ site.url }}/people/reyramirez"><img src="{{ site.url }}/images/people/reyramirez.jpg" alt="Rey Ramirez" style="width:66%; border-radius: 50%;"></a>
+	<h4>Julio Rey Ramirez</h4>
   </div>
   
 </div>
@@ -63,6 +63,19 @@ Prof. Markus Hadwiger
 
 <a href="{{ site.url }}/people/rautek">Peter</a> will give you access.
 
+
+### Slides (fall 2026)
+
+<table>
+<tbody>
+
+<tr>
+<td style="width:110px">Aug 31, 2026</td>
+<td>Lecture 1: Introduction, Pt. 1.</td>
+</tr>
+
+</tbody>
+</table>
 
 ### Slides (fall 2025)
 

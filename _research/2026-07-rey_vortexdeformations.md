@@ -51,7 +51,7 @@ thumbnail:  './publications/2026_rey_vortexcentricvis_thumbnail.png'
 #talk:       'https://www.youtube.com/watch?v=qiLjCvrpdZU'
 
 #link to publication pdf (optional)
-#pdf:        './publications/2026_rey_vortexcentricvis.pdf'
+pdf:        './publications/2026_rey_vortexcentricvis.pdf'
 
 #link to appendix pdf (optional)
 #pdfsupp:    './publications/2026_rey_vortexcentricvis_supp.pdf'
