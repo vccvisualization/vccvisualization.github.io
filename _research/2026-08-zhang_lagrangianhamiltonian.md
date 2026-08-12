@@ -52,7 +52,7 @@ thumbnail:  './publications/2026_zhang_lagrangianhamiltonian_thumbnail.png'
 #talk:       'https://www.youtube.com/watch?v=qiLjCvrpdZU'
 
 #link to publication pdf (optional)
-#pdf:        './publications/2026_zhang_lagrangianhamiltonian.pdf'
+pdf:        './publications/2026_zhang_lagrangianhamiltonian.pdf'
 
 #link to appendix pdf (optional)
 #pdfsupp:    './publications/2026_zhang_lagrangianhamiltonian_appendixes.pdf'
