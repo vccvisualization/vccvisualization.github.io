@@ -5,7 +5,7 @@ tags:
 - Course
 ---
 <div style='text-align: center;'>
-<h4> Markus Hadwiger, Peter Rautek, Julio Rey Ramirez</h4>
+<h4> Markus Hadwiger, Peter Rautek, Julio Rey Ramirez </h4>
 </div>
 
 <style>
@@ -45,18 +45,17 @@ Prof. Markus Hadwiger
 
 <div class="row">
   <div class="column" style='text-align: center;'>
-    <a href="{{ site.url }}/people/hadwiger"><img src="{{ site.url }}/images/people/hadwiger.jpg" alt="Hadwiger" style="width:66%; border-radius: 50%;"></a>
+    <a href="{{ site.url }}/people/hadwiger"><img src="{{ site.url }}/images/people/hadwiger.jpg" alt="Markus" style="width:66%; border-radius: 50%;"></a>
 	<h4>Markus Hadwiger</h4>
   </div>
   <div class="column" style='text-align: center;'>
-    <a href="{{ site.url }}/people/rautek"><img src="{{ site.url }}/images/people/rautek.jpg" alt="Rautek" style="width:66%; border-radius: 50%;"></a>
+    <a href="{{ site.url }}/people/rautek"><img src="{{ site.url }}/images/people/rautek.jpg" alt="Peter" style="width:66%; border-radius: 50%;"></a>
 	<h4>Peter Rautek</h4>
   </div>
   <div class="column" style='text-align: center;'>
-    <a href="{{ site.url }}/people/reyramirez"><img src="{{ site.url }}/images/people/reyramirez.jpg" alt="Rey Ramirez" style="width:66%; border-radius: 50%;"></a>
+    <a href="{{ site.url }}/people/reyramirez"><img src="{{ site.url }}/images/people/reyramirez.png" alt="Julio" style="width:66%; border-radius: 50%;"></a>
 	<h4>Julio Rey Ramirez</h4>
   </div>
-  
 </div>
 
 ### Programming assignments
