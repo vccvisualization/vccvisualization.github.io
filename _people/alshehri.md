@@ -16,7 +16,7 @@ title:		Waad Alshehri
 name:       Waad Alshehri
 
 #your role in the vis group
-role:       MS/PhD Student
+role:       PhD Student
 
 #link to your image
 image:      ./images/people/alshehri.jpg
