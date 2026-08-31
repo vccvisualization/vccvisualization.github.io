@@ -34,8 +34,8 @@ CS 380. GPU and GPGPU Programming (3-0-3) Recommended prerequisites: CS 248, CS 
 
 ### Hours and Location
 
-Monday, 10:00 - 11:30, Room tba, Bldg. 9.<br/>
-Thursday, 10:00 - 11:30, Room tba, Bldg. 9.
+Monday, 10:00 - 11:30, Room 4227, Bldg. 9.<br/>
+Thursday, 10:00 - 11:30, Room 4227, Bldg. 9.
 
 ### Instructor
 
