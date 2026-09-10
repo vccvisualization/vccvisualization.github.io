@@ -46,10 +46,10 @@ teaser:     './publications/2026_zhang_lagrangianhamiltonian.png'
 thumbnail:  './publications/2026_zhang_lagrangianhamiltonian_thumbnail.png'
 
 #link to publication video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
-#video:       'https://www.youtube.com/watch?v=WKqzLwZBlyM'
+video:       'https://www.youtube.com/watch?v=OLMWAtRwxBE'
 
 #link to talk video (optional): you can either upload the video to our website (insert local link) or host it on youtube or vimeo (in this case insert the youtube/vimeo link)
-#talk:       'https://www.youtube.com/watch?v=qiLjCvrpdZU'
+#talk:       'https://www.youtube.com/watch?v=OLMWAtRwxBE'
 
 #link to publication pdf (optional)
 pdf:        './publications/2026_zhang_lagrangianhamiltonian.pdf'
