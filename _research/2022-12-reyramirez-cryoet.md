@@ -29,7 +29,7 @@ authors:
 
 #insert publication venue (displayed on publication page)
 venue:      >
-   IEEE Transactions on Visualization and Computer Graphics
+   IEEE Transactions on Visualization and Computer Graphics, Vol.30, No.7, pp. 3331-3345
 
 #insert short venue (displayed in box in publication list)
 shortvenue: >
@@ -63,9 +63,9 @@ citation:   >
    &nbsp;&nbsp;title = {GPU Accelerated 3D Tomographic Reconstruction and Visualization from Noisy Electron Microscopy Tilt-Series},<br>
    &nbsp;&nbsp;author = {Ramirez, Julio Rey and Rautek, Peter and Bohak, Ciril and Strnad, Ondřej and Zhang, Zheyuan and Li, Sai and Viola, Ivan and Heidrich, Wolfgang},<br>
    &nbsp;&nbsp;journal = {IEEE Transactions on Visualization and Computer Graphics},<br>
-   &nbsp;&nbsp;number = {29},<br>
-   &nbsp;&nbsp;issue = {to appear},<br>
-   &nbsp;&nbsp;pages = {1--15},<br>
+   &nbsp;&nbsp;number = {30},<br>
+   &nbsp;&nbsp;issue = {7},<br>
+   &nbsp;&nbsp;pages = {3331--3345},<br>
    &nbsp;&nbsp;year = {2023},<br>
    &nbsp;&nbsp;doi = {10.1109/TVCG.2022.3230445}<br>
   }

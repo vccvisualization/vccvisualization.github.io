@@ -25,7 +25,7 @@ authors:
 
 #insert publication venue (displayed on publication page)
 venue:      >
-   IEEE Transactions on Visualization and Computer Graphics
+   IEEE Transactions on Visualization and Computer Graphics, Vol.31, No.12, pp. 10924-10941
 
 #insert short venue (displayed in box in publication list)
 shortvenue: >
@@ -39,7 +39,7 @@ abstract:   >
    Rendering huge biological scenes with atomistic detail presents a significant challenge in molecular visualization due to the memory limitations inherent in traditional rendering approaches. In this paper, we propose a novel method for the interactive rendering of massive molecular scenes based on hardware-accelerated ray tracing. Our approach circumvents GPU memory constraints by introducing virtual instantiation of full-detail scene elements. Using instancing significantly reduces memory consumption while preserving the full atomistic detail of scenes comprising trillions of atoms, with interactive rendering performance and completely free user exploration. We utilize coarse meshes as proxy geometries to approximate the overall shape of biological compartments, and access all atomistic detail dynamically during ray tracing. We do this via a novel adaptive technique utilizing a volumetric shell layer of prisms extruded around proxy geometry triangles, and a virtual volume grid for the interior of each compartment. Our algorithm scales to enormous molecular scenes with minimal memory consumption and the potential to accommodate even larger scenes. Our method also supports advanced effects such as clipping planes and animations. We demonstrate the efficiency and scalability of our approach by rendering tens of instances of Red Blood Cell and SARS-CoV-2 models theoretically containing more than 20 trillion atoms.
    
 #link to hi-res teaser image of publication (please make sure the image is wide, e.g. aspect ratio between 4:2 and 4:1)
-teaser:     './publications/2025_alharbi_nanouniverse_teaser.png'
+teaser:     './publications/2025_alharbi_nanouniverse.png'
    
 #link to smaller thumbnail image of publication (please make sure the aspect ratio is 3:2, suggested size is 150x100px)
 thumbnail:  './publications/2025_alharbi_nanouniverse_thumbnail.png'
