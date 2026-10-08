@@ -118,6 +118,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2026_lecture_10.pdf"  target="_blank">Lecture 10: GPU Architecture, Pt. 8.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Oct 8, 2026</td>
+<td>Lecture 11: Quiz #1.</td>
+</tr>
+
 </tbody>
 </table>
 
