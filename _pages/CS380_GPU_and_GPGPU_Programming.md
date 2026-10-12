@@ -123,6 +123,11 @@ Prof. Markus Hadwiger
 <td>Lecture 11: Quiz #1.</td>
 </tr>
 
+<tr>
+<td style="width:110px">Oct 12, 2026</td>
+<td><a href="/teaching/CS380/CS380_fall2026_lecture_12.pdf"  target="_blank">Lecture 12: GPU Architecture, Pt. 9.</a></td>
+</tr>
+
 </tbody>
 </table>
 
