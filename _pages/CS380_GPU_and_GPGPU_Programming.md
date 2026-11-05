@@ -148,6 +148,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2026_lecture_16.pdf"  target="_blank">Lecture 16: CUDA Memories, Pt. 3.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Nov 5, 2026</td>
+<td><a href="/teaching/CS380/CS380_fall2026_lecture_17.pdf"  target="_blank">Lecture 17: CUDA Memories, Pt. 4; GPU Parallel Reduction.</a></td>
+</tr>
+
 </tbody>
 </table>
 
