@@ -19,7 +19,7 @@ name:       Julio Rey Ramirez
 role:       PhD Student
 
 #link to your image
-image:      ./images/people/reyramirez.png
+image:      ./images/people/reyramirez.jpg
 
 #your email address
 email:      julio.reyramirez@kaust.edu.sa
