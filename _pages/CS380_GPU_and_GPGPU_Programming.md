@@ -168,6 +168,11 @@ Prof. Markus Hadwiger
 <td><a href="/teaching/CS380/CS380_fall2026_lecture_20.pdf"  target="_blank">Lecture 20: GPU Texturing, Pt. 1.</a></td>
 </tr>
 
+<tr>
+<td style="width:110px">Nov 24, 2026</td>
+<td><a href="/teaching/CS380/CS380_fall2026_lecture_21.pdf"  target="_blank">Lecture 21: GPU Texturing, Pt. 2.</a></td>
+</tr>
+
 </tbody>
 </table>
 
