@@ -72,9 +72,9 @@ citation:   >
 #insert links to additional material for the publication (optional)
 #links need a title, a URL and a type (this defines the link icon) which can be one of the following values: code, archive, files, slides or text (this is the default icon)
 links: 
-# - title: Slides (paper talk)
-#   type:  slides
-#   url:   './publications/2026_zhang_lagrangianhamiltonian_slides.pdf'
+ - title: Slides (paper talk)
+   type:  slides
+   url:   './publications/2026_zhang_lagrangianhamiltonian_slides.pdf'
  - title: Slides (invited talk)
    type:  slides
    url:   './publications/2026_zhang_lagrangianhamiltonian_slides_invited.pdf'
